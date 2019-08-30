@@ -88,9 +88,9 @@ Like. All the time free.
 Not like, _monthly subscription_ "free" or _if you can afford insurance_ "free",
 like free free. For ev-er-ey-bo-dy. For like, ever.
 
-# If you'd consider contributing to my projects and vision..
+# If you'd consider supporting my projects and vision on Patreon..
 
-## [Take the Red Pill](./another-page.html) or [Take the Red Pill](https://google.com).
+## [Take the Red Pill](https://patreon.com/motibytes) or [Take the Red Pill](https://patreon.com/motibytes).
 <br>
 <br>
 <br>

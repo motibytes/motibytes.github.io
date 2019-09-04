@@ -8,3 +8,6 @@ docs
 Icon
 *.bak
 assets
+*.gemspec
+Gemfile
+.DS_Store

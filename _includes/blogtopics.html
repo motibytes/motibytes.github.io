@@ -1,0 +1,9 @@
+<nav>
+   <h4>View posts by topic:
+
+     {% for item in site.data.blogtopics %}
+       <a href="{{ item.link }}" {% if page.url == item.link %}style="color: white;"{% endif %}>
+         {{ item.name }}
+       </a>
+     {% endfor %}
+</nav>

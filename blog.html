@@ -3,12 +3,17 @@ layout: default
 title: Blog
 ---
 <h1>blog</h1>
-
+<br>
+<!-- topics filters, -->
+{% include blogtopics.html %} <!---->
+<br>
 <ul>
   {% for post in site.posts %}
     <li>
-      <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+      <h3><a href="{{ post.url }}"> {{ post.title }}</a></h3>
+      <h5> {{ post.topic }} </h4>
       <p>{{ post.excerpt }}</p>
     </li>
   {% endfor %}
 </ul>
+<ul>

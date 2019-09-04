@@ -1,1 +1,16 @@
+title: James Byt.es
+description: The Decision Maker, projects and blog
+url: https://www.jamesbyt.es
+twitter:
+  username: BytesJames
+  card: summary
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-tactile
+social:
+   links:
+      - https://www.instagram.com/motibyt3s/
+      - https://www.patreon.com/motibytes
+      - https://twitter.com/bytesjames
+      - https://www.facebook.com/jamesbyt3s/
+      - https://github.com/kuz3/

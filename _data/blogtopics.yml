@@ -1,0 +1,10 @@
+- name: life
+  link: /topic_life.html
+- name: ideas
+  link: /topic_ideas.html
+- name: self
+  link: /topic_self.html
+- name: nerds
+  link: /topic_nerds.html
+- name: site updates
+  link: /topic_site_updates.html

@@ -12,4 +12,8 @@ This site is a collection of my [projects](./projects.html), my [plans](about.md
 
 <br>
 
+<br>
+
+<br>
+
 {% include recentposts.html %}

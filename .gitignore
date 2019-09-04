@@ -1,0 +1,10 @@
+_site
+.sass-cache
+Gemfile.lock
+*.gem
+script
+docs
+*.lock
+Icon
+*.bak
+assets

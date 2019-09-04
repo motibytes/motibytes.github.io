@@ -4,7 +4,7 @@ layout: testme
 
 # Welcome!
 
-This site is a collection of my [projects](./projects.html), my [plans](about.md), and things I am currently working on.
+This site is a collection of my [projects](./projects.html), my [plans](about.md), and bytes. 
 
 <br>
 

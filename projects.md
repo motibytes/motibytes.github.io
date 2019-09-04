@@ -3,14 +3,25 @@ layout: default
 ---
 
 ## Projects
+
 <dl>
 <dt>The Decision Maker</dt>
-<dd>insert link here </dd>
-</dl>
+<dd>  </dd>
 
-KEVIA(Github) - My hobby project!
-KELA - Motivational bot!
-KETA - My Daily Prayer bot!
+<dt>KEVIA(Github)</dt>
+<dd>My hobby project!  </dd>
+
+<dt>KELA </dt>
+<dd>Motivational bot! </dd>
+<dt>KETA </dt>
+<dd>My Daily Prayer bot! </dd>
+</dl>
+<!--
+./projects_thedecisionmaker.html
+ -
+
+KETA -
+-->
 _yay_
 
 [back](./)

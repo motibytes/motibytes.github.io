@@ -5,6 +5,7 @@ layout: default
 I am a writer, coder, web designer, writer, linux lover, free thinker.
 My focus is creation.
 
+<br>
 
 # I want to change the world.
 

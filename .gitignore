@@ -11,3 +11,4 @@ assets
 *.gemspec
 Gemfile
 .DS_Store
+.jekyll-cache

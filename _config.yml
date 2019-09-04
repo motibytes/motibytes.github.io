@@ -14,3 +14,5 @@ social:
       - https://twitter.com/bytesjames
       - https://www.facebook.com/jamesbyt3s/
       - https://github.com/kuz3/
+plugins:
+  - jekyll-sitemap

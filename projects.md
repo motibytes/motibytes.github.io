@@ -19,13 +19,22 @@ layout: default
 <dd>My Daily Prayer bot! </dd>
 <br>
 
+<dt>The Banks of Speechlessness </dt>
+<dd>System for creating your own random speaking bot! </dd>
+<br>
 </dl>
+
+_yay_
+
+<a href="https://patreon.com/motibytes"> Support me on Patreon!</a>
+
+
 <!--
 ./projects_thedecisionmaker.html
  -
 
 KETA -
 -->
-_yay_
-
+<!--
 [back](./)
+--> 

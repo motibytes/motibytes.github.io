@@ -1,13 +1,17 @@
 <h1>Featured Byte</h1>
+<ul>
 {% for post in site.posts limit:1 %}
-  <li>
-    <a href="{{ post.url }}"> {{ post.title }}  </a>
-    {{ post.excerpt }}
-  </li>
-
+   {% if post.featured %}
+      <li>
+            <a href="{{ post.url }}"> {{ post.title }}</a>
+            {{ post.excerpt }}
+      </li>
+   {% endif %}
 {% endfor %}
+</ul>
 <h1>Recent Bytes</h1>
 {% for post in site.posts limit:2 %}<!--offset:1 -->
+<!-- technically broken html, <ul> should be required here --> 
 <li>
   <a href="{{ post.url }}"> {{ post.title }} - {{ post.date | date_to_string }} </a>
   {{ post.excerpt }}

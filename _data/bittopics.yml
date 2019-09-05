@@ -1,0 +1,12 @@
+- name: life
+  link: /bit_life.html
+- name: connections
+  link: /bit_connections.html
+- name: ideas
+  link: /bit_ideas.html
+- name: self
+  link: /bit_self.html
+- name: nerds
+  link: /bit_nerds.html
+- name: site updates
+  link: /bit_site_updates.html

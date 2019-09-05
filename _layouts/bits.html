@@ -1,14 +1,15 @@
 ---
-layout: default
-title: Bytes
+layout: noheader
+title: bytes by page.bit
 ---
-<h1>blog</h1>
+<!-- I made this!!!!!!!!!!!!!!! yay --> 
+<h1>bytes</h1>
 <br>
 <!-- topic bar, for topics in topic folder show all links.
 basically a navbar. -->
 <ul>
 {% for post in site.posts %}
-   {% if post.topic == "life" %}
+   {% if post.topic ==page.bit %}
       <li>
             <h3><a href="{{ post.url }}"> {{ post.title }}</a></h3>
       </li>

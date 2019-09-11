@@ -3,7 +3,7 @@ layout: post
 author: kuz3
 ---
 
-# The world rewards the listener.
+<!-- The world rewards the listener. --> 
 
 People struggle to connect, and it almost seems
 the more they communicate the more isolated they feel.

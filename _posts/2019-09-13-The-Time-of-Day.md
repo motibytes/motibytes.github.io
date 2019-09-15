@@ -3,7 +3,7 @@ layout: post
 author: kuz3
 ---
 
-<!-- The world rewards the listener. --> 
+<!-- The world rewards the listener. -->
 
 People struggle to connect, and it almost seems
 the more they communicate the more isolated they feel.
@@ -11,7 +11,9 @@ The world isn't communicating because the world isn't listening.
 We think that if we say more, if we act differently,
 that is how we will be recognized.
 
-Yet, the world doesn't need more voices. People need someone to listen.
+# Yet, the world doesn't need more voices. 
+
+People need someone to listen.
 When we listen, a strange phenomenon occurs. The less one speaks, it seems the more others will open up. They stop talking about the weather. They don't
 attempt to force a meaningless interaction. They start to open up.
 

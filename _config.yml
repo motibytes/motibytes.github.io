@@ -5,7 +5,7 @@ twitter:
   username: BytesJames
   card: summary
 show_downloads: true
-google_analytics:
+google_analytics: UA-133451816-2  
 theme: jekyll-theme-tactile
 social:
    links:

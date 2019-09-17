@@ -2,6 +2,7 @@
 layout: default
 ---
 (unfinished page, last updated 9-10-19)
+
 ## Projects
 
 <dl>
@@ -29,12 +30,5 @@ _yay_
 <a href="https://patreon.com/motibytes"> Support me on Patreon!</a>
 
 
-<!--
-./projects_thedecisionmaker.html
- -
-
-KETA -
--->
-<!--
-[back](./)
--->
+## Ideas
+   [collection](/ideas.html)

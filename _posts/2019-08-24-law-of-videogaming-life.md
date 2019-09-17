@@ -2,6 +2,8 @@
 title: LAW OF VIDEOGAMING LIFE
 topic: life
 layout: post
+author: kuz3
+
 ---
 
 Imagine your life as a video game. (SECRET: it is)

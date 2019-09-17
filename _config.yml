@@ -16,4 +16,6 @@ social:
       - https://github.com/kuz3/
 plugins:
   - jekyll-sitemap
+comments:  
+   provider: facebook
 fb_comment_id: "1043896632668232"

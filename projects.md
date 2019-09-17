@@ -6,7 +6,7 @@ layout: default
 
 <dl>
 <dt>The Decision Maker</dt>
-<dd>[Home Page](/projects_thedecisionmaker.html) </dd>
+<dd><a href="/projects_thedecisionmaker.html)">Home Page</a> </dd>
 <br>
 <dt>KEVIA(Github)</dt>
 <dd>My hobby project!  </dd>

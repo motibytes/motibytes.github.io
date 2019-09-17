@@ -5,7 +5,7 @@ twitter:
   username: BytesJames
   card: summary
 show_downloads: true
-google_analytics: UA-133451816-2  
+google_analytics: UA-133451816-2
 theme: jekyll-theme-tactile
 social:
    links:
@@ -16,3 +16,4 @@ social:
       - https://github.com/kuz3/
 plugins:
   - jekyll-sitemap
+fb_comment_id: "1043896632668232"

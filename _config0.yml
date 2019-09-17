@@ -1,0 +1,36 @@
+title: James Byt.es
+description: a byte-sized blog
+url: https://www.jamesbyt.es
+twitter:
+  username: BytesJames
+  card: summary
+show_downloads: true
+google_analytics: UA-133451816-2
+theme: jekyll-theme-tactile
+social:
+   links:
+      - https://www.instagram.com/motibyt3s/
+      - https://www.patreon.com/motibytes
+      - https://twitter.com/bytesjames
+      - https://www.facebook.com/jamesbyt3s/
+      - https://github.com/kuz3/
+plugins:
+  - jekyll-sitemap
+comments:
+   provider: "staticman"
+   staticman:
+       allowedFields          : ['name', 'email', 'url', 'message']
+       branch                 : # "master", "gh-pages"
+       commitMessage          : "New comment."
+       filename               : comment-{@timestamp}
+       format                 : "yml"
+       moderation             : true
+       path                   : "_data/comments/{options.slug}"
+       requiredFields         : ['name', 'email', 'message']
+       transforms:
+         email                : "md5"
+       generatedFields:
+         date:
+      type               : "date"
+      options:
+        format           : "iso8601"

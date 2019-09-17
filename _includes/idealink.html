@@ -1,9 +1,10 @@
 <nav>
-   <h4>bytes by topic:
+   <h4>ideas
 
      {% for item in site.data.ideas %}
+     <br>
        <a href="{{ item.link }}" {% if page.url == item.link %}style="color: white;"{% endif %}>
-          -{{ item.name }}-
+          {{ item.name }}
        </a>
      {% endfor %}
-</nav>
+     

@@ -10,18 +10,18 @@ layout: default
 <dd><a href="/projects_thedecisionmaker.html)">Home Page</a> </dd>
 <br>
 <dt>KEVIA(Github)</dt>
-<dd>My hobby project!  </dd>
+<dd><a href="https://github.com/kuz3/KEVIA)">Home Page</a>My hobby project!  </dd>
 <br>
 <dt>KELA </dt>
-<dd>Motivational bot! </dd>
+<dd><a href="https://jamesbytes.trinket.io/sites/kela)">Home Page</a>Motivational bot! </dd>
 <br>
 
 <dt>KETA </dt>
-<dd>My Daily Prayer bot! </dd>
+<dd> <a href="https://jamesbytes.trinket.io/sites/keta)">Daily Prayer bot! </a>
 <br>
 
 <dt>The Banks of Speechlessness </dt>
-<dd>System for creating your own random speaking bot! </dd>
+<dd>System for creating your own random speaking bot! coming..whenever I start to procrastinate enough </dd>
 <br>
 </dl>
 

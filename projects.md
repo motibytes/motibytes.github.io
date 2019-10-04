@@ -1,34 +1,36 @@
 ---
 layout: default
 ---
-(unfinished page, last updated 9-10-19)
 
 ## Projects
 
-<dl>
+
 <dt>The Decision Maker</dt>
-<dd><a href="/projects_thedecisionmaker.html)">Home Page</a> </dd>
-<br>
+<dd><a href="/projects_thedecisionmaker.html">Home Page</a> </dd>
+<dt>&nbsp;</dt>
 <dt>KEVIA(Github)</dt>
-<dd><a href="https://github.com/kuz3/KEVIA)">Home Page</a>My hobby project!  </dd>
-<br>
+<dd><a href="https://github.com/kuz3/KEVIA">My hobby project!</a>  </dd>
+My virtual assistant
+
 <dt>KELA </dt>
-<dd><a href="https://jamesbytes.trinket.io/sites/kela)">Home Page</a>Motivational bot! </dd>
-<br>
-
+<dd><a href="https://jamesbytes.trinket.io/sites/kela">Motivational bot!</a> </dd>
+<dt>&nbsp;</dt>
 <dt>KETA </dt>
-<dd> <a href="https://jamesbytes.trinket.io/sites/keta)">Daily Prayer bot! </a>
-<br>
-
+<dd><a href="https://jamesbytes.trinket.io/sites/keta">Daily Prayer bot! </a> </dd>
+<dt>&nbsp;</dt>
 <dt>The Banks of Speechlessness </dt>
-<dd>System for creating your own random speaking bot! coming..whenever I start to procrastinate enough </dd>
+<dd>System for creating your own random speaking bot! ..release TBD </dd>
 <br>
-</dl>
 
-_yay_
+# [Support my work on Patreon!](https://patreon.com/motibytes)
 
-<a href="https://patreon.com/motibytes"> Support me on Patreon!</a>
+<br>
 
 
+<!--
 ## Ideas
-   [collection](/ideas.html)
+
+   under dev
+    [collection()](/ideas.html) -->
+
+(last update: 09.28.19)

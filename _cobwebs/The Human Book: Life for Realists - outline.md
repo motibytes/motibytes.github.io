@@ -1,6 +1,8 @@
 Table of Contents
 
 1: Intro
+...life comes full circle.
+
 2: Mastery  
 3: Reality
 4: God

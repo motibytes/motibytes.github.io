@@ -2,9 +2,8 @@ Table of Contents
 
 1: Intro
 2. Full Circle
-3.
-2: Mastery  
-3: Reality
+3. Mastery  
+4: Reality
 4: God
 5: Loving Yourself
 6: It's Okay
@@ -19,7 +18,7 @@ Table of Contents
 14: The Point of Life
 
 XX: Concepts: Time, Money, Trauma, Choices, Self
-XX:
+XX: Jesus Paradox
 XX: For nonrealists: Design
 
 ....ritual appreciation... is the key... to changing your perspective ...

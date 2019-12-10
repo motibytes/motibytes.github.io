@@ -2,6 +2,8 @@
 layout: post
 ---
 
+draft in progress
+
 When are we going to finally talk about this.
 This one observable phenomenon always transpiring all around us.
 The one thing we see every moment but have difficulty putting into
@@ -60,4 +62,4 @@ truth that none of this is real. That everything we hear and perceive and sense 
 own minds.
 
 pain is part of this illusion. once you break out of it, it's..something else
-entirely... 
+entirely...

@@ -39,10 +39,9 @@ Now, I don't have enough love in me to love a person like a sexual predator. I c
 
 The amount of love required to love someone who has been unloved for that long and has reached that point of being deprived from the need of love, far exceeds the amount of love and compassion I have to give. I do not have enough compassion in me to give them compassion. I do not have enough love in me to forgive a person like that.
 
-Notice that by talking about this person needing love, I am not talking about condoning their actions. We usually look at a person's actions and know that we do not agree with their actions, and stop there. If we look at the person, we can see they need more love. We can recognize that a person needs more love, without condoning the negative and damaging actions they have chosen to make that we disagree with.
+Notice that by talking about this person needing love, I am not talking about condoning their actions. We usually look at a person's actions and know that we do not agree with their actions, and stop there. If we look at the person, we can see they need more love. Recognizing that is the solution does not require us to accept or even understand their behavior.
 
-In the example, that person should pay for their crimes. That doesn't mean we can't recognize that the answer is always love. In following the example, perhaps we could find ways to ensure that isolated children are found and given proper support in loving homes, shown light instead of being left alone in the dark.
+In the example, that person should pay for any crimes they've committed. That doesn't mean we can't recognize that the answer is always love. In following the example, perhaps we could find ways to ensure that future isolated children are found and given proper support in loving homes, shown light instead of being left alone in the dark.
 
-
-Accepting others is not about agreeing with their actions, or understanding them, but recognizing them as human. This doesn't help others so much as it helps us accept ourselves as well. We find that what we need is more love, to be able to love others more. To love and accept ourselves more is to be able to love and accept those that are different from us, those we do not understand.
-Looking inward, we can recognize that we need more light inside ourselves to fight the darkness.
+Accepting others is not about agreeing with their actions, or understanding them, but recognizing them as human and loving them still. This doesn't help others so much as it helps us accept ourselves as well. We find that what we need is more love, to be able to love others more. To love and accept ourselves more is to be able to love and accept those that are different from us, those we do not understand.
+Looking inward, we can recognize that we need more light inside ourselves if we are to fight the darkness we perceive outside.

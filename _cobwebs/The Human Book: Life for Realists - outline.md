@@ -14,10 +14,12 @@ Table of Contents
 11: Guilt and Shame - Sin no more
 12: Love
 13: A Common Drama
+
 --..
 14: The Point of Life
 
 XX: Concepts: Time, Money, Trauma, Choices, Self
+XX: Accepting                                       (-X)
 XX: Jesus Paradox
 XX: For nonrealists: Design
 

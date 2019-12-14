@@ -1,6 +1,6 @@
 ---
 layout: post
-author:
+author: James Bytes
 title:
 ---
 

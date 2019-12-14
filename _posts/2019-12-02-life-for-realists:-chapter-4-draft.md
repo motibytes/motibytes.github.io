@@ -1,5 +1,7 @@
 ---
 layout: post
+author: James Bytes
+
 ---
 
 draft in progress

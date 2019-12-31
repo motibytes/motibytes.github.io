@@ -14,7 +14,7 @@ Unfortunately this feeling of being Joe extends beyond my thoughts. I feel that 
 From watching Joe be perceived by others as a good man and a
 father, I feel that others might be able to perceive me the same way, no matter how damaged I am. I recognize that like Joe, I am damaged and broken and desire to connect with others.
 
-Alas, Joe happens to be a freak. A weirdo. I don not relate my own feelings of being a freak and a weirdo to Joe's. Instead, his unique brand of freak feels that it has attached itself to me. I feel it inside of me. I feel it on my skin. I see with my eyes my body as
+Alas, Joe happens to be a freak. A weirdo. I do not relate my own feelings of being a freak and a weirdo to Joe's. Instead, his unique brand of freak feels that it has attached itself to me. I feel it inside of me. I feel it on my skin. I see with my eyes my body as
 grotesque and disgusting as Joe's. I feel his age, the death creeping onto
 a man in his late 30's. I feel his weakness, his lanky, skinny body. I feel his toxic masculinity. I am connected with his distaste for others which likely reflects his feelings about himself. His hopes that he can be better are my own. His continual questioning of his own deeper intentions feels right at home. I feel my own rage boiling deep inside me as I could
 see it run through his blood. I feel that I match his capacities and scare myself, knowing that I am also capable of the sins he has committed. I feel that I am his hollow, bony, pale white shell, a dead thing devoid of life and soul. I feel devoid of empathy and remorse. I feel his desire. His hatred. His compassion. His power complex.
@@ -43,6 +43,6 @@ agreed upon. And so I wonder if the true intention of my mind has always
 been that from the start, an elaborate attempt to manipulate me into
 secluding myself from others so that I might be protected.
 
-Mental Health: 1
+Mental Illness: 1
 
 Me: 0

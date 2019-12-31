@@ -7,10 +7,15 @@ Table of Contents
     this book is an "easy to read resource that is universally accessible to all walks of life."
 2. Full Circle (Done)
     Just live your life. The meaning of life, is just to live.
+
 3. Mastery --(Edit)--
     Musing on becoming a master of self.
 4: Reality --(In Progress)--
     This reality is an illusion. Your life changes when you break out of the illusion of pain.
+
+00. Awareness (Unwritten)
+    There is no reason to cause yourself distress because  you are temporarily unable to connect to a dynamic of your self.
+
 5: God --(from book 0?)--
     ??? crosscheck with keep notes..
     ...i forgot what this was going to say.. perhaps the power of prayer?
@@ -39,9 +44,12 @@ Table of Contents
 ========New Religion..-------------------------
 X DARKNESS AND LIGHT
     The farther down I reach into the darkness and feelings, the higher i later rise
+    essentially
 X DESIRE
     channeling desire...
-    
+X Externalizing Love
+    The difference between an internal seeking of love and an outward giving of love and the fulfillment of it...
+X Taking..Everything 
 XX: Concepts: Time, Money, Trauma, Choices, Self
 XX: Accepting (Edit?) (Make standard chapter?)
     Loving others starts with accepting them unconditionally.

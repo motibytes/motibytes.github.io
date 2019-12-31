@@ -9,7 +9,7 @@ I'll tell you what this really looks like. Right now, I'm "Joe Goldberg", from t
 My inner dialogue matches his warped thinking patterns and perceptions of reality.
 I feel logical. I feel I have crystal clear attentive focus and clarity. I feel calculated. These traits are not unlike those of other characters my mind has clung to. <!-- , from Dexter Morgan to Sherlock Holmes.-->
 
-Unfortunately this feeling of being Joe extends beyond my thoughts. I feel that I am every perceivable aspect of his character. There are good parts. For one, I feel I could write until the end of time. Joe displayed a genius level talent for writing, he simply never exercised it. I feel mildly intelligent, I can't help but wonder if my IQ is locked down to the level my brain imagines his to be. I feel I hold a certain kind of sanity, in the way that he understands the world in a literal and pretty solid way.
+Unfortunately, this feeling of being Joe extends beyond my thoughts. I feel that I am every perceivable aspect of his character. There are good parts. For one, I feel I could write until the end of time. Joe displayed a genius level talent for writing, he simply never exercised it. I feel mildly intelligent, I can't help but wonder if my IQ is locked down to the level my brain imagines his to be. I feel I hold a certain kind of sanity, in the way that he understands the world in a literal and pretty solid way.
 
 From watching Joe be perceived by others as a good man and a
 father, I feel that others might be able to perceive me the same way, no matter how damaged I am. I recognize that like Joe, I am damaged and broken and desire to connect with others.
@@ -34,7 +34,7 @@ his ugly face, his piercing eyes as the mental image of myself to be able to ref
 There is nothing I can do about this psychosis but wait for it to break off from the forefront and become a background part of me as have so many parts  before this.
 I question who is underneath this mask and I can only envision a kind of face stealing creature, a demonic entity that masquerades as characters it likes. A thoughtless, voiceless presence that blends into whatever it can get its hands on.
 
-Today I am Joe Goldberg, and I have to watch myself act as I do not wish and speak as I do not speak, while I remain in hiding and fear in the audience. From the stands I get to watch just how much the new mask will change other's opinions of me as they have no idea that my behavior is
+Today I am Joe Goldberg, and I have to watch myself act as I do not wish and speak as I do not speak, while I remain in hiding in the back of the audience. From the stands I get to watch just how much the new mask will change other's opinions of me as they have no idea that my behavior is
 related to a fictional character I accidentally got too close to. I will suffer unnecessary self-torment only because <!-- - Hey there, Joe's blame games - --> of this monster trying to protect me.
 
 No, instead, the fear of being seen as such will lead me to withdraw from

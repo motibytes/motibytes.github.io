@@ -1,5 +1,4 @@
-1. crosscheck with book 0
-2. add chapter plans from keep notes
+crosscheck with book 0 !!!!!!!!!!!!!!!
 
 Table of Contents
 
@@ -49,15 +48,27 @@ X DESIRE
     channeling desire...
 X Externalizing Love
     The difference between an internal seeking of love and an outward giving of love and the fulfillment of it...
-X Taking..Everything 
+X Connection
+    Spiritual connection.. it's totally us. Becoming aware of each other's souls.
+    Holy Spirit Holy mother, it's what's happening when another opens their
+    heart up to us, and when we become receptive to their love.
+X Taking..Everything
+    .. merged with Sanity
+X CHANGE
+    we don't change because we don't want to.
+X Art of Appreciation and Setting Intention (add to concepts?)
+   ritual appreciation... is the key... to changing your perspective ...
+
 XX: Concepts: Time, Money, Trauma, Choices, Self
 XX: Accepting (Edit?) (Make standard chapter?)
     Loving others starts with accepting them unconditionally.
 
 XX: Jesus Paradox
 XX: For nonrealists: Design
+XX: Everything Theory
+   What if the negative self is still thinking while the positive is still thinking and you're only aware of one of them?
 
-....ritual appreciation... is the key... to changing your perspective ...
+
 
 
 Chapter outline:

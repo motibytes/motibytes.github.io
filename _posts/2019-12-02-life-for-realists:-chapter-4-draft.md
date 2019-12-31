@@ -65,3 +65,7 @@ own minds.
 
 pain is part of this illusion. once you break out of it, it's..something else
 entirely...
+
+
+
+....

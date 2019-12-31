@@ -1,1 +1,0 @@
-If I were to pick up this book, and flipped through the table of contents, I would surely flip to the chapter titled "The Point of Life" just so I could laugh at whatever its contents were and throw it away. 

@@ -1,3 +1,9 @@
+---
+layout: post
+author: 
+title:
+---
+
 I can't watch television. I should not watch television.
 My mind is fragile. Characters get attached. They glue to my face
 like a sticker that won't scratch off. In my brain exists some kind of rogue

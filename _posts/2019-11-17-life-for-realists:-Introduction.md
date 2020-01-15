@@ -3,11 +3,21 @@ layout: post
 author: James Bytes
 ---
 
+draft back in progress again..
+
 ## 1. INTRODUCTION
 
-It is hard to find a reason to write a book. The secrets of this life are found in the most simple of statements. The truths governing our realities are regarded as common sense, basic fundamentals that are hammered into us from every direction,  fighting for our attention. They are manifested throughout each of our personal stories, and their meanings evolve as we experience more and reach new heights of conceptual understanding. To save pain and the waste of time, we attempt to pass these truths down through every medium imaginable, often through texts such as bibles and doctrines. Yet, it seems instead of gaining pure wisdom, we are simply overloaded with masses of information that are, at large, useless to us in any practical manner until we have gained the prerequisite experience to have learned the meaning of such information the hard way.
+It is hard to find a reason to write a book. The secrets of this life are found in the most simple of statements. The truths governing our realities are regarded as common sense, basic fundamentals that are hammered into us from every direction, each  fighting for our attention. They are manifested throughout each of our personal stories. Their meanings evolve as we experience more and reach new heights of conceptual understanding. To save pain and the waste of precious time, we attempt to pass these truths down through every medium imaginable, often through texts such as bibles and doctrines. Yet, it seems instead of gaining pure wisdom, we are simply overloaded with masses of information that are, at large, useless to us in any practical manner until we have gained the prerequisite experience to have learned the meaning of such information the hard way. <!-- After all, how does one appreciate something they have not come to accept for themselves? -->
 
-You'll find these same truths in every walk of life in every culture in history, worded in different various ways. It is a long and tedious search to find what is specifically relevant to our lives, as the external world has no shortage of wisdom to offer. Many turn to religions and methodologies that elevate particular truths to a profound and mystical level just so we can focus on them enough that we hopefully may never forget them. Such methods get farther than others, providing us memorization techniques for quick access of reminders of basic truths we can carry we with us without needing to stay in the library. Even still, at the end, old age and death reach towards us and we throw up our hands, hold steady to what we've absorbed so far and hope for the best or fear for the worst.
+You'll find these same truths in every walk of life and culture throughout history, albeit worded ever so slightly differently in varying ways. It is a tedious search to find what is relevant to our unique lives in an external world has no shortage of wisdom to offer. Most of us are guided towards religions and methodologies that elevate particular truths to a profound, mystical level. In doing so, followers of such approaches are inadvertently gifted a reliable tool that can be handily carried throughout the battles of their lives.
+
+..editing here..
+<!--
+This tool is namely the incidental memorization of highlighted truths. Prioritized wisdom becomes instantly recallable in a crisis. It can burden the responsibility of making moral choices. Throughout the years, such a targeted focus can help mold a foundational identity. Unfortunately, such a resource can only extend so far and can become a set of crutches.
+--- crisis' can go beyond scope, not provide the answers,
+--- inclined to negative choices, rejecting possibilities outside of current understanding, or conflicted with guilt and such
+--> 
+ Even still, at the end, old age and death reach towards us and we throw up our hands, hold steady to what we've absorbed so far and hope for the best or fear for the worst.
 
 As we grow, the reason for why we must listen, search, and help others to find gains clarity. The gift of insight, which one could call the revelation of truth, is when newfound understanding comes to the simple words and phrases that have been there all along. This occurs when a well known phrase, when interpreted, can result in an entirely different experience of reality. And this is why these phrases are so widespread, as those who have found their true meaning are sure to share them to all who will listen.
 

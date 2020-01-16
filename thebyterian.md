@@ -1,7 +1,10 @@
 ---
 layout: noheader
 ---
+<!--
 ![The Byterian](/assets/byterian999.png)
+-->
+![The Byterian](https://i.imgur.com/FKxhFxG.jpg)
 
 ## - Links -
 

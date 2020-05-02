@@ -13,6 +13,9 @@ This site is a collection of my [projects](./projects.html), my [plans](./about.
 
 <br>
 
+[the spirit](thespirit.html)  
+
+
 [spirit](spirit.html)  
 
 <br>

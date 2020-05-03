@@ -3,7 +3,7 @@ layout: testme
 ---
 
 # Welcome!
-I am the creator of The Decision Maker, currently in development. <br>
+I am the creator of [The Decision Maker](projects_thedecisionmaker.html), currently in development. <br>
 This site is a collection of my [projects](./projects.html), my [plans](./about.html), and [a byte-sized blog](./bytes.html).
 
 ## NEW: [The Byterian](thebyterian.html)
@@ -13,10 +13,9 @@ This site is a collection of my [projects](./projects.html), my [plans](./about.
 
 <br>
 
-[the spirit](thespirit.html)  
+[Spirit Experiment](thespirit.html)  
 
-
-[spirit](spirit.html)  
+[Spirit Connection Test](spirit.html)  
 
 <br>
 

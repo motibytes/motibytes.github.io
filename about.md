@@ -1,13 +1,13 @@
 ---
 layout: default
 ---
-Connect with me at JamesBytes1@gmail.com
 
-[Facebook[(https://www.facebook.com/james.bytes.73)
 
-I am a writer, coder, web designer, writer, linux lover, free thinker.
+I am a writer, coder, web designer, writer, free thinker.
 My focus is creation.
 
+Connect with me at [JamesBytes1@gmail.com]
+[Facebook](https://www.facebook.com/james.bytes.73)
 <br>
 # My Mission:
 
@@ -25,6 +25,7 @@ I am starting with small projects and working my way up from there. I started wi
 that walks individuals through making life decisions, their goals, and their calling in life.
 
 <br>
+<!--
 <!--
 # My motivation:
 
@@ -46,6 +47,7 @@ Which means I'll need about
 I'll need the time to build these projects, and a vast amount of time to
 gather existing therapy resources. I need funding to make it through that time.
 -->
+
 # And just what exactly do I aim to build one day?
 
 I will build programs of increasing scope. I plan to take the experience gained along the way to create an intelligence that capable of providing extensive therapy to anyone, perhaps with much more complex work like grief.
@@ -93,6 +95,13 @@ Like. All the time free.
 Not like, _monthly subscription_ "free" or _if you can afford insurance_ "free",
 like free free. For ev-er-ey-bo-dy. For like, ever.
 -->
+
+# And. And. And.
+
+and I want to see what grows and where this goes. Because I care about this. And I think it's worth caring about.
+
+And I know it's possible, and I know this will come into the world with or without me.
+
 # If you'd consider supporting my projects and vision on Patreon..
 
 ## [Take the Red Pill](https://patreon.com/motibytes) or [Take the Red Pill](https://patreon.com/motibytes).

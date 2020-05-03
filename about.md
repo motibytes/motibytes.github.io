@@ -20,7 +20,7 @@ That means I want to create programs that change people's perspectives about lif
 
 # My plan:
 
-I am starting with small projects and working my way up from there. I started with text-based motivational bots as a small hobby. I'm now designing [a program](projects_thedecisionmaker.html)a program
+I am starting with small projects and working my way up from there. I started with text-based motivational bots as a small hobby. I'm now designing [a program](projects_thedecisionmaker.html) 
 that walks individuals through making life decisions, their goals, and their calling in life.
 
 <br>

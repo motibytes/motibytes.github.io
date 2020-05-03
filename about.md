@@ -6,8 +6,7 @@ layout: default
 I am a writer, coder, web designer, writer, free thinker.
 My focus is creation.
 
-Connect with me at [JamesBytes1@gmail.com]
-[Facebook](https://www.facebook.com/james.bytes.73)
+You can connect with me at JamesBytes1@gmail.com and find me on [Facebook](https://www.facebook.com/james.bytes.73).
 <br>
 # My Mission:
 
@@ -81,7 +80,7 @@ And I know it's possible, and I know this will come into the world with or witho
 
 
 <!--
-hey future me, am i looking for the original article? theres a bak file. 
+hey future me, am i looking for the original article? theres a bak file.
 # My motivation:
 
 Really I just want to influence people's lives for the better.

@@ -1,18 +1,12 @@
-Remember to free write until something comes out.
+---
+layout: post
+---
 
-So let's talk about
-A Reset.
-A New World.
-How we could act differently.
-How could we act differently?
-In a practical way?
-How can we change our individual lives in such a way that reflects the earth?
-In a way that is practical, in which other people can get behind, from any walk of life?
-In which they will get behind?
-
-remember to set a timer and schedule this time out.
+I use this page to test page drafts.
+Status: Online
 
 Free Write 5:20PM:
+
 Why can't I remember? I apparently didn't write any of it down.
 Did any of it get expressed in words?
 Did I forget... What did I forget? God, Love, please help me remember what I've forgotten... Love, Love I call on you. How can we act differently right now
@@ -45,26 +39,4 @@ It's possible to build this life right now.
 ....
 ---
 
-Communication 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Communication
-
-Homelessness
-Society, Options
-
-Freedom to Opt out
-
-Financial Gap

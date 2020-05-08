@@ -3,8 +3,10 @@ layout: post
 ---
 
 I use this page to test page drafts.
-Status: Online
+Status: Offline
 
+<!--
+Wouldn't people love it if i spoke from many characters?
 Free Write 5:20PM:
 
 Why can't I remember? I apparently didn't write any of it down.
@@ -40,3 +42,82 @@ It's possible to build this life right now.
 ---
 
 Communication
+9:10PM 20 minute free write go.
+
+Let's talk about communication. Let's talk about communication. What are we talking about when I say communication? What is the benefit of communicating?
+How can we be communicating more? God how can we be communicating more? Brain remind me what it was that we could be communicating more.
+If I was working a bad job, what would communication do?
+I mean, maybe if I checked in with my coworkers, and asked them how they were doing, I might find some light into their world.
+Maybe there is a way that I could support them that they can't do. But can I give an example? Am I just blowing smoke? Help me God. Lord God shine divine light into this text to give me a message that the world is ready to receive, that will reach millions through my voice. Fulfill the prophesy from the prophets about my life.
+God!!!!!
+Talk to me!  Higher Self!  Break through my mind now!  
+Tell me what I need to hear! Yes! Break through! I can feel you waking up. Wake up! Wake up! Yes, you! God! Inner God! Wake Up! I call on your support! Talk to me! What is the message I can help them with!
+What can they do today to help them!
+What is the message!
+What is the message! Channel it through! I am willing. I am surrendering. Talk to me. Talk to me. Talk to me. Listen.
+Liste. You want them to communicate more.
+You want to connect. You want me to tell you how to connect more.
+The bridge. Break through the bridge. The kindness breaks through. You can be kind today. That kindness creates change. It starts with you. It starts with your loving voice. It starts by asking the right questions.
+How can I help? Why do I want to help? What matters to me? What can I do today? Where can I contribute? How are you doing? How are you feeling? What is the intention?
+Tell me more. Give me the message Lord. I'm here waiting on you. I waited on you and you answered me with a divine message now. I waited on you and you answered me with a divine message now. I waited on you and you channeled a divine message to me now.
+That's how you help them. That's how we help each other.
+Please God in Practical Words! In practical words! Tell me what they can do, what all of them can do!!!
+
+They can recognize each other as human.
+**** They can recognize those in need.
+ If they recognize someone else as a human, ask them how they are doing, tell them that they can be of service, make them feel cared about, make them feel valued, make them feel appreciated, see that positive action and reciprocate it to others,
+****
+Channel this god! Break through! How can they actually help? How can they actually make the change that will cause an impact? What can they actually give today?
+****
+Messages are void without action.
+****
+What is the action? What is the value that can be given? Is there none?
+****
+There is none. Let the world unfold as it should be.
+****
+God! Please! What can they give? A letter? A heartfelt letter? A heartfelt letter to every person.
+But what good will that do.
+
+To every person you know. To every person you know. That's the key. That can cause the ripple.
+Look.
+****
+To every person you know.
+****
+But they don't have the courage, the strength, the desire, to motivation.
+****
+But you can spend some time thinking about who you care about. Really dig into it.
+****
+What if you care about no one?
+****
+Then now is the moment you could choose to begin caring about yourself. You might think you already do, but if you're unhappy, lonely and unfulfilled, you're not taking care of yourself. You're suffering. You've been suffering. And the only way to make a change about that is to reach out. Reach out to everyone. Because you have nothing to lose. The only thing kindness will repay back is kindness.
+Imagine a world where people are kind to you. They are loving to you. They care about you. They want you. They accept you. Don't you want that? Don't you need that? What if it wasn't that hard to live in that world? What if you just had to reach out a hand?
+****
+What if you don't know anyone?
+There's 7 billion people out there. Send a letter to a hospital. Send a letter anywhere. Everywhere. To strangers. To people you don't know...Most large companies employees have publicly listed email addresses on their web pages. You can email them all. You can send a message and someone just might listen.
+****
+Imagine this world. A world you didn't hate. A world that wasn't hell. A world where other people embraced you. Wouldn't you want that world?
+****
+Because see, if you did this, if you are at home not sure what to do, and you just started writing letters saying kind words to people, many people, every day, those people are going to respond to you. And you can just keep going from there.
+****
+If this became a chain reaction... it might melt the hardest of hearts. It's all about scaling the ladder. You, listening to this, are probably not the person with abundant access to wealth and finances to help people. You might be. But if enough people started being kind, if people started feeling safe enough to open their cold hearts, to recognize the suffering in others, the heart of one rich person that looked at their life, the unhappiness in it, and recognized the poor as suffering, and recognized they could be kind and share everything they have, they might just transform their life. Imagine the impact of just one person of high status, changing their lifestyle to keeping only what they needed, and spreading their wealth. Just one person's transformation could impact the lives of thousands or tens of thousands in a real, drastic way. The people they know would see the impact of that. They would change.
+
+Yes. Lord. MORE! Thank you Father. Thank you God. God. Lord. Give me a hook. God give me a hook to this message that makes people act. Give me a tool that shakes them to the core. Give me something that cracks their heart open, wide open, now. Now. now. Now. Now. That changes their ways forever. That they can never forget. That they will always remember. An intro line that grabs them. That starts at the beginning. Shine through God. Love Shine Through! Channel this! Let me speak of this on the Tonight Show! Let me be interviewed on every television screen! To tell them how I came up with this! That I prayed out to you! That I called on you! That you put these words through me! Tell me Father! Lord! Mother! Divinity! Love! Higher Self! Me! You! Us!
+
+The message they have to hear. What is it. That the love that they have been always seeking is what they fear the most. The love you want is the pain of innocence lost. The love you want is the freedom you don't have.
+Help me god.
+The love you have been seeking your entire life is your biggest fear.
+What does that mean to you?
+How are you going to be the person you dreamed of being?
+What does that mean to you?
+What is the moment that fits in your heart as the only thing you ever truly cared about and never received.  
+You're alone, you've always felt it. But that isn't true, is it?
+You're living in a dream. But you're not? Right? You're awake?
+Right now? What would you do to wake up? Do you want to be asleep? Do you want to ride in this storm forever?
+
+Give me a sign god. Let this message crack open every heart that reads it and let them share it to every person they know. And I will make the follow up to this podcast. Now. Amen. Grant me this sign god. I have met you halfway. I will share this message if you can meet me halfway. Thank you for this god.
+
+GOD!!!! PLEASE!!! AS A SON OF GOD I ASK FOR THIS NOW!! PLEASE!!! I NEED THIS!!! I NEED THIS!!!! OR I SHOULD BE COMMITTED. GOD WHY WOULD YOU PROGRAM ME WITH A DRIVE TO REACH THEM ALL IF IT DIDNT HAPPEN. GOD YOU ARE THE ONE THAT MOVES HEAVEN AND EARTH TO YOUR WILL. WHY WONT YOU DO THIS FOR ME. WHY CANT YOU GRANT THIS WISH GOD. HOW CAN I HAVE FAITH IN A GOD THAT DOESNT COME THROUGH. I NEED YOU GOD. I NEED YOU! PLEASE!!!!!!!!!!!!!!!!!
+
+GOD WHAT IS TEN MILLION TO YOU? WHAT IS 100 MILLION TO YOU? WHAT IS A BILLION TO YOU???? PLEASE! PLEASE SPREAD THAT MESSAGE LORD! ITS THERE! ITS RIGHT THERE! PICK IT UP AND CARRY IT PLEASE! LET THEIR EYES HEAR IT AND SEE SOMETHING IN IT! NOW NOW NOW! NOW PLEASE NOW! GOD AS A SON OF GOD I ASK THAT HAPPENS NOW! LET THEM ALL SEE IT! PLEASE!!!!
+I NEED MORE THAN THE FAITH TO MOVE A MOUNTAIN. I NEED THE FAITH TO MOVE A PLANET AS A SON OF GOD I ASK FOR THIS NOW!
+-->

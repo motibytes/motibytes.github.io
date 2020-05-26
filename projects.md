@@ -7,6 +7,8 @@ layout: default
 <dt>NEW!: Typo Checker </dt>
 <dd><a href="/projects_typocheck.html">Check the last word you wrote for Typos</a> </dd>
 
+<br>
+
 <dt>The Decision Maker</dt>
 <dd><a href="/projects_thedecisionmaker.html">Home Page</a> </dd>
 <dt>&nbsp;</dt>

@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<!--James Bytes, all rights reserved -->
+<!--  to spellcheck the last word -->
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>me </title>
+  <style>
+    input {
+      font-size: 2.5em;
+      margin: 10px 1px 0;
+    }
+    body {
+    background-color: #d2b48c;
+    text-align: center;
+    }
+    h1 {
+      font-size: 3em;
+    }
+    h5 {
+      font-size: 1em;
+    }
+    p {
+        font-size: 4em;
+    }
+  </style>
+</head>
+<body>
+  <h1> Typo Checker </h1>
+  <h5>Check the last word you wrote for Typos </h5>
+  <input class="inputClass" id="inputId" type="text">
+  <p> </p>
+  <h4> </h4>
+
+
+
+  <script>
+    const input = document.querySelector('.inputClass');
+    const para = document.querySelector('p');
+    const head = document.querySelector('h1');
+    const book = document.querySelector('h4');
+
+    function getLastWord() {
+        let getInput = document.getElementById('inputId').value;
+        n = getInput.trim().split(" ").pop();
+        return n;
+    }
+    input.onkeyup = function(e){
+      if(e.keyCode == 32){
+        yes = getLastWord();
+        para.textContent = yes;
+        let moreyes = document.getElementById('inputId').value;
+        book.textContent = moreyes;
+      }
+
+    }
+  </script>
+
+</body>
+</html>

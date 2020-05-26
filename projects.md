@@ -22,6 +22,11 @@ My virtual assistant
 <dd>System for creating your own random speaking bot! ..release TBD </dd>
 <br>
 
+
+<dt>Typo Check</dt>
+<dd><a href="/projects_typocheck.html">..</a> </dd>
+<dt>&nbsp;</dt>
+
 # [Support my work on Patreon!](https://patreon.com/motibytes)
 
 <br>

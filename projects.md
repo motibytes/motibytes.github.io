@@ -38,4 +38,4 @@ My virtual assistant
    under dev
     [collection()](/ideas.html) -->
 
-(last update: 09.28.19)
+(last update: 05.26.20)

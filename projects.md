@@ -23,8 +23,8 @@ My virtual assistant
 <br>
 
 
-<dt>Typo Check</dt>
-<dd><a href="/projects_typocheck.html">..</a> </dd>
+<dt>Typo Checker </dt>
+<dd><a href="/projects_typocheck.html">Check the last word you wrote for Typos</a> </dd>
 <dt>&nbsp;</dt>
 
 # [Support my work on Patreon!](https://patreon.com/motibytes)

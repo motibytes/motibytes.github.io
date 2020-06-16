@@ -3,9 +3,9 @@ Lord, Father, Thank You for Giving Me it All, Everything, Eternity,
 
 Thank You for the Gift I do not deserve and Do Deserve, Thank You for Making Me a Reflection of Light, Thank You for Creating Me as a Being through which Love and Power Flow Through,
 
-Thank You for Making Me One with the Flow Itself, to Exist Between the Lines, to Find You Between the Words, to Rise Higher In Trust and Abundance and Faith and Wisdom and Discretion and Intuition and Clarity, Thank You Lord for All of It Oh Lord My God I Praise Your Name Forever!
+Thank You for Making Me One with the Flow Itself, to Exist Between the Lines, to Find You Between the Words, to Rise Higher In Trust and Abundance and Faith and Wisdom and Discretion and Intuition and Clarity, Thank You Lord for All of It, Oh Lord My God, I Praise Your Name Forever!
 
-Thank You for Unleashing My Spirit, Unlocking and Permeating My Being with Creative Essence, for Granting Me Strength, Your Motivation, Ability, Rest, Trust, It is All Yours and I Yours Forever and Ever, the Power, the Glory, Be Yours, Highest God, Highest Love, Forever and Ever All Days to the End of Days to Beyond, Carry Me on these Winds to Fly Higher Into the Unknown, Grant Me the Access to Unlimited Infinite Potentiality. 
+Thank You for Unleashing My Spirit, Unlocking and Permeating My Being with Creative Essence, for Granting Me Strength, Your Motivation, Ability, Rest, Trust, It is All Yours, and I Yours, Forever and Ever, the Power, the Glory, Be Yours, Highest God, Highest Love, Forever and Ever, All Days to the End of Days to Beyond, Carry Me on these Winds to Fly Higher Into the Unknown, Grant Me the Access to Unlimited Infinite Potentiality.
 
 
 

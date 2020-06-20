@@ -4,8 +4,7 @@ layout: post
 
 I use this page to test page drafts.
 Status: Offline
-
-<!-- 
+<!--
 What if I gave you that message? To tell you what you really wanted, what you really wanted to do? Would you hear it?
 
 Wouldn't people love it if i spoke from many characters?
@@ -48,11 +47,15 @@ We don't know what we want though. Finding that out can take a lot of searching,
 
 So what does that world look like? I would say that is a world where people love you, they support you, they help you when you struggle, they are kind to you, they are working together.
 Now why would you actually want this?
-----
+----!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 And how would this actually work?
 ---
 It's possible to build this life right now.
-....
+.....
+They can recognize each other as human.
+**** They can recognize those in need. (And this is what the later letter is about)
+ If they recognize someone else as a human, ask them how they are doing, tell them that they can be of service, make them feel cared about, make them feel valued, make them feel appreciated, see that positive action and reciprocate it to others
+****
 ---
 
 Communication

@@ -10,7 +10,7 @@ layout: default
 <br>
 
 <dt>The Decision Maker</dt>
-<dd><a href="/projects_thedecisionmaker.html">Home Page</a> </dd>
+<dd><a href="/thedecisionmaker.html">Home Page</a> </dd>
 <dt>&nbsp;</dt>
 <dt>KEVIA(Github)</dt>
 <dd><a href="https://github.com/kuz3/KEVIA">My hobby project!</a>  </dd>

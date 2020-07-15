@@ -32,4 +32,6 @@ You become in a place where you can hold your feelings,
 instead of your feelings holding you.
 
 In that place, your feelings can be transformed, blossomed into something
-beautiful and treasured within yourself.  
+beautiful and treasured within yourself.
+
+https://www.jamesbyt.es/2020/07/15/Utilizing-Music-when-You-Are-Falling.html

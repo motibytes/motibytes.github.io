@@ -50,7 +50,7 @@ table {
 }
 
 /* LAYOUT STYLES */
-/* ---everything I've added -JB --- */
+/* ADDED JB */
 
 .navie {
 
@@ -83,8 +83,8 @@ table {
 
    padding: 0px 0px 0px 0px !important;
 
-
-	/* ---end my additions --- */
+}
+	/* END ADD */
 
 body {
   font-family: 'Helvetica Neue', Helvetica, Arial, serif;
@@ -94,9 +94,10 @@ body {
   text-shadow: 0 1px 0 rgba(255, 255, 255, 0.8);
   background: #e7e7e7 url(../images/body-bg.png) 0 0 repeat;
 }
+/* color: #d5000d; --*/
 
 a {
-  color: #d5000d;
+   color: #a28351;
 }
 a:hover {
   color: #c5000c;

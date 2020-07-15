@@ -50,11 +50,47 @@ table {
 }
 
 /* LAYOUT STYLES */
+/* ---everything I've added -JB --- */
+
+.navie {
+
+     padding-top: 5px;
+     padding-left: 5px;
+    vertical-align: middle;
+}
+.jbicotiny {
+      width: 33px;
+      height: 33px;
+      background: url("/assets/images/avatar-icon-tiny.ico") no-repeat;
+      display: inline-block;
+   }
+.jbicotiny:hover {
+   background: url("/assets/images/avatar-icon-tiny-dark.ico") no-repeat;
+}
+.jbico {
+      width: 110px;
+      height: 110px;
+      background: url("/assets/images/avatar-icon4.ico") no-repeat;
+      display: inline-block;
+
+   }
+.jbico:hover {
+   background: url("/assets/images/avatar-icondark.ico") no-repeat;
+}
+.icoh {
+   margin: 0px !important;
+   text-align:center;
+
+   padding: 0px 0px 0px 0px !important;
+
+
+	/* ---end my additions --- */
+
 body {
   font-family: 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 1em;
   line-height: 1.5;
-  color: black;
+  color: #6d6d6d;
   text-shadow: 0 1px 0 rgba(255, 255, 255, 0.8);
   background: #e7e7e7 url(../images/body-bg.png) 0 0 repeat;
 }

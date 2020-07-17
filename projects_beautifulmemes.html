@@ -19,11 +19,11 @@
          }
          #memediv {
             text-align: center;
-            width: 300px;
+            width: 350px;
             margin: auto;
-            height: 250px;
             word-wrap: break-word;
-            font-size:45px;
+            font-size:35px;
+
          }
          .jbico {
                width: 110px;
@@ -34,6 +34,9 @@
             }
          .jbico:hover {
             background: url("/img/avatar-icondark.ico") no-repeat;
+         }
+         a {
+            color: white;
          }
       </style>
    </head>
@@ -60,19 +63,37 @@
       <label for="julee">Font 6</label>
    </div>
 <!-- 3 -->
-<p> step 3: screenshot your memes below </p> <!--<br><br><br> -->
+<p> step 3: screenshot your meme below </p> <!--<br><br><br> -->
 <div id="memediv">
-  <p id="meme" class="pclass"> meme </p>
+  <p id="meme" class="pclass"> “As above, so below, as within, so without, as the universe, so the soul…”
+ </p>
 </div>
 <!-- 4 --><br>
-   <div><center>
+
+<p> optional:</p> <!--<br><br><br> -->
+
+<input type="radio" id="white" name="color" value="white">
+<label for="white">White</label>
+<input type="radio" id="black" name="color" value="black">
+<label for="black">Black</label>
+<input type="radio" id="gold" name="color" value="gold">
+<label for="gold">Gold</label>
+<!----><br>
+<input type="radio" id="pink" name="color" value="pink">
+<label for="pink">Pink</label>
+<input type="radio" id="purplish" name="color" value="purplish">
+<label for="purplish">Purplish</label>
+<input type="radio" id="cream" name="color" value="cream">
+<label for="cream">Cream</label>
+   <div id="4"><center>
          <button id="change-background" type="button">Change Meme Background</button>
    </center></div>
-
 
       <header class="icoh">
       <a class="jbico" href="https://jamesbyt.es/"></a>
       </header>
+      <a href="https://patreon.com/motibytes">Support my projects on Patreon!</a>
+
 <script>
 
    const para = document.querySelector('.pclass'); //used for font selector AND input copy
@@ -89,6 +110,7 @@
    const radioapple = document.querySelector('#homemadeapple');
    radioapple.addEventListener('input', function() {
       document.getElementById("meme").style.fontFamily = "Homemade Apple", cursive;
+
    });
 
    const radioamatic = document.querySelector('#amatic');
@@ -103,6 +125,36 @@
    radiojulee.addEventListener('input', function() {
       document.getElementById("meme").style.fontFamily = "Julee", cursive;
    });
+
+   // Color Select
+   const radiowhite = document.querySelector('#white');
+   radiowhite.addEventListener('input', function() {
+      document.getElementById("meme").style.color = "white";
+   });
+   const radioblack = document.querySelector('#black');
+   radioblack.addEventListener('input', function() {
+      document.getElementById("meme").style.color = "black";
+   });
+
+   const radiogold = document.querySelector('#gold');
+   radiogold.addEventListener('input', function() {
+      document.getElementById("meme").style.color = "#a28351";
+   });
+
+   const radiopink = document.querySelector('#pink');
+   radiopink.addEventListener('input', function() {
+      document.getElementById("meme").style.color = "#f4b6c2";
+   });
+   const radiopurplish = document.querySelector('#purplish');
+   radiopurplish.addEventListener('input', function() {
+      document.getElementById("meme").style.color = "#851e3e";
+   });
+   const radiocream = document.querySelector('#cream');
+   radiocream.addEventListener('input', function() {
+      document.getElementById("meme").style.color = "#fad9c1";
+   });
+
+
    // Input Copy
    //copy text from inputbox to 'meme' area
       const input = document.querySelector('.memecontentclass');
@@ -127,12 +179,5 @@
    });
 </script>
 
-<!-- font-family: 'Dancing Script', cursive;
-   // font-family: 'Annie Use Your Telescope', cursive;
-   //
-//    font-family: 'Homemade Apple', cursive;
-   // font-family: 'Julee', cursive;
-//    font-family: 'Over the Rainbow', cursive;
-//    font-family: 'Shadows Into Light', cursive;-->
 </body>
 </html>

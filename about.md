@@ -111,7 +111,7 @@ And I know it's possible, and I know this will come into the world with or witho
     function success() {
       form.reset();
       button.style = "display: none ";
-      status.innerHTML = "Thanks, I will get back with you soon!";
+      status.innerHTML = "Thanks, I will get back with you soon! -JB";
     }
 
     function error() {

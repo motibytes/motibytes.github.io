@@ -1,3 +1,65 @@
+<!-- probably a teeeeeeeerrrrrrrrrrriiiiiibbbbbbbbllllllllleeee idea to put css here -->
+<style>
+.sidebar {
+  /* height: 33px; */
+  width: 0;
+  position: fixed;/* Stay in place */
+  z-index: 1;/* Stay on top */
+  top: 0;
+  right: 0;
+  overflow-x: hidden;/* Disable horizontal scroll */
+  transition: 0.5s; /* 0.5 second transition effect to slide in the sidebar */
+   /*padding-top: 60px; */
+   background-color: #e7e7e7 !important;
+   /*background-color: white !important;*/
+}
+.sidebar a {
+  text-decoration: none;
+  font-size: 25px;
+  display: block;
+  transition: 0.3s;
+}
+.sidebar a:hover {
+  color: #f1f1f1;
+}
+.sidebar .closebtn {
+  position: absolute;
+  top: 0;
+  right: 0px;
+  font-size: 75% !important;
+  margin-right: 0px;
+}
+.openbtn { /*openbtn and closebtn */
+  position: absolute;
+  top: 0;
+  right: 0px;
+  font-size: 75% !important;
+  font-weight: bold;
+  cursor: pointer;
+  background-color: #a28351;
+  color: #e7e7e7;
+  /*padding: 2.5px 3.75px; button size*/
+  padding: 6px 3.75px;
+  border: none;
+}
+.openbtn:hover {
+  background-color: #a28351;
+  right: 0px;
+  font-size: 75% !important;
+  color: #e7e7e7;
+  padding: 6px 3.75px;
+
+}
+.cancel {
+     background-color: #a28351;
+     right: 0px;
+     font-size: 75% !important;
+     color: #e7e7e7;
+     padding: 6px 3.75px;
+     border: none;
+
+}
+</style>
 <nav>
 <!--   <a class="avataryes" href="https://jamesbyt.es/"><img src="/assets/images/avatar-icon.png"></a>
 -->
@@ -9,5 +71,35 @@
          {{ item.name }}
        </a>
      {% endfor %}
+   <button class="openbtn" onclick="openNav()">Subscribe</button>
 
+   <div id="mySidebar" class="sidebar">
+
+
+       <form style="padding:0px;"
+       action="https://tinyletter.com/jamesbytes"
+       method="post"
+       target="popupwindow"
+       onsubmit="window.open('https://tinyletter.com/jamesbytes', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
+       <input type="text" style="width:200px;" name="email" id="tlemail" placeholder="Enter your email here ❤️❤️"/>
+       <!--<input type="hidden" value="1" name="embed"/> -->
+
+       <input class="openbtn" type="submit" value="Submit!" onclick="closeNav()" />
+       </form>
+       <button class="cancel" onclick="closeNav()"> cancel </button>
+      <!-- <button class="openbtn" onclick="closeNav()">Subscribe!</button> -->
+
+   </div>
+
+   <script>
+   function openNav() {
+     document.getElementById("mySidebar").style.width = "250px";
+     //document.getElementById("main").style.marginright = "250px";
+   }
+
+   function closeNav() {
+     document.getElementById("mySidebar").style.width = "0";
+     //document.getElementById("main").style.marginright= "0";
+   }
+   </script>
 </nav>

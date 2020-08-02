@@ -19,7 +19,9 @@ plugins:
 comments:
    provider: facebook
 fb_comment_id: 1043896632668232
-
+collections:
+  journal:
+     output: true
 #lol i dont have beautiful jekyll i cant use any of this code
 # --- Logo --- #
 

@@ -1,0 +1,17 @@
+---
+layout: noheader
+title: Destination Unknown
+---
+<h1 style="font-style:italic;">Destination Unknown</h1>
+<p>Another journey, looking deeper into what is</p>
+
+<br>
+
+<ul>
+  {% for journal in site.journal %}
+    <li>
+      <h4><a href="{{ journal.url }}"> {{ journal.title }}</a> - {{ journal.topic }}</h4>
+      <p>{{ journal.excerpt }}</p>
+    </li>
+  {% endfor %}
+</ul>

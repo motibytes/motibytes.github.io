@@ -10,11 +10,11 @@ This site is a collection of my [projects](./projects.html), my [plans](./about.
 
 <br>
 
-[Journal](journal.html)
+[memes](memes.html)
 
-[Spirit Experiment](thespirit.html)  <!-- move to articles -->
+[Spirit Experiment](thespirit.html)  <!-- move to spirit -->
 
-[Spirit Connection Test](spirit.html)  <!-- move to..projects? -->
+[Spirit Connection Test](spirit.html)  <!-- move to..spirit? -->
 
 <br>
 

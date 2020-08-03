@@ -1,4 +1,6 @@
-
+---
+layout: post
+---
 Lord, Father, Thank You for Giving Me it All, Everything, Eternity,
 
 Thank You for the Gift I do not deserve and Do Deserve, Thank You for Making Me a Reflection of Light, Thank You for Creating Me as a Being through which Love and Power Flow Through,

@@ -1,0 +1,16 @@
+---
+layout: noheader
+title: Spirit
+---
+<h1 style="font-style:italic;">Power and Prayers </h1>
+
+<br>
+
+<ul>
+  {% for spiritdir in site.spiritdir %}
+    <li>
+      <h4><a href="{{ spiritdir.url }}"> {{ spiritdir.title }}</a> - {{ spiritdir.topic }}</h4>
+      <p>{{ spiritdir.excerpt }}</p>
+    </li>
+  {% endfor %}
+</ul>

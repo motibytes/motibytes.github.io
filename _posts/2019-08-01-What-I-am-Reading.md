@@ -5,6 +5,8 @@ author:
 
 # Books in progress
 
+The Power of Imagination
+Emerald Tablets of Thoth 
 How to Expand Love - Dalai Lama
 The Poetics of Mind
 

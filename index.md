@@ -10,7 +10,6 @@ This site is a collection of my [projects](./projects.html), my [plans](./about.
 
 <br>
 
-[memes](memes.html)
 
 [Spirit Experiment](thespirit.html)  <!-- move to spirit -->
 

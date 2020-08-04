@@ -24,10 +24,6 @@ This will put you back into the moment, and free you from the past.
 
 <br>
 
-# Info
 
-The link to save or share this page is jamesbyt.es/spirit.
 
-Discussion board coming soon.
-
-Contact me with questions at jamesbytes1@gmail.com or on IG at #nekbytes.
+[Contact me with feedback](../about.html)  

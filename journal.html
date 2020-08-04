@@ -8,9 +8,11 @@ title: Destination Unknown
 <br>
 
 <ul>
-  {% for journal in site.journal %}
-    <li>
-      <h4><a href="{{ journal.url }}"> {{ journal.title }}</a> - {{ journal.topic }}</h4>
+
+   {% assign sortedjournal = site.journal | sort: 'date' | reverse %}
+  {% for journal in sortedjournal %}
+    <li>    {% assign customdate = journal | sort: 'date' | reverse %}
+      <h4><a href="{{ journal.url }}"> {{ journal.title }}</a> - {{ journal.date | date: "%b %d, %Y" }}</h4>
       <p>{{ journal.excerpt }}</p>
     </li>
   {% endfor %}

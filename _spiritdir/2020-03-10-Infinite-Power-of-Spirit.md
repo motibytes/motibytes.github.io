@@ -14,4 +14,4 @@ layout: noheader
 
 <br>
 
-[Part 2: Ridiculously simple advanced technique](spiritpart2.html)  
+[Part 2: Ridiculously simple advanced technique](../spiritpart2.html)  

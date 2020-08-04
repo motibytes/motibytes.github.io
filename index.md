@@ -10,16 +10,12 @@ This site is a collection of my [projects](./projects.html), my [plans](./about.
 
 <br>
 
-
-[Spirit Experiment](thespirit.html)  <!-- move to spirit -->
-
-[Spirit Connection Test](spirit.html)  <!-- move to..spirit? -->
-
 <br>
 
 <br>
 
 <br>
+
 
 
 {% include recentposts.html %}

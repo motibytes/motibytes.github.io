@@ -7,9 +7,11 @@ title: Spirit
 <br>
 
 <ul>
-  {% for spiritdir in site.spiritdir %}
+
+  {% assign sortedspirit = site.spiritdir | sort: 'date' | reverse %}
+  {% for spiritdir in sortedspirit %}
     <li>
-      <h4><a href="{{ spiritdir.url }}"> {{ spiritdir.title }}</a> - {{ spiritdir.topic }}</h4>
+      <h4><a href="{{ spiritdir.url }}"> {{ spiritdir.title }}</a> </h4>
       <p>{{ spiritdir.excerpt }}</p>
     </li>
   {% endfor %}

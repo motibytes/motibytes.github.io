@@ -1,3 +1,82 @@
+#after reading all of this, make a second cheatsheet of the best
+
+Thoth Chapter 3:
+#Wisdom cometh to all her children
+#even as they cometh unto wisdom.
+
+####The wise man lets his heart overflow
+####but keeps silent his mouth.
+O man, list to the voice of wisdom;
+list to the voice of light.
+
+
+#Follow thine heart during thy lifetime.
+#Do thou more than is commanded of thee.
+#When thou hast gained riches,
+#follow thou thine heart,
+#for all these are of no avail if
+#thine heart be weary.
+#Diminish thou not the time of
+#following thine heart.
+#It is abhorred of the soul.
+
+Knowledge is regarded by the fool as ignorance,
+and the things that are profitable are to him hurtful.
+He liveth in death.
+####It is therefore his food.
+
+If thou be great among men,
+#be honoured for knowledge and gentleness.
+
+Silence is of great profit.
+#An abundance of speech profiteth nothing.
+Exalt not thine heart above the children of men,
+lest it be brought lower than the dust.
+
+#for a man is a fire burning bright
+#through the night;
+never is quenched in the veil of the darkness,
+never is quenched by the veil of the night.
+
+
+Reach ever upward, O Soul of the morning.
+Turn thy thoughts upward to Light and to Life.
+Find in the keys of the numbers I bring thee,
+light on the pathway from life unto life.
+
+#FIVE is the master, the Lord of all magic -
+#Key to The Word that resounds among men. (part of me?)
+Meditate on the symbols I give thee.
+Keys are they, though hidden from men.
+
+#where do name and form cease?
+Only in consciousness, invisible,
+an infinite force of radiance bright.
+The forms that ye create by brightening
+they vision are truly effects that follow thy cause.
+
+
+Man supports himself only on that which resists.
+So Earth must resist man else he existeth not.
+
+first divine the material from the immaterial
+
+If one cometh unto thee for council,
+let him speak freely,
+that the thing for which he hath
+come to thee may be done.
+##If he hesitates to open his heart to thee,
+##it is because thou, the judge, doeth the wrong.
+
+#Be thou not proud, O man, in thy wisdom.
+Discourse with the ignorant as well as the wise.
+
+#Keep thou not silent when evil is spoken for Truth
+like the sunlight shines above all.
+He who over-steppeth the Law shall be punished,
+for only through Law comes the freedom of men.
+
+
 Thoth Chapter 2:
 
 #Now again I tread the path downward,

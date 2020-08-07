@@ -1,10 +1,11 @@
 ---
 layout: post
+author: James Bytes
 ---
 
 In my young life I was a writer and a dreamer, always living life in my imagination. I looked at the world around me from an outsider's perspective. I was in love with learning itself, and found passion in absorbing every byte of information the world had to offer. Socially I was crazy and disruptive, an attention seeker and a troublemaker. With friends I played unpaid therapist and rebellious instigator of anarchy. My maniacal dreams usually included world domination for better or worse. I remember a few kids asked me if I would be president one day. In truth I wonder if I was more of an actor playing out my own stories, my favorite of all being my narcissistic, egotistical creation of self.
 
-From child to early adulthood my life included trials of religious conditioning, trauma, unstable homes, minor crime, mental health issues, night terrors, drug addictions, self repression, Athiesm, and many dark nights of the soul. The longest night of depression lasted a little over a decade and roughly climaxed in a complete and total self destruction. A combination of drug abuse and insomnia took my terrified mind traveling into the void with no protection, with every synapse, every last neuron firing at once, every last red alert warning screaming "Fatal Error" far passed by before I were to see all of the universe open up to me, no hallucinogenics included.
+From child to early adulthood my life included trials of religious conditioning, trauma, unstable homes, minor crime, mental health issues, night terrors, drug addictions, self repression, Athiesm, and many dark nights of the soul. The longest night of depression lasted a little over a decade and roughly climaxed in a complete and total self destruction. A combination of drug abuse and insomnia took my terrified mind traveling into the void with no protection, with every synapse, every last neuron firing at once, the red alerts screaming,__'Fatal Error'__ went unacknowledged before I was to see all of the universe open up to me, no hallucinogenics included.
 
 My travel through the imagination destroyed me, and it was far more than enough experience to spend one lifetime reflecting on.
 This experience rooted fear deep into my being and destroyed what I knew as my self. I became a hollow shell.

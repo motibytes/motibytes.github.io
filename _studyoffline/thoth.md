@@ -1,6 +1,94 @@
 #after reading all of this, make a second cheatsheet of the best
 
-Thoth Chapter 3:
+4 finished on to 5
+Thoth Chapter 5: ---------------------------------------------------------------
+
+Fell from the Light into the darkness,
+some who had risen to heights among men.
+Proud they became because of their knowledge,
+proud were they of their place among men.
+Deep delved they into the forbidden,
+opened the gateway that led to below.
+Sought they to gain ever more knowledge but
+seeking to bring it up from below.
+He who descends below must have balance,
+else he is bound by lack of our Light.
+Opened, they then,
+by their knowledge,
+pathways forbidden to man.
+
+
+Thoth Chapter 4: ---------------------------------------------------------------
+He who would follow the pathway of wisdom,
+#open must be he to the flower of life,
+extending his consciousness out of the darkness,
+flowing through time and space in the ALL.
+Deep in the silence,
+#first ye must linger until at last ye
+are free from desire,
+##################free from the longing to speak in the silence.
+##################Conquer by silence, the bondage of words.
+
+#Then lie ye down in the darkness.
+Close ye your eyes from the rays of the Light.
+#Centre thy soul-force in the place of thine consciousness,
+#shaking it free from the bonds of the night.
+#Place in thy mind-place the image thou desireth.
+#Picture the place thou desireth to see.
+#Vibrate back and forth with thy power.
+#Loosen the soul from out of its night.
+#Fiercely must thou shake with all of thy power
+#until at last thy soul shall be free.
+
+####Speaking with music, singing with color,
+flame from the beginning of Eternity's ALL.
+Spark of the flame art thou, O my children,
+burning with color and living with music.
+############List to the voice and thou shalt be free.
+
+###Consciousness free is fused with the Cosmic,
+###One with the Order and Law of the ALL.
+Knew ye not man, that out of the darkness,
+Light shall flame forth, a symbol of ALL.
+
+##################################Mighty SPIRIT of LIGHT that shines through the
+##################################Cosmos, draw my flame closer in harmony to thee.
+##################################Lift up my fire from out of the darkness,
+##################################magnet of fire that is One with the ALL.
+##################################Lift up my soul, thou mighty and potent.
+##################################Child of the Light, turn not away.
+##################################Draw me in power to melt in thy furnace;
+##################################One with all things and all things
+##################################in One, fire of the life-strain and
+##################################One with the Brain.
+
+
+.....
+child of the Infinite Cosmic Light.
+
+#Know ye, O man, that all space is ordered.
+#Only by Order are ye One with the ALL.
+#Order and Balance are the Law of the Cosmos.
+#Follow and ye shall be One with the ALL.
+
+Flashed forth my soul through infinity's beauty,
+far through space
+#######################I flew with my thoughts.
+
+Follow ye ever the path of wisdom.
+Only by this can ye rise from below.
+Ever man's destiny leads him onward
+#into the Curves of Infinity's ALL.
+
+Traveled I through the space-time,
+knowing my soul at last was set free,
+knowing that now might I pursue wisdom.
+Until at last, I passed to a plane,
+hidden from knowledge,
+known not to wisdom,
+extension beyond all that we know.
+
+Thoth Chapter 3: ---------------------------------------------------------------
 #Wisdom cometh to all her children
 #even as they cometh unto wisdom.
 

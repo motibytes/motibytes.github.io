@@ -3,7 +3,7 @@ layout: post
 author: James Bytes
 ---
 
-draft in progress
+draft in progress 08/08/20 
 
 ## 2. FULL CIRCLE
 

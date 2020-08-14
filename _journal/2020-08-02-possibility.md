@@ -33,4 +33,4 @@ it's that god could turn hate into love, gravity into fire. With real possibilit
 the possibility allowed by thought, that which is thought, god could change the
 rules that define reality themselves. The physical world is the most fragile part
 of the whole existence, being the endpoint to all of the laws holding up the rest
-of it. Yet with thought.. 
+of it. Yet with thought..

@@ -1,6 +1,4 @@
----
-layout: post
----
+
 
 i guess it was a creation of my mind because i was able to "direct" the thoughts the same way i normally would, but first "she" who had a perfect voice to me that sounded like it was also me, then I searched for a "he", and heard a perfect male voice, then focused on merging the two and when I did I felt this wholeness in my heart.
 even if it was only in my head, it was not normal thinking it was an altered state of consciousness, my normal false construction of my reality that I couldn't see is always there it melted.

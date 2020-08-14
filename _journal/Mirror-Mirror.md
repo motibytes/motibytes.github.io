@@ -1,6 +1,4 @@
----
-layout: post
----
+
 0807
 Mirror, Mirror on the Wall, am I the mirror or is the mirror me? Is there no mirror?
 That's the premise of the Chaos Magik rite, [https://web.archive.org/web/20181013122450/https://www.chaosmatrix.org/library/chaos/rites/beyondwall.html](Beyond the Wall of Sleep). They say it restores an energy they're calling "free belief", that we run out of as we get older. It basically asks you to contemplate Neither-Neither scenarios, what if there is no black and white?

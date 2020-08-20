@@ -3,7 +3,7 @@ layout: post
 author: James Bytes
 ---
 
-this article isn't supposed to be up yet. I'm still in the process of writing it. 
+this article isn't supposed to be up yet. I'm still in the process of writing it. this is a big one. come back soon <3 
 
 I have started to think about how I operate, what works for me, what I believe, and how I will create my future. I have come to find
 that the conceptual understanding I choose to have of the Universe

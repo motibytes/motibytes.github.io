@@ -3,6 +3,7 @@ layout: post
 author: James Bytes
 ---
 
+this article isn't supposed to be up yet. I'm still in the process of writing it. 
 
 I have started to think about how I operate, what works for me, what I believe, and how I will create my future. I have come to find
 that the conceptual understanding I choose to have of the Universe
@@ -20,7 +21,7 @@ degree. This is the whole game for me.
 
 I hacked my definition of the game itself, that it is not won, it is a game to play for fun. I enjoy hacking, and so I enjoy playing the game. My reason for playing is satisfied simply by participation.
 
-![eye](/img/hackarticle/star.gif)
+![brokenimage](/img/hackarticle/star.gif)
 
 They say people are statues to be chiseled away, that we should work with
 what we're given. So, I hack away at myself. I am a difficult person to work with. I work with myself until I find how to get me to do what I want me to do, and to be who I want me to be. I hack into the parts of me that are unpleasant until they become my allies in playing this game of action, of forward momentum.
@@ -55,14 +56,13 @@ In my brain is a rational analytical self that never sleeps. It holds few firm b
 
 ![brokenimage](/img/hackarticle/prettyeye.jpeg)
 
-# The Model
+# 3. The System
 
-If my goal is to hack consciousness to change the circumstances in my life, surely I must have a basic understanding of what consciousness is. I need to be able to conceptualize what it is I'm working with. So to start, to even begin to create an understanding, I must believe that consciousness exists. Consciousness, a system of which I, my thoughts, and the Universe are a part of.
+If my goal is to hack consciousness to change the circumstances in my life, I must have a basic understanding of what consciousness is. I need to be able to conceptualize what it is I'm working with. So to start, to even begin to create an understanding, I must believe that consciousness exists. Consciousness, a system of which I, my thoughts, and the Universe are a part of.
 
-![eye](/img/hackarticle/universebeautiful.jpg)
+![brokenimage](/img/hackarticle/universebeautiful.jpg)
 
-To believe this exists is a simple matter, it is of course real to me, an underlying system I and billions of others have observed the patterns of throughout history. To believe it exists is one thing, but I need to be able to understand it, to determine what it is in order to work with it. Here rises a sudden challenge. I have a single understanding up to this point regarding the basic nature of consciousness. That it is so vast it cannot be understood. How can I begin to conceptualize something that I cannot understand? To make this ever more challenging, if the workings of consciousness that affect my physical life are in the supernatural, the spiritual, unseen forces at work behind the curtains, how can I model something I cannot see?
-
+Consciousness is of course real to me, an underlying system I and billions of others have observed the patterns of throughout history. To believe it exists is one thing, but I need to be able to understand it, to determine what it is in order to work with it. Here rises a sudden challenge. I have a single understanding up to this point regarding the basic nature of consciousness. That it is so vast it cannot be understood. How can I begin to conceptualize something that I cannot understand? To make this ever more challenging, if the workings of consciousness that affect my physical life are in the supernatural, the spiritual, unseen forces at work behind the curtains, how can I model something I cannot see?
 
 Asking me what consciousness is, is like turning out the lights and asking me what is in a dark room.
 
@@ -77,7 +77,34 @@ This is where I can start to define a model of the basic nature of a consciousne
 
 With these constants, I can assume that consciousness has some sort of a make-up. We let go of an apple and so far up until this moment, it always drops. We call this the Law of Gravity. Is Gravity real? We don't know. What we do know is that so far, the Law of Gravity has continued to be an observable constant. These kinds of laws are not the kind that are written and enforced. These are the kinds of laws that are written because they continue to hold true. It can be said that constant truths are called laws.
 
-![appleimage](/img/hackarticle/apple.gif)
+![brokenimage](/img/hackarticle/apple.gif)
 
-I believe that what people call secrets or hidden wisdoms, are often regarding the _'Laws of Consciousness'_ , if there were such a thing.  In other words, humankind has been
-N
+I believe that what people call secrets or hidden wisdoms, are often regarding the _'Laws of Consciousness'_ , if there were such a thing. In other words, I believe that humankind has been observing the workings of consciousness all throughout history. Wisemen have dedicated their lives figuring out how this thing works. They recorded their findings in sacred texts for us to find today. Thinking in this way, a different picture begins to form in my mind. The characters, plot elements, beliefs found within the narrative stories of religion start to dissolve. Perhaps the author of a text was never trying to preach about how I should live my life or which god was the correct one. Perhaps the author was describing their observations of the nature of consciousness in a way that could be understood at the time. Of what they had found worked and what did not in the _'art of hacking consciousness'_. That their intention was to share the wisdom they had gained, with me!
+
+There is only one more consideration I have to make that leads me to believe this is exactly the case, and has always been the case. The behavior of religions and churches as we have always known them. The caretakers and deliverers of sacred texts, and their singular undisguisable agenda. We all know the agenda. That they want to sell us a narrative. Not to teach us wisdom. This is not to get into the nature of religions to seek to control, manipulate, oppress the people, we already know that.
+
+![brokenimage](/img/hackarticle/weknow.gif)
+
+But it is this agenda that makes it clear to me. If I were a religion or government, which were once one and the same, and I held in my hands the secrets found on how to utilize the power of consciousness, I would not want everyone to have that access to power. My goal is to rule the people, not to allow them to rule themselves! I would not want anyone to misuse these secrets for their own agendas. I would protect that knowledge, for fear of the disaster that could occur if everyone were free to shape their own destiny. Instead I would design a doctrine that teaches people to limit themselves as much as possible to keep them in the exact same position they are now, to keep them listening to what I say, to keep them from gaining the wisdom that would allow them to actually change their lives and leave my influence.
+
+![brokenimage](/img/hackarticle/unlimitedpower.gif)
+
+
+ I do not put trust in many sources, but this one historical figure Jesus, he seemed pretty trustworthy to me, he seemed to know what he was talking about. And this is what he had to say on the matter.
+
+_“Woe to you Scribes, because you have taken away the keys of knowledge! You have not entered and those who are entering you have hindered.”_
+
+Somehow I feel like maybe, just maybe, this guy knew what he was talking about. That he was saying outright that this is the case.
+
+With this perspective, the reluctance I felt in looking at sacred texts because of the narratives forced on my life ceases to matter. That these narratives were designed to ensure that those who follow them continue to share them, and to discourage any outsider from seeking to find any truth within them by means of repulsion. That the Bible - a large compilation of sacred texts - along with other texts might just be composed of priceless analysis' of the workings of consciousness over thousands of years.
+
+So now, if I am going to determine what the Laws of Consciousness are, this is going to come down to being decided by my own experience, and the experience of others that I choose to trust.
+rewrite.......................
+
+# 4. The Model
+
+This is where I'm going to have to put some kind of a model together of what I understand in order to grow and operate from. I can start with what has been evident in my life experience and begin to work from there.
+
+flow to my life.
+
+On top of that, I now have some material to start with, and I can apply that in my life and see if can find that it is true.

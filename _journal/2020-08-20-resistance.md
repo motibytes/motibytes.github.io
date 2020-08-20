@@ -15,7 +15,11 @@ my logic falls apart. If I care that much, if that is what truly matters to me, 
 know of my own shortcomings and lack of awareness, and I know that there is something
 greater than me that has that power,
 if I am willing to do anything for that conviction, than I must let go of that attachment.
+
 I can't want what I think I want.
+
 I can't live the life I think i want to live.
+
 I can't do it on my own terms.
+
 I have to get the fuck out of my own way. 

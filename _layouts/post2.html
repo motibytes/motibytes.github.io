@@ -1,0 +1,12 @@
+---
+layout: noheaderdestinationunknown
+comments: true
+---
+
+<h1>{{ page.title }} </h1>
+
+<p>{{ page.topic }} - {{ page.date | date_to_string }} - {{ page.author }}</p>
+
+{{ content }}
+
+{% include facebook-comment.html %}

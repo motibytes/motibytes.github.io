@@ -1,9 +1,8 @@
 ---
-layout: post
-author: James Bytes
+layout: post2
 ---
 
-this article isn't supposed to be up yet. I'm still in the process of writing it. this is a big one. come back soon <3 
+this article isn't supposed to be up yet. I'm still in the process of writing it. this is a big one. come back soon <3
 
 I have started to think about how I operate, what works for me, what I believe, and how I will create my future. I have come to find
 that the conceptual understanding I choose to have of the Universe
@@ -98,13 +97,15 @@ Somehow I feel like maybe, just maybe, this guy knew what he was talking about. 
 
 With this perspective, the reluctance I felt in looking at sacred texts because of the narratives forced on my life ceases to matter. That these narratives were designed to ensure that those who follow them continue to share them, and to discourage any outsider from seeking to find any truth within them by means of repulsion. That the Bible - a large compilation of sacred texts - along with other texts might just be composed of priceless analysis' of the workings of consciousness over thousands of years.
 
-So now, if I am going to determine what the Laws of Consciousness are, this is going to come down to being decided by my own experience, and the experience of others that I choose to trust.
-rewrite.......................
+To combine this source with the observations of psychology, the observations of great gurus and teachers across time, the science of quantum mechanics, and modern spirituality, my own experiences and what I've picked up from others on this journey,
+I have material to work with to start to define these Laws of Consciousness as they are evident in my reality. This process will be biased towards which of these sources I choose to trust.
 
-# 4. The Model
+Keeping the perspective that the model of Consciousness I ultimately choose as my working understanding will define the limits of my possibility, this actually becomes quite the simple matter.
 
-This is where I'm going to have to put some kind of a model together of what I understand in order to grow and operate from. I can start with what has been evident in my life experience and begin to work from there.
+_I hope that you have gained insight from this read so far! Please remember to always keep an open mind with whatever you choose to believe._
 
-flow to my life.
+# [Read Hacking My Future: Part 2](/journal/hacking-my-future-2.html)
 
-On top of that, I now have some material to start with, and I can apply that in my life and see if can find that it is true.
+<br>
+
+<br>

@@ -1,3 +1,8 @@
+---
+layout: post
+author: James Bytes
+---
+
 So what is up with mantras? Such a silly idea. Why do people take the time to
 recite the same words again and again, trying to convince themselves that they are something they are not. Right?
 

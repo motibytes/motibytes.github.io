@@ -51,7 +51,9 @@ Now why would you actually want this?
 And how would this actually work?
 ---
 It's possible to build this life right now.
-.....
+.....Break through the bridge. The kindness breaks through. You can be kind today. That kindness creates change. It starts with you. It starts with your loving voice. It starts by asking the right questions.
+How can I help? Why do I want to help? What matters to me? What can I do today? Where can I contribute? How are you doing? How are you feeling?
+
 They can recognize each other as human.
 **** They can recognize those in need. (And this is what the later letter is about)
  If they recognize someone else as a human, ask them how they are doing, tell them that they can be of service, make them feel cared about, make them feel valued, make them feel appreciated, see that positive action and reciprocate it to others

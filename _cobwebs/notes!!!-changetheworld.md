@@ -43,6 +43,8 @@ So what does that world look like? I would say that is a world where people love
 Now why would you actually want this?
 ----
 And how would this actually work?
+Break through the bridge. The kindness breaks through. You can be kind today. That kindness creates change. It starts with you. It starts with your loving voice. It starts by asking the right questions.
+How can I help? Why do I want to help? What matters to me? What can I do today? Where can I contribute? How are you doing? How are you feeling?
 ---
 It's possible to build this life right now.
 ....

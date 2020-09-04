@@ -2,12 +2,19 @@
 layout: post
 ---
 The love you have been seeking your entire life is your biggest fear.
+
 What does that mean to you?
+
 How are you going to be the person you dreamed of being?
+
 What does that mean to you?
+
 What is the moment that fits in your heart as the only thing you ever truly cared about and never received.  
+
 You're alone, you've always felt it. But that isn't true, is it?
+
 You're living in a dream. But you're not? Right? You're awake?
+
 Right now? What would you do to wake up? Do you want to be asleep? Do you want to ride in this storm forever?
 
 This message isn't just fluff. This is real. And I am sorry, I am truly truly sorry that there is not much real in the world, that we hear so many scams and avoid so many traps because people are willing to deceive others for their own benefit, and I'm sorry for that, I'm sorry we've become so desensitized that the word "truth" has become a falsity, that when talk of change even comes up we want to close our ears and our eyes because analyzing it just becomes overwhelming. I know that and I'm sorry. There is an actual practical plan here to start changing things now. And it is going to take some work. It's good work, and it will feel good, but it is work. If you have been asking what you could be doing right now to help and saying you wish you could do more, I will give you an answer, and after hearing this, you really can never honestly say you didn't know what to do to help, that you were powerless, that there was nothing you could have done, that just won't be true. In asking you to listen to this message, I am appealing to your caring about your world, or your caring about yourself.

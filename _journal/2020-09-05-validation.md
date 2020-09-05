@@ -3,6 +3,8 @@ layout: post
 ---
 
 Tonight I said to myself I didn't need any more healing, that I could go forward with the power I've learned to harness and generate within myself.
+
+
 Not long after these thoughts, I saw myself and my actions of the day from a better perspective. I reevaluated my efforts.
 At first my perspective was that I had represented despair. That it would generate thoughts in others, "Why doesn't what he creates take off? What's the point?"
 I was barely even connected to this perspective, closer to another one, and then fully moved into it.
@@ -14,7 +16,7 @@ Maybe 10 minutes later, not looking for it I came to a teaching about why we sel
 Then I remembered that I had saved a video about healing from rejection. This has been an ongoing undealt with issue in my life that it seems I avoided looking into how to fix.
 Tonight I watched it, and I was able to look at and heal through some of the worst parts of my memories of rejection. I came back around to the thoughts and feelings that are 'yeah, I am enough', 'I am created from the divine'.
 
-I learned that Aphrodite is the Taurus goddess and one of the teachers I respect is a Taurus, and I'm a Taurus. That sensuality is a lot of my life. And that's mine. And I embrace that. It makes sense why I enjoy the physical pleasures so much, and it starts to give me an idea of why it is I seek out the beautiful in life. Beauty is in a sense a sensual experience, it is similar to sensationalism.
+I learned that Aphrodite is the Taurus goddess and one of the teachers I respect is a Taurus, and I'm a Taurus. That sensuality is a lot of my life. And that's mine. And I embrace that. It makes sense why I enjoy the physical pleasures so much, and it starts to give me an idea of why it is that I seek out the beautiful in life. Beauty is in a sense a sensual experience, similar to sensationalism.It usually requires the senses to perceive beauty, or it could be said even that beauty is what is underneath what is sensed.
 
 All that I picked up this evening kind of wraps around to remind me of a stronger identity that is me, that is whole. My perspective refreshed on where I'm currently at on a level of being conscious, where I'm resonating at, that I am okay, I have grown a lot, and I am worth it to myself even if I don't gain the validation of others.
 

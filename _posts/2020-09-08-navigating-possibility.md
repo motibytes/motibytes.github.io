@@ -2,7 +2,9 @@
 layout: post
 ---
 I know that we can approach and enter into the infinite, the state of reality where all possibilities are possible for
-eternity. There is a route, a method of travel to be carried there. It is as if I have been at the start of the journey and to this destination, and am now filling in the road between, remembering how to navigate.
+eternity.
+
+There is a route, a method of travel to be carried there. It is as if I have been at the start of the journey and to this destination, and am now filling in the road between, remembering how to navigate.
 I propose that we are Navigators.
 I propose that we move through time and awareness with the content of the spoken word.
 Consider if you will, that the conversations, __the discussions that you engage in__ are the method of travel that moves you either farther or closer to this infinite point in space and time, the eternal moment. A point that is a memory, a knowing, a future, where the inner and external world are a perfection.

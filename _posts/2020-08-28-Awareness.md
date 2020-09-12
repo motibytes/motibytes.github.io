@@ -1,5 +1,6 @@
 ---
 layout: post
+book: Chapter 5 
 ---
 We are only aware of so much in the moment. As we progress through life we can see that we experience life from many different states of being from one part of ourselves at a time. As we leave and return to these states, we can see that the entirety of who we are is not who we are at this moment. There are times we can see our life as a tragedy, a story of brokenness and despair. Other times, our thoughts, feelings, memories, mindset connects us to the best that life has given us.
 
@@ -17,6 +18,3 @@ Have I ever felt like this before, did I come out of it?
 Was this always my story?
 
 Is this all of my story?
-
-
-<!-- chapter of A Book -->

@@ -1,9 +1,10 @@
 ---
 layout: post
 author: James Bytes
+edited: no
 ---
 
-## 1. INTRODUCTION
+## Introduction
 
 It is hard to find a reason to write a book. The secrets of this life are found in the most simple of statements. The truths governing our realities are regarded as common sense, basic fundamentals that are hammered into us from every direction, each  fighting for our attention. They are manifested throughout each of our personal stories. Their meanings evolve as we experience more and reach new heights of conceptual understanding. To save pain and the waste of precious time, we attempt to pass these truths down through every medium imaginable, often through texts such as bibles and doctrines. Yet, it seems instead of gaining pure wisdom, we are simply overloaded with masses of information that are, at large, useless to us in any practical manner until we have gained the prerequisite experience to have learned the meaning of such information the hard way. <!-- After all, how does one appreciate something they have not come to accept for themselves? -->
 

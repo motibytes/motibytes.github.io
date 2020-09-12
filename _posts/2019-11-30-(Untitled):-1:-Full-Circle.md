@@ -1,11 +1,12 @@
 ---
 layout: post
 author: James Bytes
+edited: no
 ---
 
-draft in progress 08/08/20 
+draft in progress 
 
-## 2. FULL CIRCLE
+## 1. Full Circle
 
 Just live your life.
 

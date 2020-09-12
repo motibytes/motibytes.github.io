@@ -1,5 +1,6 @@
 ---
 layout: post
+nav: Navigator 1 
 ---
 I know that we can approach and enter into the infinite, the state of reality where all possibilities are possible for
 eternity.

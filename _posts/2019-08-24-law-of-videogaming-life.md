@@ -1,9 +1,7 @@
 ---
 title: LAW OF VIDEOGAMING LIFE
-topic: life
 layout: post
-author: kuz3
-
+edited: yes
 ---
 
 Imagine your life as a video game. (SECRET: it is)
@@ -31,12 +29,12 @@ Imagine your life as a video game. (SECRET: it is)
 
 > There is no reason to wish you hadn't done something sooner.
 
-> Not having done something is only a lesson and reminder that you should
+> Not having done something is only a lesson and a reminder that you should
 be doing something now.
 
 > Wishing you had done something before now does nothing to help you accomplish your objective now.
 
-> You can only choose to keep playing the game and either pursuing your objective, or not.
+> You can only choose to keep playing the game and whether or not you will pursue your objective.
 
 ### 4. Main Quest
 
@@ -48,7 +46,7 @@ be doing something now.
 
 ### 5. NPCs
 
-> Non-playable characters are all around you. <br>
+> Non-Playable Characters are all around you. <br>
 > Learn how they work. <br>
 > Learn what they like. <br>
 > Learn what they want. <br>
@@ -56,7 +54,7 @@ be doing something now.
 > Learn how to give them love, to reap returns of love.<br>
 > Destroy them or make them follow you.<br>
 > Do not allow them to distract you or surrender.<br>
-> Do not sacrifice yourself to become an NPC in order to gain the others' acceptance.
+> Do not sacrifice yourself to become an NPC in order to gain others' acceptance.
 
 ### 6. NPCs can Mislead
 
@@ -125,9 +123,9 @@ be doing something now.
 
 > Managing your feelings is a key part of winning your game.
 
-> Fearing the incurrence of past painful feelings can hold you back from making actions now.
+> Fearing the incurrence of past painful feelings can hold you back from taking actions now.
 
-> Embracing and facing into feelings will allow you to continue.  
+> Embracing and facing into your feelings will allow you to continue on.  
 
 ### 14. Secrets and Hints are Everywhere.
 
@@ -141,7 +139,7 @@ be doing something now.
 > This game is rigged for your benefit.<br>
 > Certain values can have a profound impact on your experience.<br>
 > Increasing your positive thinking, love, kindness and other traits are overpowered abilities that make the game work in your favor.<br>
-> These shortcuts become available to you as a player as soon as you begin looking for them, and exponentially increase your Power.
+> These shortcuts become available to you as a player as soon as you begin looking for them and exponentially increase your Power.
 
 ### 16. Hacking
 
@@ -165,7 +163,7 @@ can be malicious, attempting to harm you to seek control over you or simply to c
 
 > Inner peace, acceptance, love - and in some cases, God - are often acquired in this quest, as such it is recommended to seek it early on.
 
-> Observancy is key. Look outward, look inward. Observe thoughts, feelings,  patterns and actions. Observe what remains after all else is gone.
+> Observancy is key. Look outward, look inward. Observe thoughts, feelings, patterns, and actions. Observe what remains after all else is gone.
 
 ### 18. You are the Player   
 
@@ -186,6 +184,6 @@ can be malicious, attempting to harm you to seek control over you or simply to c
 
 > _Anything is possible._
 
-<!-- One last important reminder.
+<!-- One last important reminder.. 
 > Always remember that you will die.
 -->

@@ -1,6 +1,5 @@
 ---
 layout: post
-author: James Bytes
 ---
 
 January 22nd, 2018

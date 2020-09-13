@@ -12,4 +12,5 @@ More importantly than playing with fb,
 I want every last square inch of every article on JB to be words I love. Edit
 until you love it, or move it to postsgraveyard.
 
-Edit, or write, plenty of do for a while. 
+Edit, or write, plenty of do for a while.
+

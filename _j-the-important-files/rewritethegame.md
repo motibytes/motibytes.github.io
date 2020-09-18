@@ -1,15 +1,6 @@
 You said it hurts to be part of the world...we can be of it but not a player in the game...we observe life...thats living in a broader perspective a higher perspective and enables us to diassociate from the emotions but truly feel and understand them...
-❤
-👍
-2
-
-
 
 Rewrite the game
-❤
-1
-
-
 
 This same notion is where I'm forced to have compassion on those around me right at this moment, they're watching a documentary on Genesis and science and debating about how the biblical god...just...yeah... trapped in ego...
 
@@ -28,17 +19,9 @@ that's beautiful
 
 
 First step to to see self...next is to understand...the bible is a good path for many to understand self better...many do find self that way...so observe it...what emotions it triggers in you then ask why
-❤
-1
-
-
 
 I was always an observer, always had a broader perspective.. in a world that didn't. talking to you folk is actually quite strange in that I'm not used to hearing people talk about life from the observer standpoint.
 Right now I want to play the game as a player for the sake of playing the game. but ill always be observer at the same time.
-❤
-1
-
-
 
 Im similar tell me your religious and i feel sorry for you a little...a belief right there for me lol
 😆

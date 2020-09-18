@@ -1,4 +1,4 @@
-aaaa
+start off by writing chaos for 3 minutes. 
 
 edit all articles in posts.
 clean up facebook a bit after a few days, after all engagement is reached

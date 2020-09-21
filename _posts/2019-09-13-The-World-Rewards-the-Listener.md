@@ -3,6 +3,8 @@ layout: post
 edited: yes
 reedited: yes!
 reposted: yes
+linked: ? Listening.. what have I written that has to do with listening..
+yes: navigating-possibility goes into conversation
 ---
 
 In life, we struggle to connect. There can be a paradoxical relationship where the more we attempt to communicate, the more isolated we feel, a vicious, painful and lonely cycle.

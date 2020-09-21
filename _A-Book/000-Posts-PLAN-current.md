@@ -1,5 +1,6 @@
 6 days of writing and a 7th day to rest and get on fbs
-call unemp every morning to appease dad and for vy 
+Email every department, every day to appease dad and for vy-- see unemp-email-template
+
 start off by writing chaos for 3 minutes.
 write as much as I can, then move to editing, back to writing chaos,
 then move back to writing if i can

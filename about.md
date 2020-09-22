@@ -5,7 +5,7 @@ layout: default
 I am a writer, designer, free thinker. <br>
 My focus is creation.
 
-# __[My Projects(link)](/projects.html)__ -  What I'm Building
+## __[My Projects(link)](/projects.html)__ -  What I'm Building
 <br>
 
 <form id="my-form" action="https://formspree.io/xzbjybrn" method="POST">

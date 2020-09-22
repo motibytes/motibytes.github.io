@@ -66,9 +66,11 @@
    <h2 class=navie>
       <a class="jbicotiny" href="https://jamesbyt.es/"></a>
 
-     {% for item in site.data.navigation %}
-       <a href="{{ item.link }}" {% if page.url == item.link %}style="color: red;"{% endif %}>
+     {% for item in site.data.navigation %} <!--        <a href="{{ item.link }}" {% if page.url == item.link %}style="color: red;"{% endif %}>-->
+       <a href="{{ item.link }}" {% if page.url == item.link %}style="color: #9c9c9c;"{% endif %}>
+          -
          {{ item.name }}
+
        </a>
      {% endfor %}
      <!--

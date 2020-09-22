@@ -1,0 +1,24 @@
+---
+layout: noheader
+title: chaos
+---
+<!-- copy of journal.html -->
+<h1 style="font-style:italic;">chaos</h1>
+<p>pure madness </p>
+
+<br>
+
+<ul>
+
+   {% assign sortedchaos = site.chaos | sort: 'date' | reverse %}
+  {% for chaos in sortedchaos %}
+    <li>    {% assign customdate = chaos | sort: 'date' | reverse %}
+      <!--
+      <h4><a href="{{ chaos.url }}"> {{ chaos.title }}</a> - {{ chaos.date | date: "%b %d, %Y" }}</h4>
+      -->
+      <h4><a href="{{ chaos.url }}"> {{ chaos.title }}</a> </h4>
+
+      <p>{{ chaos.excerpt }}</p>
+    </li>
+  {% endfor %}
+</ul>

@@ -7,6 +7,7 @@ title: Bytes
 
 [destination unknown](./journal.html) - looking deeper into what is
 
-[spirit](./spiritdir.html) 
+[spirit](./spiritdir.html)
 
+[chaos](./chaos.html)
 <br><br><br><br><br><br><br>

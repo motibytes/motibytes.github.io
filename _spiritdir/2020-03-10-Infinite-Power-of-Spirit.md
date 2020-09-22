@@ -2,7 +2,7 @@
 layout: noheader
 ---
 
-# how to access the infinite power of your spirit by doing absolutely nothing
+how to access the infinite power of your spirit by doing absolutely nothing
 
 <br>
 

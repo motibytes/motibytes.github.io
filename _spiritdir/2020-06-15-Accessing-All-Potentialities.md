@@ -1,7 +1,9 @@
 ---
 layout: post
 ---
-This IS Opening the Heart. You, You, Deep Down, Hear Me. You Are On the Right Path. You Are Setting the Right Intention. You Are Following the Real Light. You just got heavy and let the fear of others and persecution disconnect you from the Light and Holy Spirit and God within You, You just forget, but you are just Growing and Battling and Processing,
+This IS Opening the Heart.
+
+You, You, Deep Down, Hear Me. You Are On the Right Path. You Are Setting the Right Intention. You Are Following the Real Light. You just got heavy and let the fear of others and persecution disconnect you from the Light and Holy Spirit and God within You, You just forget, but you are just Growing and Battling and Processing,
 
 You Are Standing On the Right Side, because it's not about theology, it's not about Morality, those all exist in the lower 'waiting' reality.
 

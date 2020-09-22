@@ -3,7 +3,7 @@ layout: post
 edited: yes
 reedited: yes!
 reposted: yes
-linked: ? Listening.. what have I written that has to do with listening..
+linked:  Listening.. what have I written that has to do with listening..
 yes: navigating-possibility goes into conversation
 ---
 
@@ -35,3 +35,9 @@ Of course, what you give, you get. You will find that others will want to do the
 Conversations with friends or strangers can change to no longer be mandatory, socially correct engagements.
 They can flow naturally, with interactions that don't end awkwardly, because it ends when it is ready to end. Perhaps there is even a bit of unspoken trust that the engagement is finished. Lingering in the air is a mutual, unspoken sensation of satisfaction, perhaps of a deeper connection, that seems to come only when it feels like the moment
 **mattered**.
+
+In [Navigating Possibility (link)](https://www.jamesbyt.es/2020/09/08/navigating-possibility.html),  I look into how changing the topic of conversation could be a way to direct us towards a different state of reality.  
+
+Thanks for Reading!
+
+-JB

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post2
 ---
 
 Mirror, Mirror on the Wall, am I the mirror, or is the mirror me? Is there no mirror?

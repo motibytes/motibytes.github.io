@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post2
 ---
 
 A beautiful day, truly in many moments a dream, the warm waters of the ocean were
@@ -18,4 +18,4 @@ the world for which I am no different from.
 Only one feeling becomes me, the pain in my chest, the feeling of overwhelming,
 too much, too much, too much, and again the fear that getting what I pray for
 may be unbearable. What bigger fear do I have then getting the reality I desire
-and not being able to show up in it. 
+and not being able to show up in it.

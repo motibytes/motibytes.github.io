@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post2
 ---
 
 Reflecting back on spiritual music once again. There were songs that I once
@@ -7,4 +7,4 @@ perceived as darkness in my soul. In my mind they stirred up the quiet whispers 
 
 Now, reflecting back, I don't believe the darkness covered my eyes. I believe that
 light poured into darkness and my demons scattered away. In the end, there is
-nothing to fear. 
+nothing to fear.

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post2
 ---
 
 Tonight I said to myself I didn't need any more healing, that I could go forward with the power I've learned to harness and generate within myself.

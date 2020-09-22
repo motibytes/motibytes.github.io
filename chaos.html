@@ -7,6 +7,7 @@ title: chaos
 <p>pure madness </p>
 
 <br>
+<img src="/img/chaos.gif" alt="Image not loading.. ">
 
 <ul>
 
@@ -16,9 +17,10 @@ title: chaos
       <!--
       <h4><a href="{{ chaos.url }}"> {{ chaos.title }}</a> - {{ chaos.date | date: "%b %d, %Y" }}</h4>
       -->
-      <h4><a href="{{ chaos.url }}"> {{ chaos.title }}</a> </h4>
+   <!--   <h4><a href="{{ chaos.url }}"> {{ chaos.title }}</a> </h4> --> 
 
-      <p>{{ chaos.excerpt }}</p>
+      <!--<p>{{ chaos.excerpt }}</p>-->
+      <p>{{ chaos.content }}</p>
     </li>
   {% endfor %}
 </ul>

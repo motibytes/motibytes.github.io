@@ -1,6 +1,5 @@
 ---
-layout: post
-author: James Bytes
+layout: post2
 ---
 
 In my young life I was a writer and a dreamer, always living life in my imagination. I looked at the world around me from an outsider's perspective. I was in love with learning itself, and found passion in absorbing every byte of information the world had to offer. Socially I was crazy and disruptive, an attention seeker and a troublemaker. With friends I played unpaid therapist and rebellious instigator of anarchy. My maniacal dreams usually included world domination for better or worse. I remember a few kids asked me if I would be president one day. In truth I wonder if I was more of an actor playing out my own stories, my favorite of all being my narcissistic, egotistical creation of self.

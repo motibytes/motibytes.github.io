@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post2
 ---
 
 Miracles are happening and my prayers are coming true. Suddenly I have never

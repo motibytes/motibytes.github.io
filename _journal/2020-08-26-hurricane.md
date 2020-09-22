@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post2
 ---
 
 I am trusting life the universe to take care of me. I am choosing love. I have come to a place that I have reconciled that I will not reject love from any source or loving, being regardless of my religious conditionings. I will not hold hate in my heart.

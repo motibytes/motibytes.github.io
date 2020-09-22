@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post2
 ---
 
 My thoughts have been, I would never surrender to God. I want what I want.
@@ -22,4 +22,4 @@ I can't live the life I think i want to live.
 
 I can't do it on my own terms.
 
-I have to get the fuck out of my own way. 
+I have to get the fuck out of my own way.

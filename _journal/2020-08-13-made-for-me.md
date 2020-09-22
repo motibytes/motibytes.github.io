@@ -1,6 +1,5 @@
 ---
-layout: post
-author: James Bytes
+layout: post2
 ---
 
 How beautiful, how wonderful, this life. When I see the truth that this world is made for me. That my life and other's lives are made to be played out in this

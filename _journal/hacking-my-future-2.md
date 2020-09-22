@@ -1,6 +1,6 @@
 <!---
 layout: post2
---- > 
+--- >
 
 # 4. The Model
 

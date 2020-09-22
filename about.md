@@ -2,8 +2,11 @@
 layout: default
 ---
 
-I am a writer, designer, free thinker.
+I am a writer, designer, free thinker. <br>
 My focus is creation.
+
+# __[My Projects(link)](/projects.html)__ -  What I'm Building
+<br>
 
 <form id="my-form" action="https://formspree.io/xzbjybrn" method="POST">
 <h1> Contact Me </h1><br>
@@ -16,7 +19,7 @@ My focus is creation.
   <button id="my-form-button">Send</button>
   <p id="my-form-status"></p>
 </form>
-You can also find me on find me on [Facebook](https://www.facebook.com/james.bytes.73).
+You can also find me on [Facebook](https://www.facebook.com/james.bytes.73).
 
 <!--
 I am a writer, coder, web designer, free thinker.
@@ -29,7 +32,7 @@ You can connect with me at JamesBytes1@gmail.com and  -->
 I aim **to create systems of interactive text-based therapeutic resources** available for all to use freely. <!-- (_optimally while disrupting the established powers that be_).-->
 
 
-# But. What does that mean?
+# But.. What does that mean?
 
 That means I want to create programs that change people's perspectives about life, what matters, and eventually to help them work through trauma.
 
@@ -41,7 +44,7 @@ that walks individuals through making life decisions, their goals, and their cal
 
 <br>
 
-# And just what exactly do I aim to build one day?
+# Just what exactly do I aim to build in the future?
 
 I will build programs of increasing scope. I plan to take the experience gained along the way to create an intelligence that capable of providing extensive therapy to anyone, perhaps with much more complex work like grief.
 
@@ -62,23 +65,23 @@ I will build programs of increasing scope. I plan to take the experience gained 
 Nancy Drew,
 Let's talk through some of your trauma today.
 ```
-
 # And well,
+<!-- still true! just kinda lengthy text here.
 
 I want it to be free.
 Like. All the time free.
 Not like, _monthly subscription_ "free" or _if you can afford insurance_ "free",
 like free free. For ev-er-ey-bo-dy. For like, ever.
-
 # And. And. And.
 
-and I want to see what grows and where this goes. Because I care about this. And I think it's worth caring about.
 
-And I know it's possible, and I know this will come into the world with or without me.
+and--> I want to see what grows and where this goes. Because I care about this. And I think it's worth caring about.
 
-# If you'd consider supporting my projects and vision on Patreon..
+I know this is possible, and I know this will come into the world with or without me.
 
-## [Take the Red Pill](https://patreon.com/motibytes) or [Take the Red Pill](https://patreon.com/motibytes).
+#### If you'd consider supporting my projects and vision on Patreon..
+
+## [Take the Red Pill](https://patreon.com/motibytes) <!-- or [Take the Red Pill](https://patreon.com/motibytes) -->.
 <br>
 <br>
 <br>

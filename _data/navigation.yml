@@ -1,6 +1,4 @@
-- name: About
+- name: J
   link: /about.html
-- name: Projects
-  link: /projects.html
-- name: Bytes
+- name: BYTES
   link: /bytes_landing.html

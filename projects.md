@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Projects
+# Projects
 
 
 <dt>&nbsp;</dt>
@@ -44,7 +44,7 @@ My virtual assistant
 
 <dt>&nbsp;</dt>
 
-# [Support my work on Patreon!](https://patreon.com/motibytes)
+### [Support my work on Patreon!](https://patreon.com/motibytes)
 
 <br>
 
@@ -54,5 +54,3 @@ My virtual assistant
 
    under dev
     [collection()](/ideas.html) -->
-
-(last update: 05.26.20)

@@ -2,7 +2,20 @@
 layout: post
 ---
 
-inner free flow 
+inner free flow
+
+#09/22/2020
+it isnt the state that determines the actions, its the actions that determine the state
+
+I'm so good, Soo Soo good, I'm so bad, baa eee aaa aaaad, the opposite side of me, is what I aspire to be!!
+ Take me up, take me down, spin me around and around, turn me upside down, to wear a grin, a dance with gin,
+Oh street corner fellar, can you help me with the weather, do you want my favorite sweater, the wool has come untethered, and I fear we may be walking barefoot soon, you bride and I'll groom your lush hair,
+don't be afraid my dear, it only hurts at first, we sing together and dance together forever, you get used to it I promise,
+we're free puppets on strings, free to dance dance round we go..  
+
+No more singing...
+Oh street corner lookers, you really ought to hook her up with a couple a wristie cuffs, but let me let you in... on a little madness... looms right between The light casting down from the street lamp and the darkness underneath it... Would be a shame for the lights to go out...
+
 # 09/21/2020
 
   words here all over my head catch them wrap them write them dead

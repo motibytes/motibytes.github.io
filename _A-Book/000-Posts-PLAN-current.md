@@ -1,3 +1,8 @@
+1.labeling all topics i can see that there are only about 4 main subjects i write on.
+2. when all topics are listed i can easily daisy chain link one to another.
+(3. not to overwhelm now, but in the future they could create one story.
+   no need to think this far ahead and get overwhelmed)
+
 6 days of writing and a 7th day to rest and get on fbs
 Email every department, every day to appease dad and for vy-- see unemp-email-template
 

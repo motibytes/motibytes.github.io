@@ -1,5 +1,7 @@
 ---
 layout: post2
+edited: yes
+reposted: no 
 ---
 
 Mirror, Mirror on the Wall, am I the mirror, or is the mirror me? Is there no mirror?

@@ -2,7 +2,9 @@
 layout: post2
 ---
 
-I am trusting life the universe to take care of me. I am choosing love. I have come to a place that I have reconciled that I will not reject love from any source or loving, being regardless of my religious conditionings. I will not hold hate in my heart.
+I am trusting life the universe to take care of me. I am choosing love.
+
+ I have come to a place that I have reconciled that I will not reject love from any source or loving, being regardless of my religious conditionings. I will not hold hate in my heart.
 
 I will allow life to break me down, to shape me, mold me, change me through more pain than I can handle. I am embracing change, I am embracing stillness, I am facing all fears and giving everything I am to the light.
 

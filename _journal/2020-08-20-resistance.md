@@ -3,6 +3,8 @@ layout: post2
 ---
 
 My thoughts have been, I would never surrender to God. I want what I want.
+
+
 I want to live the life I want to live. Even if I'm doing what God wants, I am
 doing it on my own terms. Because I have a conviction. Because I care about people
 and myself and if given the chance I would kill God myself if it was for the sake

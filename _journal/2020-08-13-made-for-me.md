@@ -2,7 +2,9 @@
 layout: post2
 ---
 
-How beautiful, how wonderful, this life. When I see the truth that this world is made for me. That my life and other's lives are made to be played out in this
+How beautiful, how wonderful, this life. When I see the truth that this world is made for me.
+
+That my life and other's lives are made to be played out in this
 perfect story, if and when we choose to accept it. Perfect moment after perfect
 moment with perfect people. How marvelous, how intricate, how much yes. Yes. Yes.
 Yes! This world is here for me to love. How much excitement to play a part in that.

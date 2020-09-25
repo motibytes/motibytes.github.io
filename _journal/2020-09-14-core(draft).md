@@ -4,7 +4,9 @@ edited:
 movedtosecondfile: no
 ---
 
-Not long ago, I prayed a new prayer. I had realized what I wanted. I had said,
+Not long ago, I prayed a new prayer. I had realized what I wanted.
+
+I had said,
 "I want to be on a bigger playing field." I had realized that the area in my life where I was unsatisfied was that I did not feel I was being challenged enough.
 I was not being challenged enough to bring out the best of my abilities. I wanted more out of life. I wanted to be engaging with bigger people, more influential people who were doing bigger things. For me, for what I consider to be more powerful, more important, is people who are more loving. People who have bigger hearts, and live by their heart. People who take action. This prayer was answered, in a greater way than I had expected.
 

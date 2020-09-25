@@ -1,8 +1,11 @@
 ---
 layout: post2
+topic: fullness/being
 ---
 
-Reflecting back on spiritual music once again. There were songs that I once
+Reflecting back on spiritual music once again.
+
+There were songs that I once
 perceived as darkness in my soul. In my mind they stirred up the quiet whispers of my old demons I do not normally sense in my mind. Over time, these voices no longer arose. I had questioned whether I was becoming darker, acclimating to darkness.
 
 Now, reflecting back, I don't believe the darkness covered my eyes. I believe that

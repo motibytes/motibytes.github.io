@@ -41,7 +41,7 @@ It is far more alien in nature than that. It is far beyond concepts that I
 can recognize. It does not operate with laws and in terms of space or what
 could be. It could make anything happen at any moment.
 
-Anything is far beyond what we consider to be possible. It isn't that god could turn water into wine, it's that god could turn hate into love, gravity into fire. With real possibility, the possibility allowed by thought, that which is thought, god could change the rules that define reality themselves.
+Anything is far beyond what we consider to be possible. It isn't that god could turn water into wine, it's that god could turn hate into love, gravity into fire. With [real possibility](https://www.jamesbyt.es/2020/09/08/navigating-possibility.html), the possibility allowed by thought, that which is thought, god could change the rules that define reality themselves.
 
 The physical world is the most fragile part of existence, being the endpoint to all of the laws holding up the rest of this.
 

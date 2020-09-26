@@ -1,10 +1,11 @@
 ---
 layout: post2
 post: no.
-mystory:
+mystory: not sure. seems a little too religious. 
 edited: yes
 grammarly: no
 topic: being/fullness
+link: linked to empathy devil read no
 ---
 
 What god has set before me, the answers for which I so earnestly prayed,
@@ -73,3 +74,6 @@ take your light unless you give them your permission. If you read the words of t
 the sound of a voice in your mind, that this voice is not your voice, that the world gave you this voice. Can you hear these words in another voice? What does it sound like? Are you afraid of this? Why?
 
 # September 25, 2020
+
+
+<!-- link empathy devil read -->

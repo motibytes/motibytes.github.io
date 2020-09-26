@@ -1,6 +1,6 @@
 ---
 layout: post
-nav: Navigator 1 
+nav: Navigator 1
 ---
 I know that we can approach and enter into the infinite, the state of reality where all possibilities are possible for
 eternity.
@@ -20,3 +20,5 @@ The entry method I first propose is setting the topic of conversation. We are co
 And this is what I see to be the first of many secrets. By changing a conversation, you can move towards a state where you are able to receive insights. Your spoken word becomes a method of travel to this state. Consider why I am stating this as so important. What if perhaps, how to find the ways to navigate potential possibilities and move towards the infinite, is not something to find on your own and learn how to do at all. What if instead, these ways are ways that you already know, you just don't remember you know. That by moving to a state where you can hear insights from "outside of you", you can rediscover these ways of movement. That this kind of information, wisdom, can spontaneously come to you, whoever you are, however smart or intelligent you believe you are.
 
 This is only the start of what I believe is possible. I don't just believe we can move across the potential moments from the linear path of life we're on now, I assert that we can navigate to any moment, that we can access other points along this path. Even farther, multiple points at once.
+
+<!-- links to harnessing chaos --> 

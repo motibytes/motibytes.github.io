@@ -1,7 +1,5 @@
 ---
-layout: post
-edited: no
-posted: no
+version: v1
 ---
 
 As I rise, and I Will rise, I will not participate in any established way.
@@ -11,7 +9,6 @@ and raise up figures that we listen to, figures that present themselves as okay.
 
 We somehow end up staking blind trust into who we choose to listen to, which is
 instead ignorance, we dont want to have to think critically, we want the answers.
-
 
 This is inescapable as the single mandatory requirement for a voice to be heard
 in this age is for it to be from an infallible source, from one who has their life

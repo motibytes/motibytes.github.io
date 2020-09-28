@@ -1,8 +1,8 @@
 ---
 layout: post
 version: v2
-edited: no
-posted: no
+edited: yes
+posted: yes
 ---
 
 I will not participate in any established way.
@@ -24,11 +24,11 @@ weaknesses. Honesty, and humility shed light that one is not always right.
 We can choose to not listen to voices that are not being transparent, or in simple
 terms, not being real with us.
 
-Escaping listening to voices that end up going in bad directions is not solved by seeking more infallible voices. It is in finding and listening to honest voices that remain transparent and do not claim to be what they are not.
+Escaping listening to the voices that end up going in bad directions is not solved by seeking more infallible voices. It is in finding and listening to honest voices that remain transparent and do not claim to be what they are not.
 
 I will not participate in any established way. I have answers, I don't have all the answers. I am flawed. I fall. I fail. Just like everyone else. I am not here to give perfect wisdom. I am here to share my experiences and what I have found, on a road to mastery of life, myself, and my craft.
 
-In a world where we are all transparent, we all become teachers, we all pick each other up when we fall, we all share in this experience.
+In a world where we are transparent, we all become teachers, we all pick each other up when we fall, we all share in this experience.
 
 Thanks for reading,
--JB 
+-JB

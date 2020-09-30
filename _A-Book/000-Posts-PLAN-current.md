@@ -25,6 +25,7 @@ until you love it, or move it to postsgraveyard.
 
 Eventually look at where I can link other articles to existing articles
 
+and eventually create a document which allows me to easily see what all of my articles are about so i can look at what i can do with my content.
 Edit, or write, plenty of do for a while.
 
-aaaaa
+my plan is listed on 000-writing-my-niche

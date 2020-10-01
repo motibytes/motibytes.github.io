@@ -4,6 +4,7 @@ layout: post
 
 inner free flow
 
+#09/
 #09/22/2020
 it isnt the state that determines the actions, its the actions that determine the state
 

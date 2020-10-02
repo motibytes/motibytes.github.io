@@ -1,7 +1,8 @@
 ---
 layout: post2
 edited: yes
-reposted: no 
+reposted: no
+link: will link to harnessingchaos
 ---
 
 Mirror, Mirror on the Wall, am I the mirror, or is the mirror me? Is there no mirror?

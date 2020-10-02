@@ -1,0 +1,26 @@
+---
+layout: noheader
+title: order
+---
+<!-- copy of journal.html -->
+<h1 style="font-style:italic;">order</h1>
+<p> </p>
+
+<br>
+<!-- <img src="/img/chaos.gif" alt="Image not loading.. "> -->
+
+<ul>
+
+   {% assign sortedorder = site.a_order | sort: 'date' | reverse %}
+  {% for a_order in sortedorder %}
+    <li>    {% assign customdate = a_order | sort: 'date' | reverse %}
+      <!--
+      <h4><a href="{{ chaos.url }}"> {{ chaos.title }}</a> - {{ chaos.date | date: "%b %d, %Y" }}</h4>
+      -->
+    <h4><a href="{{ a_order.url }}"> {{ a_order.title }}</a> </h4>
+
+      <!--<p>{{ chaos.excerpt }}</p>-->
+      <p>{{ a_order.content }}</p>
+    </li>
+  {% endfor %}
+</ul>

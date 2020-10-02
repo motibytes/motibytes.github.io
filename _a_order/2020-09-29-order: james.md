@@ -52,4 +52,6 @@ I'm not actually afraid of death when I recognize myself as a unique identity th
 
 #
 
- I'm not a rollercoaster anymore, I'm more of a slot machine now, and every once in a while I hit the jackpot.
+I'm not a rollercoaster anymore, I'm more of a slot machine now, and every once in a while I hit the jackpot.
+
+#

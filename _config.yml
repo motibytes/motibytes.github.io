@@ -25,7 +25,9 @@ collections:
   spiritdir:
      output: true
   chaos:
-     output: true 
+     output: true
+  a_order:
+     output: true
 #lol i dont have beautiful jekyll i cant use any of this code
 # --- Logo --- #
 

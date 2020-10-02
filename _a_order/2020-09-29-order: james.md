@@ -14,7 +14,12 @@ I will have these things, I will learn how to artfully experience reality and re
 
 #
 
-You make them love you for your greatness. Then you let them love you for your flaws. 
+If needed talk to yourself in the future in your head, the you in the future 20 years from now, who made it through everything,
+Telling you that it all works out.
+
+#
+
+You make them love you for your greatness. Then you let them love you for your flaws.
 
 #
 

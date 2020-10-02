@@ -1,8 +1,9 @@
 ---
 layout: post
 info: the random scribbles
-more: i can move some of the cobwebs writings into here 
+more: i can move some of the cobwebs writings into here
 ---
+
 
 
 #

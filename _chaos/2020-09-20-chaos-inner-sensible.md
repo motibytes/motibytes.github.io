@@ -2,7 +2,14 @@
 layout: post
 info: more diary like but not quite journal
 ---
-# 
+
+#
+
+Life is theater, this is the story, I am the character in my own play. 
+<!-- meta?
+why am i afraid of saying this? -->
+
+#
 
 I am with souls that heal as I heal them, help as I help them
 

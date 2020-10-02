@@ -1,6 +1,7 @@
 ---
 layout: post
 ---
+
 We are only aware of so much in the moment. As we progress through life we can see that we experience life from many different states of being from one part of ourselves at a time. As we leave and return to these states, we can see that the entirety of who we are is not who we are at this moment. There are times we can see our life as a tragedy, a story of brokenness and despair. Other times, our thoughts, feelings, memories, mindset connects us to the best that life has given us.
 
 To be aware of this limited nature of ourselves in the moment, we can offer ourselves compassion, forgiveness for how we might see ourselves right now, knowing that this is not all of who we are. That nothing is ever truly gone.

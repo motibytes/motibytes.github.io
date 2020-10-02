@@ -9,5 +9,7 @@ title: Bytes
 
 [spirit](./spiritdir.html)
 
+[order](./a_order.html)
+
 [chaos](./chaos.html)
 <br><br><br><br><br><br><br>

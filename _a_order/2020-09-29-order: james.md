@@ -14,6 +14,10 @@ I will have these things, I will learn how to artfully experience reality and re
 
 #
 
+You make them love you for your greatness. Then you let them love you for your flaws. 
+
+#
+
 Forget everything you know about the world.
 Forget your optimism, Age of fear and hate.
 As long as you follow.

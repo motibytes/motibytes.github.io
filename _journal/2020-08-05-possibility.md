@@ -19,8 +19,7 @@ to handle existence if it becomes too much.
 
 The terrifying part of possibility is how much more could be possible if
 anything is possible. A cause and effect physical world is understandable
-and seemingly controllable in its nature. That is the illusion. The illusion that
-any of it is concrete at all, that the forces we can see govern the results.
+and seemingly controllable in its nature. That is the illusion. The illusion that any of it is concrete at all, that the forces we can see govern the results.
 
 It is the unseen that creates this world. The possibilities of the
 unseen, endless, are beyond comprehension. Suddenly they enlarge beyond

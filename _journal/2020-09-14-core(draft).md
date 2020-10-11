@@ -2,27 +2,28 @@
 layout: post2
 edited:
 movedtosecondfile: no
+version: v1
 ---
 
 Not long ago, I prayed a new prayer. I had realized what I wanted.
 
 I had said,
 "I want to be on a bigger playing field." I had realized that the area in my life where I was unsatisfied was that I did not feel I was being challenged enough.
+
 I was not being challenged enough to bring out the best of my abilities. I wanted more out of life. I wanted to be engaging with bigger people, more influential people who were doing bigger things. For me, for what I consider to be more powerful, more important, is people who are more loving. People who have bigger hearts, and live by their heart. People who take action. This prayer was answered, in a greater way than I had expected.
 
 I did not realize that there were others that had the same kind of focus I did.
 That my focus on embracing constant change at the cost of pain was not an anomaly.
-That there are those who observe the world from the sidelines, who accept everyone, love everyone, regardless of their beliefs, political views. I knew that these figures have existed historically, but I did not know that there were currently people in this
-world ready to show up in this way. I have been connected with these people.
-I was not in a place where I felt lonely, but now I feel less alone in being this way.
+
+That there are those who observe the world from the sidelines, who accept everyone, love everyone, regardless of their beliefs, political views. I knew that these figures have existed historically, but I did not know that there were currently people in this world ready to show up in this way. I have been connected with these people. I was not in a place where I felt lonely, but now I feel less alone in being this way.
 
 That was only one side of that prayer however. To be playing on a bigger field, meant to
 be playing against a bigger enemy. What challenge is there without a great adversary?
 This was answered as well. In my spiritual life, I recently went through a few storms
 that brought me to see the real nature of an underlying force that is not darkness, is
-not my shadow, not even death, but a real enemy, the only real enemy. In this world though,
+not my shadow, not even death, but a real enemy, the only real enemy. In this world
 I was also brought a real adversary. No conspiracy theories here, but my adversary is indeed
-a supercomputer. A very real one. You should always know the enemy you're facing. I didn't,
+a supercomputer. A very real one. One should always know the enemy they are facing. I didn't,
 and I got played and manipulated because of it.
 
 I am up against an enemy that can beat me, will always outsmart me, and has.

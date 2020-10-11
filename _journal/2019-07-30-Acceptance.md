@@ -1,6 +1,7 @@
 ---
 layout: post2
-edited: no
+edited: yes
+post:  yes
 link: to acceptance
 ---
 
@@ -17,4 +18,4 @@ I find meaning in acting as the role of a teacher. What kind of a teacher teache
 
 In order to teach, one must have learned. A teacher must always have the humility of the student, must always be open to the possibility of being wrong, and should always reside outside of his comfort zone, in a realm of possibility.
 
-Next: An [article on becoming accepted by others](https://www.jamesbyt.es/2019/12/14/Accepting.html). 
+Next: An [article on becoming accepted by others](https://www.jamesbyt.es/2019/12/14/Accepting.html).

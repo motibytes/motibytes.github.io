@@ -36,17 +36,20 @@ you can fill your life with positive activities that lead in a worthwhile direct
 for you. What you end up is an advanced cycle of procrastination.
 
 Let me see if I can come up with an example procrastination cycle for you. Here goes:
-Listen to Spotify > read magazine > stare at wall > write friend about life stress
-and now a slightly refined cycle:
-learn favorite song on piano > listen to audiobook on dream topic > meditate > write on blog
 
-The piano fulfills the learning and growth requirement, while being more enticing
+_Listen to Spotify > read magazine > stare at wall > write friend about life stress_
+
+and now a slightly refined cycle:
+
+_learn favorite song on piano > listen to audiobook on dream topic > meditate > write on blog_
+
+The piano fulfills the learning and growth requirement while being more enticing
 and engaging than the same song you love but have already heard and are BORED of.
 New can often be a source of enticement in itself.
 
-Listening to an audiobook is actually lazier and easier than book reading, so
+Listening to an audiobook is lazier and easier than book reading, so
 it's easier to convince the monkey to choose the audiobook than the magazine, even
-if the audiobook is actually more dry and less immediately interesting of a topic.
+if the audiobook is actually drier and less immediately interesting of a topic.
 
 Meditating instead of staring has higher reward incentive, and as meditation is
 considered a practice, as it yields more positive results over time, feels like growth.
@@ -60,6 +63,7 @@ It doesn't matter what the cycle is, as long as your improved cycle makes refine
 over the old, and most importantly the cycle is a closed loop. The monkey should
 always be led to the next planned activity, with no access to an external
 procrastination activity outside of that loop.
+
 -- If part of your procrastination cycles is working on a project on the computer, perhaps graphic design or writing,
 I recommend turning off the internet or taking a laptop out of the house to a location
 with no internet access. --
@@ -74,15 +78,14 @@ be enticing enough to move towards unfulfilling goals, that there are times in
 which the panic monster is required. I haven't mentioned it yet, but how I'm
 currently operating is with:
 
-a cycle of procrastination and an actively awake and
-attentive panic monster.
+_a cycle of procrastination and an actively awake and
+attentive panic monster._
 
-The only real way to keep the panic monster awake, is to be aware of your mortality,
+The only real way to keep the panic monster awake is to be aware of your mortality,
 which I wrote a short note on a few days before seeing this video here:
 [https://www.jamesbyt.es/2020/10/11/Death.html](Death)
 
 Thanks for reading. You may have figured that I've been procrastinating by writing
-this, and of course you're right. In my delusion I've convinced myself that by
+this, and of course you're right. In my delusion, I've convinced myself that by
 posting this I am leaving a footprint that lingers in time, and that's enough to
-trick my mind to believing this is time well spent, and generate the positive feelings
-I require to go on.
+trick my mind to believing this is time well spent, and generate the positive feelings I require to go on. 

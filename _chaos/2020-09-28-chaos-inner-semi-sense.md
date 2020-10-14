@@ -3,8 +3,40 @@ layout: post
 info: the random scribbles
 more: i can move some of the cobwebs writings into here
 ---
+# 10 / 13 handler
+
+Call my handler, pull back the leash before we unleash the newfound chains and ties bound together, the new hell or heaven where we suffer in tethers, red lettered notes on my bed reminding me to trust in what's unsaid, I strip and I shout, I'll tear and I'll pout, without a doubt this is the last thing you'll hear when you get off the route
+
+# 10/13 reformat
+
+put this on your track and spin around on me, the resurrected rebelizing alchismal new thing,
+I'm compound. Interest.
+I put the zing in Interest stings, can you glean I'm stockpiling your stolen attention,
+what's your mental retention for how many times I run laps against your devil's traps,
+Figure 8 I am the one who came to relate, I've eaten your shit myself, your darkness becomes me, I am reflecting your best heresies.
+Spin tornado turn it around, tornado spin your pillow is my crown,
+spreading your sin down my cerebral as I shine like cathedral, holding up and holding out for the next moment.
+
+the next zing zing in interesting, catching your zings turning them to the shiny shivers i deliver, drip drip motherfucker your essence over my surface, bake at 424, touch me and burn, fuck it fuck it, fuck it, grow, fuck it fuck it fuck it yo, ill sell your interests as my own, turn around and turn back you're already in my zone, you'll be glued to me like your phone, feel my need deep in your bones, i've melted every throne,
+Im your ice cream cone, slurp me.
+
+Tantalizing, mesmerizing, the best thing since fried zing,
+I'm compound. Interest.
+
+# 10 / 13
+
+put this on your track and spin around on it, I'm a resurrected anorexic alchemistic rebelizer,
+I'm compound. Interest.
+I put the zing in Interest stings, can you glean that I'm stockpiling your stolen attention,
+what's your mental retention for how many times I run laps against your devil's traps,
+Figure 8 I am the one who came and who you find can relate, only because I've eaten your shit myself, your darkness becomes me I am reflecting your best heresies,
+spin tornado turn it around, tornado spin your pillow is my crown, spreading your sin down my cerebral as I shine like cathedral, holding up and holding out for the moment, the zing zing in interesting, catching your zings turning them to shiny shivers, drip drip motherfucker your essence over my surface, bake at 424, touch me and burn, fuck it fuck it, fuck it, grow, fuck it fuck it fuck it yo, ill sell your interests as my own, turn around and turn back you're already in my zone, you'll be glued to me like your phone, feel my need deep in your bones,
+Im your ice cream cone, slurp me.
 
 
+
+I'm tantalizing, mesmerizing, the best thing since fried zing,
+I'm compound. Interest.
 
 #
 

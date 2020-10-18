@@ -3,13 +3,16 @@ layout: noheader
 title: Bytes
 ---
 
-[a byte-sized blog](./bytes.html) - articles
+[a byte-sized blog](./bytes.html)<br> - articles
 
-[destination unknown](./journal.html) - looking deeper into what is
+[destination unknown](./journal.html) <br> - looking deeper into what is
 
 [spirit](./spiritdir.html)
 
 [order](./a_order.html)
 
 [chaos](./chaos.html)
-<br><br><br><br><br><br><br>
+
+[🔥 and 🌊](./stuff.html)
+
+<br><br><br><br><br><br>

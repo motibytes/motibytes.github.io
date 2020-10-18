@@ -1,6 +1,7 @@
 ---
 layout: noheader
 ---
+
 <!--
 ![The Byterian](/assets/byterian999.png)
 -->

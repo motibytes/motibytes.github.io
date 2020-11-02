@@ -5,6 +5,18 @@ author:
 
 __Books in progress__
 
+Inner Gold
+
+Owning Your Own Shadow
+
+Man's Search for Meaning
+
+Everything is Here to Help You
+
+The War for Kindness
+
+Self Therapy
+
 The Power of Imagination
 
 Emerald Tablets of Thoth

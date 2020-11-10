@@ -2,9 +2,9 @@
 layout: post
 ---
 
-Does the worship of Order become the acceptance of evil?
+Before I worship order, I see a world and do not accept the effects of order's actions.
 
-Before I worship order, I see a world and do not accept the effects of order's actions. I see a world 'the white man', the church inspired by Christ has built and see destruction and oppression.
+I see a world 'the white man', the church inspired by Christ has built and see destruction and oppression.
 
 After I worship order, rejecting that which is chaos, I trust that order's work, that of Christ's coming is part of a preordained plan set into motion. If I become a part of order, I progress the world of structure that has been built. I accept that structure as good, and by doing so accept order as it exists.
 

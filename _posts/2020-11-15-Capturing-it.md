@@ -10,6 +10,7 @@ we can experience scaling being fantastic and mundane, from depravity to divinit
 We are often striving for better, searching for greater, needing to be okay.
 We shy from uncertainty, fragility, despair, torments and sufferings, heartaches
 and cruelties.
+
 It is often easy to believe that we would always be okay if we could hold onto one
 familiarized state. Our thoughts say, if we always felt this one way, then we'll be okay forever.
 And yet while we may try to build ourselves up to condition to such a state such that we
@@ -17,7 +18,7 @@ And yet while we may try to build ourselves up to condition to such a state such
 
 I cannot begin to appreciate such a miracle. I often take comfort in knowing that
 I am part of the whole being of humanity that is temporarily witnessing an aspect
-of it from a personalized view, every imperfection as equally lovable as you would
+of all from a personalized view, every imperfection in life as equally lovable as you would
 love the whole of your soulmate. You don't love them less for having scars. You don't
 love someone's shoulder less than the elbow because it is simply one body, as it is.
 

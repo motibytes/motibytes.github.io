@@ -1,4 +1,7 @@
-- Capturing It - 
+---
+layout: post
+---
+
 I find myself captivated in the attempt to fathom what we are. The miracle visible
 at every given moment, that we are truly nothing less than the fullness of being.
 We are as human, the expression of every possibility, from weakness to greatness,

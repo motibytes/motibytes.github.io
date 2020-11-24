@@ -21,6 +21,8 @@ layout: noheader
 """
 #author: james bytes
 https://jamesbyt.es
+modified version for public reuse, some now meaningless vars in here from other
+functions that have been removed
 """
 
 import anki_vector

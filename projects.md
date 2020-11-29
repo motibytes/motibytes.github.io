@@ -6,6 +6,11 @@ layout: default
 
 
 <dt>&nbsp;</dt>
+<dt>temporary in progress</dt>
+<dd><a href="/projects_crypto_calculator.html">under construction</a> </dd>
+
+
+<dt>&nbsp;</dt>
 <dt>The Decision Maker</dt>
 <dd><a href="/thedecisionmaker.html">Home Page</a> </dd>
 

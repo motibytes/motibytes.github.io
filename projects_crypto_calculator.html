@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<!-- lesson from https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Return_values -->
+<html>
+   <head>
+      <link href="https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Annie+Use+Your+Telescope&family=Dancing+Script:wght@600&family=Homemade+Apple&family=Julee&family=Over+the+Rainbow&family=Shadows+Into+Light&display=swap" rel="stylesheet">
+      <meta charset="utf-8">
+      <title>crypto gains</title>
+      <style>
+         input {
+         font-size: 0.5em;
+         margin: 0.5px 0.5px 0;
+         }
+         body {
+         background-color: black;
+         color: white;
+         font-size: 2em;
+         text-align: center;
+         font-family: 'Amatic SC', cursive;
+         }
+         .jbico {
+               width: 110px;
+               height: 110px;
+               background: url("/img/avatar-icon4.ico") no-repeat;
+               display: inline-block;
+
+            }
+         .jbico:hover {
+            background: url("/img/avatar-icondark.ico") no-repeat;
+         }
+         a {
+            color: white;
+         }
+      </style>
+   </head>
+<body>
+   <div id="yes">
+      <h1 style="font-family: 'Dancing Script', cursive; color:#a28351"> crypto gains calculator </h1>
+<!-- 1 Input Copy-->
+<!--
+crypto gains calculator
+crypto fiat price
+fiat value
+crypto amount
+
+new fiat price
+new fiat value
+fiat gains/loss
+-->
+      crypto fiat price <input id="fiatprice" class="input" type="number" value:"17000">
+
+      <div id="4"><center>
+            <button id="change-background" type="button">Light Background</button>
+      </center></div>
+
+      <header class="icoh">
+      <a class="jbico" href="https://jamesbyt.es/"></a>
+      </header>
+   </div>
+
+<script>
+
+   //const para = document.querySelector('#yes'); //used for font selector AND input copy
+   // Button Change Background
+   const button = document.querySelector('#change-background');
+   let x = 1;
+   button.addEventListener('click', function() {
+   	if (x == 1) {
+         document.getElementById("yes").style.backgroundColor = "white";
+         document.getElementById("yes").style.color = "black";
+         x = 2;
+      }
+      else {
+      	document.getElementById("yes").style.backgroundColor = "black";
+         document.getElementById("yes").style.color = "white";
+         x = 1;
+   	}
+   });
+</script>
+
+</body>
+</html>

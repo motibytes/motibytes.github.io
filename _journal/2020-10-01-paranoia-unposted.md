@@ -1,6 +1,3 @@
----
-edited: no
----
 
 cbd kicked in paranoia pretty hard. This has been one of the best opportunities for inner work i've had in a while.
 

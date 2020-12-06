@@ -2,4 +2,4 @@
 layout: thelifegame
 title: The Life Game
 ---
-# preview coming soon! very soon
+# this page should never load anymore because im hardlinking to other domain 

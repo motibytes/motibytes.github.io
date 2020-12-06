@@ -8,11 +8,11 @@ layout: default
 <dt>&nbsp;</dt>
 <dt>temporary in progress</dt>
 <dd><a href="/projects_crypto_calculator.html">under construction</a> </dd>
---> 
+-->
 
 <dt>&nbsp;</dt>
 <dt>The Life Game</dt>
-<dd><a href="/thelifegame.html">Home Page</a> </dd>
+<dd><a href="https://thelifega.me">Home Page</a> </dd>
 
 <dt>&nbsp;</dt>
 <dt>The Byterian</dt>

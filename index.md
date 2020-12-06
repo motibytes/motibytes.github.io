@@ -4,7 +4,7 @@ layout: testme
 
 Welcome!
 
-I am the creator of [The Life Game](/thelifegame.html). <br>
+I am the creator of [The Life Game](https://thelifega.me). <br>
 
 [I also write.](/bytes_.html) A bit.
 

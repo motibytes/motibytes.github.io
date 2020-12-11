@@ -1,0 +1,79 @@
+5:31 PM] Adil: did you say mindset is a tool?
+[5:31 PM] Divenie^$🧞^: mindset can be a tool that helps orient you to shift perspective
+[5:31 PM] Divenie^$🧞^: imo
+[5:32 PM] Divenie^$🧞^: everything is a tool to me tho
+[5:32 PM] Divenie^$🧞^: that's just how i choose to look at it
+
+ PM] WondrousHippo: So how should you apply it @Divenie^$🧞^ ?
+ M] Divenie^$🧞^: apply wat
+[5:33 PM] WondrousHippo: the secret, positive thinking/affirmation
+[5:33 PM] WondrousHippo: what you were talking about earlier
+
+
+[5:46 PM] Divenie^$🧞^: @WondrousHippo the problem with applying mindset as a tool to start with to me is like trying to dig yourself out of a grave, it's possible but I try to find the shortest path to the destination with the smallest amount of effort.
+Before looking to set a mindset, I'd start with just facing death. shifting to the perspective that "holy fucking shit, this is it."(edited)
+[5:47 PM] Divenie^$🧞^: a little tiny more on death perspective https://www.jamesbyt.es/2020/10/11/Death.html
+[5:47 PM] WondrousHippo: interesting, the same practice is proposed in the book of the samurai and ofc stoics have a similar approach
+[5:48 PM] Divenie^$🧞^: yeah you'll find that whatever religion or philosophy you look into if you look deep enough you'll find the same core deeper wisdom
+[5:48 PM] WondrousHippo: so this to unburden yourself
+[5:48 PM] WondrousHippo: so that you can applicate a mindset more freely?
+[5:48 PM] Divenie^$🧞^: yeah clear out all the priorities and problems that don't matter
+[5:48 PM] Divenie^$🧞^: exactly
+[5:48 PM] WondrousHippo: I agree, a lot of wisdom seems to be universally shared
+[5:50 PM] WondrousHippo: thanks for the link
+[5:50 PM] Divenie^$🧞^: so if step 1 was quick shift of focus
+[5:54 PM] Divenie^$🧞^: i'd say step 2 would be, fully accepting the moment right now as being perfect, realizing you have everything you could ever need, (the ability to breath, oxygen, your heart is beating, you're safe, your existence is a literal miracle and you have tons of organs and processes happening within your body that are all keeping you alive, the sun is allowing light into reality and keeping you from freezing to death, gravity is allowing you to not fly away into space forever, you probably ate in the last 24 hours, you probably have an available water supply)
+i'd say that's called the 'gratitude perspective', that moves out of the illusion or lie that you are lacking in life and need something that you don't have
+[5:57 PM] Divenie^$🧞^: the most important part of step 2 is gaining the focus and ability to be conscious of your own thoughts and feelings and be able to consider things like, "wait was i always feeling this way"
+then id say step 3 a mindset might be different relative to the person,
+ for me it's embracing change completely, looking to find the ability to grow or learn in any situation.
+but more generally i'd say the 'best' mindset would be "If I have everything I ever need, what possible awesomeness might I want."
+
+couple the "Oh shit i might die I'm now looking at the world for the very last time" perspective with the awakeness with the awesomeness mindset i'd say is a pretty nice combo(edited)
+
+[6:00 PM] WondrousHippo: yes, that's quite profound
+[6:00 PM] WondrousHippo: I myself have a hard time with feeling gratitude
+[6:00 PM] WondrousHippo: it's one of my flaws you might say
+[6:00 PM] Divenie^$🧞^: it feels quite profound to be saying that in 3 parts for the first time, i greatly appreciate you asking the question
+[6:01 PM] WondrousHippo: but I will start looking into the death perspective more, I also suffer from anxiety, perhaps it could alleviate some of it
+[6:01 PM] WondrousHippo: and I greatly appreciate you taking the time to share your insights with me
+
+[6:01 PM] Divenie^$🧞^: i have a very hard time with feeling gratitude, or doing much of anything, the secret I'd say to that is,
+just wake up in the morning and set the intention of seeking gratitude.
+the intention is enough to bring it out of you
+
+[6:02 PM] flubu: "Worrying is literally betting against yourself."
+
+[6:03 PM] WondrousHippo: yes, I agree on the power of intention, but even the intention brings resistence from within me. Basically, my perspective, for however limited it is right now, is; I live in a shit world, I have a shit live, why has everything have to be so shit and why on earth would I even feel gratitude to someone if they made this be, I despise them for not making it better. I know that is pretty pessimistic, limiting and selfish, but that's where I currently stand
+
+[6:04 PM] WondrousHippo: however, when say, there is a silent rain, or the sun shines midly as it sets, and I am in nature, that's when I do feel some love for the world
+
+[6:06 PM] WondrousHippo: that's my thing though, if there was a god, why should I thank him for doing such a shitty job, I know religious people would say, it's not gods responsibility, but I am personally of the opinion that God, in a selfish quest for insight into his own nature, brought about everything including this mess
+@WondrousHippo
+yes, I agree on the power of intention, but even the intention brings resistence from within me. Basically, my perspective, for however limited it is right now, is; I live in a shit world, I have a shit live, why has everything have to be so shit and why on earth would I even feel gratitude to someone if they made this be, I despise them for not making it better. I know that is pretty pessimistic, limiting and selfish, but that's where I currently stand
+[6:06 PM] Divenie^$🧞^: id say give yourself some grace and compassion for feeling like this,
+that it takes time to grow, you're not the same person you were 10 years ago, growth doesn't happen overnight, and the way you're feeling, it's just a feeling. it's just thoughts connected to a feeling that's been there for a while.
+[6:06 PM] flubu: There is literally no way I could have gratitude if I had not had very deep sorrows in the past. Gratitude is emotional maturity
+[6:06 PM] flubu: Or a scale of it
+[6:06 PM] WondrousHippo: That is true
+@WondrousHippo
+however, when say, there is a silent rain, or the sun shines midly as it sets, and I am in nature, that's when I do feel some love for the world
+[6:06 PM] Divenie^$🧞^: id meditate on that
+[6:06 PM] WondrousHippo: yea, I will
+[6:07 PM] WondrousHippo: I do, sometimes
+[6:07 PM] WondrousHippo: I guess I was too young when I was overwhelmed by deep sorrows to feel gratitude for how things are now, I just resent their aftermath
+@WondrousHippo
+that's my thing though, if there was a god, why should I thank him for doing such a shitty job, I know religious people would say, it's not gods responsibility, but I am personally of the opinion that God, in a selfish quest for insight into his own nature, brought about everything including this mess
+[6:08 PM] Divenie^$🧞^: you can save the question of gods existence for another day though, you got a lot to process
+[6:08 PM] WondrousHippo: true, it has been interesting and insightful, thank you
+@WondrousHippo
+true, it has been interesting and insightful, thank you
+[6:09 PM] Divenie^$🧞^: you're welcome bro
+[6:11 PM] Protophite: Philosophy is fascinating
+
+####
+
+[6:14 PM] Numbers: no moment is perfect and my needs/desires will inevitably go unfulfilled at some point. the next level is to be satisfied regardless, experiencing pain without suffering
+[6:18 PM] Divenie^$🧞^: i would agree, but i don't touch the subject of pain until people are ready for that
+[6:19 PM] m_7: diamonds are forever
+[6:19 PM] Divenie^$🧞^: sometimes people just need a win

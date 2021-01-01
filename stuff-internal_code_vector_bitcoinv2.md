@@ -53,7 +53,7 @@ def main():
             except requests.ConnectionError:
                 print("Error querying Bitstamp API")
         def lastPrice():
-            moneyyy = "Bitcoin last price was " + str(getBitcoinPrice()) + "USD" #space after was may cause issue with output, test
+            moneyyy = "Bitcoin last price was " + str(getBitcoinPrice()) + "USD"
             return moneyyy
         def differencebuyPrice():
             diff = btcPrice - mybuyPrice

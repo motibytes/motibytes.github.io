@@ -34,9 +34,10 @@ I aim **to create systems of interactive text-based therapeutic resources** avai
 
 # But.. What does that mean?
 
-That means I want to create programs that change people's perspectives about life, what matters, and eventually to help them work through trauma.
-
-
+That means I want to create programs that change people's perspectives about life and give information that will allow others to move forward into better futures.
+<!--
+and eventually to help them work through trauma.
+--> 
 # My plan:
 
 I am starting with small projects and working my way up from there. I started with text-based motivational bots as a small hobby. I'm now designing [a program](/thedecisionmaker.html)
@@ -46,7 +47,7 @@ that walks individuals through making life decisions, their goals, and their cal
 
 # Just what exactly do I aim to build in the future?
 
-I will build programs of increasing scope. I plan to take the experience gained along the way to create an intelligence that capable of providing extensive therapy to anyone, perhaps with much more complex work like grief.
+I w<!-- W -->ill build programs of increasing scope. I plan to take the experience gained along the way to create an intelligence capable of providing extensive therapy to anyone, potentially into the domain of complex work like grief.
 
 # Basically,
 

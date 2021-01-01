@@ -1,1 +1,65 @@
-copy design here after grammatically editing
+---
+layout: post
+edited: no
+hmm: perhaps I could split this into two parts, two
+m: messages.
+m: one that is teaching and one that is just for the
+m: theorizing
+---
+
+ We feel less **alone** and **more connected** when we learn that there is someone else who has shared a similar past and self and story.
+
+ When we learn there are millions of those like us, it begins to seem that our design might be the result of someone's crafted template that we have grown from. A template for those with the same characteristics, motivations, dreams, passions, thoughts, mannerisms, personality. That have been **programmed** this way, given this base personality and the same base story and matching plot.
+
+# How many of those like us are born, and of how geographically far apart, is a matter of statistical probability.
+
+There is a measurable percentage of us in each town, city, state, country, continent. This is not random, it is pseudorandom. Our likeness is fixed to a specific algorithm just as measurable as any other law or occurrence found within this universe.
+
+We can chalk up everything in the universe to random chance, accident. Regarding the stories and courses of our lives however, these are observable patterns, mathematics that can be quantified. Plots of tragedy and comedy, these are set into motion.
+
+# While not necessarily individually scripted, the basis for these scripts is an observable series of prototyping.
+
+Our histories, our profiles, they are on some level, **designed**.
+The outcome of these stories is subject to choice and pseudo-random fixed chance, allowing for different potential possibilities, but at the core this is the undeniable work of a maker.
+
+# If I were to design a world, I wouldn't want to individually create billions of stories and lives.
+
+No. I would simplify the work, and be excited by the potential of what I had set in motion. I would design the base profiles of each kind of person and create functions that randomize characteristics and
+attributes of these. In programming we would call this a _function factory_. A people factory. A story factory. An Earth factory, and beyond.
+
+<!--
+It makes sense why people would want to consciously ignore all of this, that we are of a world designed by us, but I often fail to understand **how** anyone can ignore it, if they really think about it. There's no
+mistaking it, theres no other theory or hypothesis that takes into account all of it in such a way. -->
+
+# Even our apparently shared subconsciousness -[which science has observed]("https://earlybirdstreehouse.wordpress.com/2014/12/01/the-crossword-puzzle-phenomenon-by-monica-england/")- makes sense of this.
+
+We would currently be unable to explain a collective consciousness without a metaphysical explanation. From a programmatic perspective however, **connecting our thoughts would be no less difficult than creating a causal
+relationship between atoms**.
+
+As for the rest of the metaphysical, while it is not impossible for "God's" existence and spiritual realms to exist independent of one's imagination, such existences do not nullify the independent existence of a designer. There is not a mandatory requirement for a connection between the planet's designers and the spiritual deity that people claim fills them with light and love. These are not required to be one and the same.
+
+**It is unlikely we have fixed destiny.** Along with our base profile, it would seem there is a template laid out for a possible and attainable destiny that we may choose to lean towards. _This would be among the exceptions regarding connection between creator and deity, as spiritual deity would surely have a destiny for us and desire to lead us towards it._
+
+Exploring that, if the creator was a physical being like us, and set out a
+template destiny for us, he might also want credit for his work, to receive praise as any of us desire. Say the designer did not want to reveal himself,
+
+> _If a creator were to reveal himself, we might feel that we were held in a trap by a person with no more qualifications to control us than we ourselves. Perhaps we'd spend our days protesting him for not giving us better lives or even commit mass suicide._
+
+he would have to take the next best solution. To design us to worship a deity, one created as he imagines himself to be. He would have to settle for us worshipping his creation of a "God", and imagine to himself that we were praying to him directly.
+
+# It would be simple for a designer to program us with an innate instruction to believe in a God.
+
+To impart in us conscious knowledge about a God we are made instinctually aware of. Who would take the time to design creatures be able to communicate, to read and write, for a reason other than **to be able to learn that their creator exists?**
+
+As for designing consciousness, a _-not omniscient, omnipotent-_ creator would have to make use of artificial intelligence and algorithms.
+
+```
+
+But would it be feasible to design a consciousness with an imagination and awareness of spirituality?
+Could spirituality be nothing more than an unintended aftereffect of consciousness, a simple matter of feelings and imagination?
+Is our perception of reality from the eyes of a single person, afraid of
+the unknown possibilities of infinity, just so?
+
+```
+
+_If philosophers have believed everything under the sun, and I one of billions of conscious beings capable of independent reasoning, there is really nothing wrong with I religiously adhering to and exploring the concept that we are in fact, the result of a program_ _ _

@@ -1,5 +1,6 @@
 ---
 layout: post
+shouldikeepthis: no... this really is not my target topic 
 ---
 
 This page is a response to the fabulous Ted Talk:
@@ -88,4 +89,4 @@ which I wrote a short note on a few days before seeing this video here:
 Thanks for reading. You may have figured that I've been procrastinating by writing
 this, and of course you're right. In my delusion, I've convinced myself that by
 posting this I am leaving a footprint that lingers in time, and that's enough to
-trick my mind to believing this is time well spent, and generate the positive feelings I require to go on. 
+trick my mind to believing this is time well spent, and generate the positive feelings I require to go on.

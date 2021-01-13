@@ -2,7 +2,7 @@
 layout: post
 ---
 
-# The tree that grows to its full potential is the tree that drinks sunlight, the tree that is not covered up by the shadow of the forest.
+The tree that grows to its full potential is the tree that drinks sunlight, the tree that is not covered up by the shadow of the forest.
 
 It can be said that the purpose of a tree is to grow and reach its arms out for the
 sun. All of Life follows in this same sacred process. All of Life understands the

@@ -30,7 +30,7 @@ This is where any teacher must be mindful. After absorbing from sunlight ourselv
 we can strongly desire to share the fruit of our trees, the realizations gathered
 from our explorations. In this excitement we must be careful.
 
-# We must not cover up a students access to sunlight over the shadow of our wisdom.
+# We must not cover up a student's access to sunlight over the shadow of our wisdom.
 
 This may seem simple and obvious, or irrelevant and unneeded, but when unaware,
 we run a great risk of running this grave error. This is because we have to

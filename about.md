@@ -24,7 +24,7 @@ You can also find me on [Facebook](https://www.facebook.com/james.bytes.73).
 <!--
 I am a writer, coder, web designer, free thinker.
 
-You can connect with me at JamesBytes1@gmail.com and  -->
+You can connect with me at jamesbytescontact@gmail.com and  -->
 
 <br>
 # My Mission:
@@ -37,7 +37,7 @@ I aim **to create systems of interactive text-based therapeutic resources** avai
 That means I want to create programs that change people's perspectives about life and give information that will allow others to move forward into better futures.
 <!--
 and eventually to help them work through trauma.
---> 
+-->
 # My plan:
 
 I am starting with small projects and working my way up from there. I started with text-based motivational bots as a small hobby. I'm now designing [a program](/thedecisionmaker.html)

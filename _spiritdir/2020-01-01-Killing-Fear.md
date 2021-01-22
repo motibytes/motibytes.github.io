@@ -2,7 +2,7 @@
 layout: post
 ---
 
-In the Name of Jesus Christ, the Risen One, and in the Name of a Son of God Tyler James Kavanaugh, and by the Power of the Living Holy Spirit of God, and the Power of My Will, I Pray to the Highest Power of Love to bind all fear from my reality, Now, forever.
+In the Name of Jesus Christ, the Risen One, and in the Name of a Son of God [redacted], and by the Power of the Living Holy Spirit of God, and the Power of My Will, I Pray to the Highest Power of Love to bind all fear from my reality, Now, forever.
 
 I Ask as a Son of God to be Love, to be made Love, to be made Aware of Perfect Love.
 

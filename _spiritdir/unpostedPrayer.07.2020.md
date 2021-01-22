@@ -1,6 +1,6 @@
 Oh Lord my God-Goddess,
 Highest Love, Highest Light, Highest Truth, I pray to You as a child of Light,
-Tyler Jamesi Kavanaugh, Perfect Creation of the Divine, Son and Daughter of the Spirit of the Living God,
+, Perfect Creation of the Divine, Son and Daughter of the Spirit of the Living God,
 Servant of Jesus and devotee of Love, I beseech You and cry out to the Heavens and all that is that You
 hear me, I Thank You for hearing me!
 To You I pray,

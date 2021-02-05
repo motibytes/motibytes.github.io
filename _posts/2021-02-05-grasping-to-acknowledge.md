@@ -68,11 +68,16 @@ sending this second message. For reasons beyond my current understanding, we see
 When I watch someone I know interact with the world, I see more. I can see the person who is sleeping, who is not
 fully aware, and I can see that there is another part of them active, that is far more aware of far much more.
 
-I feel that when we express that we really know someone, a part what we are saying
+I feel that when we express that we really know someone, a part of what we are saying
 is that we are able to see an image of that other part, of this background actor, that is always asking to be acknowledged of its
 existence.
 
 Perhaps, a far deeper level of trust resides in our background selves acknowledging each other.
 Perhaps "If only you could see the way I see you." is an example of this kind of acknowledgement.
 
-I have to wonder if the strive for authenticity is also an attempt to better showcase the background image of self.
+--------------------------------------------
+
+In any case, time has taught me that for the forefront me to live fully, I cannot be attempting to hold onto
+or recapture all that I have been. Change is only harder and more painful to experience if I try to hold on.
+
+I now wonder if the strive for authenticity is also an attempt to better showcase the background image of self.

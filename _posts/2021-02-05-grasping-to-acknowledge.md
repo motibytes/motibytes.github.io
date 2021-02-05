@@ -42,8 +42,7 @@ It's impossible for me to see it all at once, as I can't consciously remember al
 I have experienced and all of the ways I have felt, I can be quite forgetful. But I am aware
 that what makes up my conception of the actual me, is all of that in one image.
 
-I am aware that there is a me that is seeing a larger picture, that is always being reinterpreted,
-and always being looked at.
+A larger picture is always being reinterpreted and observed.
 
 This is where I propose a new idea. What if I am not only participating in the world to feel
 seen and heard? What if that is only half of the equation?

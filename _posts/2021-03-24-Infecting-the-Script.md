@@ -13,9 +13,9 @@ society as a whole reaches a fragile state in which it gains a willingness to ev
 only possible through a death and rebirth, if only it knew how.
 
 It is fortunate that what lies underneath the surface of mankind's cold shell,
-- just as a spirit of life lies underneath the layers of defenses of each hurting heart, -
+--just as a spirit of life lies underneath the layers of defenses of each hurting heart,--
 is an infinite, limitless sea of the possibilities in which love might dare to express itself
-in an unseen way. What is seen, -the harsh and vicious nature of humanity, - dies to the unseen
+in an unseen way. What is seen, --the harsh and vicious nature of humanity,-- dies to the unseen
 force that has yet to be expressed.
 
 It would perhaps not be so profound if it were not for the when, of when this kind of change becomes

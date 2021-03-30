@@ -41,7 +41,7 @@ My virtual assistant
 
 <dt>&nbsp;</dt>
 <dt>Bible Scripture Generator </dt>
-<dd><a href="/projects_scripture.html">Create memes with beautiful fonts.</a> </dd>
+<dd><a href="/projects_scripture.html">Get a random verse from the bible.</a> </dd>
 
 <!--
 <dt>&nbsp;</dt>

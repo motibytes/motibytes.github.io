@@ -1,6 +1,6 @@
-<!DOCTYPE html>
-<html>
-  <body>
+---
+layout: default
+---
     <h1>Random Scripture</h1>
 
     <p>Click the button to trigger a function that will output a random scripture.</p>
@@ -15,6 +15,3 @@
         document.getElementById("output").innerHTML = getScripture();
       }
     </script>
-
-  </body>
-</html>

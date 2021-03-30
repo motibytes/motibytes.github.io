@@ -39,6 +39,10 @@ My virtual assistant
 <dt>Meme Generator </dt>
 <dd><a href="/projects_beautifulmemes.html">Create memes with beautiful fonts.</a> </dd>
 
+<dt>&nbsp;</dt>
+<dt>Bible Scripture Generator </dt>
+<dd><a href="/projects_scripture.html">Create memes with beautiful fonts.</a> </dd>
+
 <!--
 <dt>&nbsp;</dt>
 <dt>The Banks of Speechlessness </dt>

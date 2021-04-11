@@ -80,3 +80,7 @@ function getScripture(){
 
   return vargetScriptureOutput;
 }
+
+// get book number then
+// if book number then random var set to how many chapters in that book
+//then if chapter, random var set to how many verses in that chapter 

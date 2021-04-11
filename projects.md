@@ -43,6 +43,11 @@ My virtual assistant
 <dt>Bible Scripture Generator </dt>
 <dd><a href="/projects_scripture.html">Get a random verse from the bible.</a> </dd>
 
+
+<dt>&nbsp;</dt>
+<dt>Original Site</dt>
+<dd><a href="https://thelifega.me">Home Page</a> </dd>
+
 <!--
 <dt>&nbsp;</dt>
 <dt>The Banks of Speechlessness </dt>

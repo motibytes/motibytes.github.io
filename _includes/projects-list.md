@@ -1,21 +1,24 @@
-# Projects:
+# Projects
 
 
 <dt>&nbsp;</dt>
-<dt>Bible Scripture Generator </dt>
+<dt>Bible Scripture Generator (In Active Development)</dt>
 <dd><a href="/projects_scripture.html">Get a random verse from the bible.</a> </dd>
-
 
 <dt>&nbsp;</dt>
 <dt>The Life Game (In Development) </dt>
 <dd><a href="https://thelifega.me">Home Page</a> </dd>
 
+<dt>&nbsp;</dt>
+<dt>SorceRawr.com </dt>
+<dd><a href="https://sorcerawr.com">Curated Content and Crypto</a></dd>
+<dt>&nbsp;</dt>
 <!--
 <dt>&nbsp;</dt>
 <dt>Crypto Gains Calculator</dt>
 <dd><a href="/projects_crypto_calculator.html">under construction</a> </dd> -->
 
-# - - - - - - - - Older Projects - - - - - - -
+# Older Projects
 
 <dt>&nbsp;</dt>
 <dt>Meme Generator </dt>
@@ -30,25 +33,28 @@
 <dd><a href="/stuff-internal_interactiveapps.html"> Live Text Adventures </a>  </dd>
 
 <dt>&nbsp;</dt>
-<dt>KELA </dt>
-<dd><a href="https://jamesbytes.trinket.io/sites/kela">Motivational bot!</a> </dd>
-
-<dt>&nbsp;</dt>
-<dt>KETA </dt>
-<dd><a href="https://jamesbytes.trinket.io/sites/keta">Daily Prayer bot! </a> </dd>
+<dt>KELA and KETA</dt>
+<dd><a href="https://jamesbytes.trinket.io/sites/kela">Motivational bot</a> and <a href="https://jamesbytes.trinket.io/sites/keta">Daily Prayer bot! </a>  </dd>
 
 <dt>&nbsp;</dt>
 <dt>Podcast - The Byterian</dt>
-<dd><a href="/thebyterian.html">A podcast on raw, genuine, vulnerable, critical reflection and exploration of reality (2019).</a> </dd>
+<dd><a href="/thebyterian.html">Concerning raw, vulnerable exploration of reality. (2019)</a> </dd>
 
+<!--
 <dt>&nbsp;</dt>
 <dt>KEVIA (Github Repository)</dt>
 <dd><a href="https://github.com/kuz3/KEVIA">My virtual assistant </a>  </dd>
-
+-->
 <dt>&nbsp;</dt>
 <dt>Original Site</dt>
-<dd><a href="http://www.jamesbyt.es/jamesbytesoriginal.github.io/home2"> All roads lead back to Rome it seems.. </a> </dd>
+<dd><a href="http://www.jamesbyt.es/jamesbytesoriginal.github.io/home2"> All roads lead back home.. </a> </dd>
+<dt>&nbsp;</dt>
 
+# For Nerds
+
+<dt>&nbsp;</dt>
+<dt>Anki Vector Scripts </dt>
+<dd><a href="/stuff-internal_code_vector.html"> Python Scripts for the little robot. </a>  </dd>
 
 
 <!--

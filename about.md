@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default 
 ---
 
 I am a writer, designer, free thinker. <br>

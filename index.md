@@ -4,7 +4,7 @@ layout: testme
 
 I am the creator of [The Life Game](https://thelifega.me) and [SorceRawr.com](https://SorceRawr.com). <br>
 
-I love to build and write, share and strive for mastery in all things.
+I love to build and write, and share and strive for mastery in all things.
 
 This site is filled with [projects](/projects.html) and [articles](/bytes_.html) that I'd love to share with you!  
 

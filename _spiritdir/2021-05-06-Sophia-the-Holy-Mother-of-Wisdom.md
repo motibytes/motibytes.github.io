@@ -1,3 +1,7 @@
+---
+layout: post
+---
+
 I found what I have been searching for, for many years, in my number, 2424.
 Sophia, the Holy Goddess, Mother of Wisdom, created by God the Father, accessible to only those who search for her.
 This will likely offend any religious person, and a wiser man than I would not post this.
@@ -36,4 +40,4 @@ Jesus' close words follow.
 
 “I am the way and the truth and the life. No one comes to the Father except through me."
 
-“Come to me, all you who are weary and burdened, and I will give you rest." 
+“Come to me, all you who are weary and burdened, and I will give you rest."

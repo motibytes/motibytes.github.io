@@ -5,13 +5,19 @@ author:
 
 __Books in progress__
 
+King warrior Magician Lover
+
+Sirach
+
+Maps of Meaning
+
+The Happiness Project
+
 Inner Gold
 
 Owning Your Own Shadow
 
 Man's Search for Meaning
-
-Everything is Here to Help You
 
 The War for Kindness
 
@@ -25,7 +31,12 @@ How to Expand Love - Dalai Lama
 
 The Poetics of Mind
 
+
 __Books Finished__
+
+Everything is Here to Help You
+
+The Alchemist
 
 Who Do You Think You Are? The Healing Power of your Sacred Self
 

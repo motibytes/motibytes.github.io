@@ -7,19 +7,20 @@ __Books in progress__
 
 King warrior Magician Lover
 
+Warrior of the Light
+
 Sirach
 
 Maps of Meaning
 
 The Happiness Project
 
-Inner Gold
+Inner Gold --meh
 
-Owning Your Own Shadow
+Owning Your Own Shadow ---meh
 
-Man's Search for Meaning
 
-The War for Kindness
+The War for Kindness -- just for research
 
 Self Therapy
 
@@ -34,13 +35,15 @@ The Poetics of Mind
 
 __Books Finished__
 
+Man's Search for Meaning
+
 Everything is Here to Help You
 
 The Alchemist
 
-Who Do You Think You Are? The Healing Power of your Sacred Self
+Who Do You Think You Are? The Healing Power of your Sacred Self  -- kinda meh
 
-Original Self
+Original Self -- kinda meh
 
 Mastery
 

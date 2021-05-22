@@ -40,12 +40,16 @@ I find these thoughts to be untrue when explored, as at its core, this process i
 For those that have not focused on emotions in many years, it becomes more difficult to identify ones feelings as they become unrecognizable as feelings. This is the case in which one feels that they "feel nothing", or they "don't feel anything", or they feel "an absence of feeling", or even "the absence of an absence of feeling", all of which are deep spaces of actual feelings that can be worked with once identified as such.  
 
 The most difficult subject of course is the individual who has become obsessed with feeling great at all times, the one who will feel the most despair when they crash. This person is just as much feeling great as they are running as far as they can from all negative and painful reminders of feelings, to the point of avoidance of themselves and others in their lives in order to escape the darkness of night.
----
+
+--
+
 The way emotions are approached varies circumstantially. There are so many methods of this alchemy, that it is likely you already actively use at least one in your daily life, and will naturally pick up more as you get older. It could be said then that what I am referring to are methods of advanced emotional alchemy.
 
 The introduction to these methods is simply that you do not know which ones will work for you at this time in your life unless you try them, just as in physical alchemy, this is a process of experimentation and exploration. Think of this as a recipe cookbook, you can try to cook some, or add some recipes to your existing concoctions.
----
 
+--
+
+A methodology as follows,
 
 1. Asking questions.
 

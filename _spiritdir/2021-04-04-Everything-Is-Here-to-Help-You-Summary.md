@@ -2,6 +2,9 @@
 layout: post
 ---
 
+Final statements summary of Matt Kahn's "Everything is Here to Help You"
+
+"
 I accept the ego is the soul in its most dormant stages of incubation.
 It is not to be opposed, rejected, or denied, no matter how painful it may be when
 oscillating between patterns of worry, anticipation, and regret.
@@ -92,3 +95,4 @@ consciousness each and every time. This helps me transform my view of life from 
 process, where everything is here to help me reach my absolute potential.
 
 And so I am free. And so I am embraced. And so I am redeemed. And so I am fulfilled. And so I am. And so it is.
+"

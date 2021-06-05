@@ -1,8 +1,6 @@
----
-layout: post
----
 
-words 
+
+words
 
 07/12/20
 

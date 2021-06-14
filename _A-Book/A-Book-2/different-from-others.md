@@ -1,3 +1,8 @@
+# Was writing on ego believing the story that it is different from others.
+restart the article with, just challenging how you are different from others. 
+
+
+
 I'm just gonna leave the first thought "dilemma" that goes into this here.
 
 If we had equal struggles and we were the same as other people, we wouldn't be different.

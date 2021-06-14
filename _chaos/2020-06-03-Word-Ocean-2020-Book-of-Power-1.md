@@ -1,216 +1,363 @@
-from 2021 book of power
+from 2021 book of power link
 
 wordList = [
-Light
-Life
-endless
-Abundance
-Blessings
-Teachings
-Through
-every
-moment
-Lead
-Guide
-Allowing
-continue
-Create
-Connecting
-Strengthening
-Giving
-Wisdom
-Empowering
-Voice
-Safety
-Protecting
-wish
-Rest
-Stillness
-comfort
-peace
-Stability
-Kindness
-Healing
-Helping
-LetGo
-Reaching
-Growing
-Eternity
-Rescuing
-Saving
-soul
-Create
-Inspires
-Gives
-Hope
-Flourishing
-abilities
-determination
-focus
-resolve
-will
-Culture
-Variety
-way
-Fruits
-Maintaining
-Vineyards
-Breath
-oxygen
-lungs
-Reminding
-Appreciate
-making
-existence
-Divinity
-Love
-Chance
-Possibility
-Being
-Able
-Be
-Thankful
-Grateful
-Upon
-Hill
-Ripples
-Streams
-Smooth
-Flow
-Heart
-Soul
-Reconnecting
-heavens
-beautiful
-reopening
-Leading
-Showing
-Keeping
-path
-Helping
-Right
-Patient
-Forgiveness
-Humility
-Surrender
-Clarity
-Eyes
-See
-Ears
-Hear
-Discretion
-Wisdom
-Virtue
-Wealth
-Support
-Vision
-freeing
-mind
-granting
-ability
-transmute
-darkness
-into
-light
-Taking
-Care
-Keeping
-pen
-sunrise
-Sustaining
-Faith
-Joy
-Expression
-Spirit
-Hope
-dance
-riches
-computer
-have
-always
-dreamed
-friends
-family
-healthy
-Leading
-Choose
-Infinite
-Peace
-sacred
-mattering
-cup
-overflowing
-I
-am
-deserving
-wealth
-Sunlight
-Lessons
-Spirit
-Contemplation
-Universe
-reinterpret
-reality
-perfect
-wondrous
-day
-sun
-skin
-clear
-crystaline
-waters
-peace
-Still
-calm
-rest
-Christ
-Jesus
-Holy
-Arising
-gifts
-witness
-Gratitude
-Real
-Peace
-Grace
-Surrender
-Sunlight
-Moonlight
-Father
-Mother
-Son
-Angels
-Truth
-Joy
-humanity
-Possibility
-Perfection
-Compassion
-Solace
-Friendships
-Beloved
-Strength
-Bravery
-Kindness
-Divinity
-walk
-stand
-grow
-Heaven
-Earth
-Endless
-Skies
-Above
-sleep
-Rise
-
-
-
-
-
-
-
-
+"Shaping my Life and my Being as an Expressive and Beautiful Piece of Art",
+"Reciprocation",
+"Allowing Me to Share so Much",
+"Allowing me to Experience these deep expressive emotions",
+"Connecting my Heart to Light",
+"feeding me in Spirit",
+"Light",
+"Life",
+"this Beautiful Life",
+"Living",
+"Love",
+"this Love",
+"Spirit",
+"Possibility",
+"Possibilities",
+"the Beautiful",
+"Infinite Beauty",
+"Endless Abundance",
+"Blessings",
+"Teachings",
+"every Moment",
+"Leading",
+"Leading me to Choose Love",
+"Guiding",
+"Showing",
+"Continuing",
+"Creating",
+"Creation",
+"Creating me",
+"Allowing",
+"Connecting",
+"Connection",
+"Strength",
+"Strengthening",
+"Giving",
+"Wisdom",
+"Empowering",
+"Empowerment",
+"Voice",
+"Safety",
+"Protecting",
+"Protection",
+"Rest",
+"Resting",
+"Still",
+"Stillness",
+"Comfort",
+"Comforting",
+"Peace",
+"Peacefulness",
+"Stability",
+"Kindness",
+"Healing",
+"Help",
+"Helping",
+"Letting Go",
+"Reaching Out",
+"Growth",
+"Growing",
+"Eternity",
+"Rescuing",
+"Saving",
+"Inspiration",
+"Inspiring",
+"Hope",
+"Flourishing",
+"abilities",
+"determination",
+"focus",
+"resolve",
+"will",
+"culture",
+"Variety",
+"Maintaining",
+"Breathing",
+"breath",
+"oxygen",
+"lungs",
+"Reminding",
+"Existence",
+"Divinity",
+"the Divine",
+"Allowing Me the Chance to Love",
+"the Possibility of Being Able to Be Thankful and Grateful and Appreciative!",
+"the Possibility of Being Able to Be",
+"Capability",
+"Appreciation",
+"Thankfulness",
+"Thanks",
+"my Heart",
+"heart",
+"Soul",
+"Connection",
+"Reconnection",
+"Opening",
+"Reopening",
+"Keeping",
+"Patience",
+"Forgiveness",
+"Forgiving",
+"Humility",
+"Surrender",
+"Clarity",
+"Seeing",
+"Sight",
+"Vision"
+"Hearing",
+"Sound",
+"Discretion",
+"Virtue",
+"Support",
+"Transmuting",
+"Granting",
+"Sustenance",
+"Faith",
+"Joy",
+"Expression",
+"Expressing",
+"Health",
+"Healthiness",
+"Choosing Love",
+"Contemplation",
+"Interpretation",
+"Reality",
+"Perfection",
+"Gratitude",
+"Gratefulness",
+"Grace",
+"Strength",
+"Strengthening",
+"Bravery",
+"You",
+"All that is",
+"Allowing me to walk, to stand, to grow"
+"All that You have Created",
+"Allowing me to Rise with the sun",
+"Progress",
+"Good things",
+"Empathy",
+"Productivity",
+"a Beautiful, Perfect, Gorgeous Day",
+"Revelation",
+"Realization",
+"Being",
+"Light in my Heart",
+"Purity",
+"Essence",
+"Source",
+"Christ",
+"Christening",
+"this Precious Gift of Life",
+"this Insightful Revealing Insight",
+"this profound Insight",
+"these lessons",
+"this Glorious celebration",
+"Showing me",
+"Interesting Ways",
+"Showing me how to operate as a human Being",
+"moving me towards these amazing possibilities",
+"Showing me this Value!",
+"these Connections",
+"this Power",
+"this Creation",
+"these Rising Crescendos",
+"these Wonderous Changes",
+"this Openness",
+"the Chance to Love",
+"this Safety",
+"this Security",
+"this Stability",
+"these Blessings",
+"this Renewal",
+"this Greatness",
+"this Wealth",
+"these Rivers",
+"this Body",
+"the Highest State of Reality",
+"Spontaneity",
+"the Maker energy",
+"masculinity",
+"femininity",
+"balance",
+"Wholeness",
+"the Source",
+"the Silence",
+"the Currents of Flow",
+"the Awareness",
+"All",
+"Blessing my Life",
+"Always Carrying me",
+"Bringing me back into the next Divine Perfect Moment of Eternity",
+"Working Through me",
+"not abandoning me in the night"
+"pushing and pulling me forward"
+"Showing me signs",
+"Allowing me to learn",
+"Leading me into Creation",
+"Amazing Creative Freedom",
+"this Open Heart, Full of Love and Expansion",
+"Moving me Forward",
+"Allowing me to Write",
+"Endless Inner Truth Expressed and Experienced",
+"Ecstasy",
+"Allowing me to Grow",
+"rescuing me from the darkness",
+"Teaching me better ways",
+"making me a Creative",
+"this Restoration",
+"this Art",
+"Blessing me financially",
+"Real Value",
+"this Creative Flow",
+"Showing me what matters",
+"Taking Care of me",
+"Arising in me",
+"Keeping me Connected",
+"Allowing me to Witness the Beauty",
+"this pen",
+"a song",
+"a dance",
+"gifts",
+"freedoms",
+"music",
+"Sound",
+"sleep",
+"Showing Me the Way back",
+"Keeping me on a beautiful path",
+"Helping me make the Right choices",
+"Being Patient with me and Helping me be Patient with myself",
+"granting the ability to transmute darkness into light",
+"the Light Upon the Hill",
+"this Calm",
+"this Still",
+"the Perfect",
+"Perfection",
+"the Wondrous",
+"the light of Christ Jesus",
+"this Peace",
+"the Beautiful Day",
+"the sacred moment",
+"Helping me believe that I am deserving of Blessings",
+"Helping me feel Deserving of Blessing"
+"Blessing me",
+"Supporting me",
+"Freeing me",
+"Sustaining me",
+"Keeping me from harm",
+"Allowing me to walk in Kindness",
+"Allowing me to have riches",
+"Teaching me Who I Am",
+"these unforeseen Blessings",
+"Prospering this Life",
+"Allowing me to Live without pride",
+"Giving me Good Intentions",
+"Allowing me to reach out to others",
+"Helping me Create a Better Reality with Thought and Love",
+"this Awakening",
+"Granting me Hope",
+"Granting me Faith",
+"Ambition"
+"Eyes",
+"Ears",
+"skin",
+"Water"
+"Earth",
+"the Smooth",
+"the Flow",
+"hills",
+"Ripples",
+"Streams",
+"vineyards",
+"Fruits",
+"the heavens",
+"Heaven",
+"the Endless Skies Above",
+"Heaven on Earth",
+"the sunrise",
+"Sunlight",
+"the Moonlight",
+"the Ocean",
+"clear crystaline waters",
+"the Father",
+"the Mother",
+"the Son",
+"the Holy Spirit",
+"Loving Beings",
+"Angels",
+"Truth",
+"food",
+"my life",
+"my soul",
+"your life",
+"your soul",
+"humanity",
+"Solace",
+"Blessing every part of my Life",
+"this beautiful divine Glorious Abundant Prosperous Magical Blessed Fulfilled Peaceful Loving Day",
+"making me Amazing",
+"Restoring my and Flourishing my sensuality and sexuality",
+"turning my Focus Towards the Love of Creation",
+"Replacing my fear of other with Strength, Power, Humility, Surrender, Love, Joy, Goodwill, Blessing for others",
+"Healing and Warmth and real Peace and Comfort Inside and Making Me Whole",
+"Connecting me to Nature and Beauty and Life",
+"Pouring Out my Heart, Your Heart, Out Onto the Entire Earth",
+"melting the old to bring the new",
+"Protecting me Through hardship and struggle and strife",
+"the Moving Ocean, More Abundant in Riches than Crystal Diamonds",
+"Changing me",
+"Staying with me",
+"Comforting me",
+"Your Trust"
+"Your Spirit",
+"Your Wonderous Abundance of All Good Things",
+"Filling my soul",
+"Showing me Beauty",
+"This",
+"this Hope and Faith and Trust to Stand on",
+"Restoring my Spirit",
+"Caring about me",
+"Guiding My Life",
+"Restoring Me",
+"Making me this way",
+"Radiance",
+"Watering my Gardens with Fresh Springs",
+"my cup overflows",
+"Always Being With me",
+"Allowing me to Hold Onto what is Precious",
+"Filling Every Moment with So Much! So Much Unfathomable Greatness and Life and Meaning and Truth",
+"Opening my eyes to this Precious Perfect Moment in Eternity",
+"Allowing me to Confide in Your Embrace",
+"Setting my eyes on that which You Love",
+"Creating me to Be a Being that Loves what You Love",
+"Showing me how to walk",
+"blessing me in truth",
+"my Clarity of Speech",
+"this Renewal of Mind, Soul, Body, Spirit",
+"the Hidden Depths",
+"the Secret Beauties and Treasures",
+"Allowing me to Have this Love for You I so desperately needed", //I need you
+"Making All Things Possible for me",
+"Teaching me how to Trust You in my Heart and Soul",
+"Allowing Have Safety and Trust in Rest"
+"Restoring my Mind",
+"Teaching Me to Appreciate You and Blessing at Every Level of my Life",
+"Turning my Focus to Divine Love",
+"Revealing my Authenticity",
+"Teaching me to Find Treasure hidden in the depths of my soul",
+"Teaching me How to Establish a Relationship with my Heart"
+"Allowing me to Access Wisdom and Higher Meaning",
+"Strengthening me from Within",
+"Teaching me How to Change, How to Let Go, How to Be",
+"Teaching me How to Calm the Storms in my soul",
+"Allowing me to Live in a world in which others desire to See and Hear me",
+"Making me Wealthier than I could Imagine",
+"Teaching me how to Cultivate a Garden of Thought in the mind",
+"Teaching me how to Drink from the Rivers and Waters and Springs",
+"Let this Love Penetrate Through my Existence",
+"the Sacred Word",
+"Allowing me to fall in Love with Love itself"
 ]
-
-#'thank you for' + word + and

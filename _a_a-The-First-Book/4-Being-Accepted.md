@@ -1,12 +1,10 @@
----
-layout: post2
-edited: yes
-post:  yes
-link: to acceptance
----
+Acceptance -
 
-It has dawned on me that my desire to be accepted is not a worthwhile goal.
-I understand now that I am and can be accepted. I am always accepted, conditionally, to the extent that what I say and do is understood. When the content of my words matches that which exists within a sphere of known wisdom, I am embraced.
+The desire to be accepted is not a worthwhile goal.
+It must be understood that you are and can always be accepted.
+
+I am always accepted, conditionally, to the extent that what I say and do is understood. 
+When the content of my words matches that which exists within a sphere of known wisdom, I am embraced.
 
 It is that which is new, that which generates confliction, contention, that that has not been understood, what has not yet been made known that exists outside that sphere of comfort, the space in which fear and possibility reside.
 

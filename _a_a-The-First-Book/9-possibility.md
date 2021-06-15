@@ -1,7 +1,6 @@
 ---
-layout: post
-author:
-title:
+possibility-navigation can lead into this,
+this is the demonstration of the principle im speaking of 
 ---
 
 ![](/assets/earth4.png)
@@ -18,7 +17,7 @@ I begin to find some of my words getting through. Not only to him, but reaching 
 
 A shroud of fog and headaches hiding in the outer rims of my psyche are noticed. They subsequently dissipate into nanoparticles and evaporate.
 
-Amidst this newfound head change lingers that ever present fear of appearing "untough", vulnerable. Opening my heart by speaking of such soft things as love and care leaves me feeling potentially susceptible to attack, exposed where sharp evils can prick the places that are usually under the protection of years of inner walls and defenses. 
+Amidst this newfound head change lingers that ever present fear of appearing "untough", vulnerable. Opening my heart by speaking of such soft things as love and care leaves me feeling potentially susceptible to attack, exposed where sharp evils can prick the places that are usually under the protection of years of inner walls and defenses.
 
  exposed and  speaking of such soft things as love and care. This is my fear of rejection for reaching out, of judgement, of repercussions from the mistake of changing ones opinion of me. ... as if I were an alien dancer, rocking rainbow sleeves walking into a stuffy grey courtroom. The fear of being stricken by a deaf ear as a connection closes, when the repetitive game of sounds ends on a final note.
 

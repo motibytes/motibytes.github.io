@@ -1,4 +1,6 @@
-put towards the end and simplify as a call to action 
+--what to do to change the world 
+
+put towards the end and simplify as a call to action
 
 The love you have been seeking your entire life is your biggest fear.
 

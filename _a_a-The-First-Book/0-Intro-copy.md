@@ -1,14 +1,20 @@
----
-layout: post
-author: James Bytes
-edited: no
----
 
-## Introduction
+## Intro
 
-The secrets of this life are found in the most simple of statements. The truths governing our realities are regarded as common sense, basic fundamentals that are hammered into us from every direction, each  fighting for our attention. They are manifested throughout each of our personal stories. Their meanings evolve as we experience more and reach new heights of conceptual understanding. To save pain and the waste of precious time, we attempt to pass these truths down through every medium imaginable, often through texts such as bibles and doctrines. Yet, it seems instead of gaining pure wisdom, we are simply overloaded with masses of information that are, at large, useless to us in any practical manner until we have gained the prerequisite experience to have learned the meaning of such information the hard way. <!-- After all, how does one appreciate something they have not come to accept for themselves? -->
+The secrets of this life are found in the most simple of statements.
+The truths governing our realities are regarded as common sense,
+basic fundamentals that are hammered into us from every direction,
+each fighting for our attention.
 
-You'll find these same truths in every walk of life and culture throughout history, albeit worded ever so slightly differently in varying ways. It is a tedious search to find what is relevant to our unique lives in an external world has no shortage of wisdom to offer. Most of us are guided towards religions and methodologies that elevate particular truths to a profound, mystical level. In doing so, followers of such approaches are inadvertently gifted a reliable tool that can be handily carried throughout the battles of their lives.
+They are manifested throughout each of our personal stories. Their meanings evolve as we experience more and reach new heights of conceptual understanding.
+To save pain and the waste of precious time, we attempt to pass these truths down through every medium imaginable, often through texts such as bibles and doctrines.
+Yet, it seems instead of gaining pure wisdom, we are simply overloaded with masses of information that are, at large, useless to us in any practical manner until we have gained the prerequisite experience to have learned the meaning of such information the hard way.
+<!-- After all, how does one appreciate something they have not come to accept for themselves? -->
+
+You'll find these same truths in every walk of life and culture throughout history, albeit worded ever so slightly differently in varying ways.
+It is a tedious search to find what is relevant to our unique lives in an external world has no shortage of wisdom to offer.
+Most of us are guided towards religions and methodologies that elevate particular truths to a profound, mystical level.
+In doing so, followers of such approaches are inadvertently gifted a reliable tool that can be handily carried throughout the battles of their lives.
 
 <!--
 This tool is namely the incidental memorization of highlighted truths. Prioritized wisdom becomes instantly recallable in a crisis. It can burden the responsibility of making moral choices. Throughout the years, such a targeted focus can help mold a foundational identity. Unfortunately, such a resource can only extend so far and can become a set of crutches.

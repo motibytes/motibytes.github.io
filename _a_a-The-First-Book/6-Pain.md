@@ -63,9 +63,7 @@ Our villains are the parts of us we hide from. What we're really all hiding from
 truth that none of this is real. That everything we hear and perceive and sense is a lie created by our
 own minds.
 
-pain is part of this illusion. once you break out of it, it's..something else
-entirely...
-
 
 
 ....
+leads into death? 

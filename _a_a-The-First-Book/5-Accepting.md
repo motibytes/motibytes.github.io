@@ -1,9 +1,4 @@
----
-layout: post
-author: James Bytes
-title:
-book: chapter 4
----
+
 
 How can we love others when they are so different from us? How can we love others when they are in the wrong?
 

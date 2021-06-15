@@ -1,10 +1,4 @@
----
-layout: post
-edited: yes
-reedited: yes!
-reposted: yes
-linked: navigating-possibility 
----
+---keep it short
 
 In life, we struggle to connect. There can be a paradoxical relationship where the more we attempt to communicate, the more isolated we feel, a vicious, painful and lonely cycle.
 

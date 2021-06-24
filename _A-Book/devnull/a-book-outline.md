@@ -1,4 +1,6 @@
 grab the articles take what's available from the site and throw it all together in a document. Easy.
+^ this has been done. this file is dead. 
+
 
 you can remake the outline with what you think is relevant and noteworthy to keep in this. Remember this is only your first collection of writings,
 it doesn't need to have everything. Just the simple teachings, what's ready now.

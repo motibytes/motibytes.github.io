@@ -1,3 +1,7 @@
+---
+layout: post
+---
+
 Wrap me in letters!
 Look at I-nsecurity,
 cloth me in ink skin,
@@ -27,4 +31,4 @@ my unrest.
 Unknown glass, protect my food for the sensible one.
 
 Sacred Imitation, Unstained, my catch, beheld.
-Cupped flight-ling. Breathe. Leap. 
+Cupped flight-ling. Breathe. Leap.

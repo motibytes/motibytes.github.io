@@ -4,7 +4,7 @@ layout: post
 
 
 
-{% highlight bash %}
+{% highlight plaintext %}
 
 Wrap me in letters!
 Look at I-nsecurity,
@@ -39,6 +39,7 @@ Cupped flight-ling. Breathe. Leap.
 
 {% endhighlight %}
 
+<!--
 
 Wrap me in letters!
 
@@ -99,3 +100,5 @@ Unknown glass, protect my food for the sensible one.
 Sacred Imitation, Unstained, my catch, beheld.
 
 Cupped flight-ling. Breathe. Leap.
+
+--> 

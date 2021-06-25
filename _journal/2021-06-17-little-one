@@ -2,6 +2,9 @@
 layout: post
 ---
 
+
+{% highlight plaintext %}
+
 A light spirit came by and rested in my heart,
 
 
@@ -49,3 +52,5 @@ Such a feeling I cannot believe I felt, myself I am sure without any doubt! A vo
 it came running this way! It approached as you left, it hopped the line when you passed by.
 
 So do you end? Do You Forget? Can I carry you with me? Love? Love? You are, Love!
+
+{% endhighlight %}

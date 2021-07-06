@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post2
 ---
 
 Brother says, you already know what I believe. You already know everything I think.

@@ -8,4 +8,4 @@ If the establishment remains established, it will not see what I see, and so my 
 
 Of all the light and creativity and fun you could have poured into writings, and instead you left this.
 
-And then you remember pain walked with you nearly every step of the journey. 
+And then you remember pain took each step with you. And you remember that this waste is your evidence of survival. 

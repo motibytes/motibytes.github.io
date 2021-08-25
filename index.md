@@ -2,27 +2,31 @@
 layout: testme
 ---
 
-I am the creator of [The Life Game](https://thelifega.me) and [SorceRawr.com](https://SorceRawr.com). <br>
+I am James, a perspective changing artist and wordsmith.
+Thank you for stopping by.  
 
-I love to build and write, and share and strive for mastery in all things.
+Sites -  
+  [BytesTheBlessed.com](https://bytestheblessed.com) - Coming Soon
+  [SorceRawr.com](https://SorceRawr.com)
+  [LightDark.art](https://LightDark.art)
 
-This site is filled with [projects](/projects.html) and [articles](/bytes_.html) that I'd love to share with you!  
+Social -    
+  [Twitter](https://twitter.com/BytesTheBlessed)
+  [Are.na](https://www.are.na/james-the-blessed)
+  [Instagram](www.instagram.com/bytes_the_blessed)
+  [Facebook](https://www.facebook.com/jamestheblessed)
+  [OpenSea](https://opensea.io/Bytes_The_Blessed)
+  [Goodreads](https://www.goodreads.com/user/show/135257757-james-the-blessed)
 
+The student of wisdom, a teacher of life secrets, I love to build and write. I share and strive for mastery in all things,
+as an eternally changing being of creativity.
 
-<!--
-[testing](/projects_The_Updater.html)
-This site is a collection of my [projects](./projects.html), my [plans](./about.html), and [a byte-sized blog](./bytes_landing.html).
--->
+This site is also filled with [articles](/bytes_.html) that I'd love to share with you!  
+
 <br>
-
 <br>
-
 <br>
-
 <br>
-
 <br>
-
-
 
 {% include recentposts.html %}

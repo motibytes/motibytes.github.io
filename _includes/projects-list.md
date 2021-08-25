@@ -1,23 +1,5 @@
-# Projects
-
-
-<dt>&nbsp;</dt>
-<dt>Bible Scripture Generator (In Active Development)</dt>
-<dd><a href="/projects_scripture.html">Get a random verse from the bible.</a> </dd>
-
-<dt>&nbsp;</dt>
-<dt>The Life Game (In Development) </dt>
-<dd><a href="https://thelifega.me">Home Page</a> </dd>
-
-<dt>&nbsp;</dt>
-<dt>SorceRawr.com </dt>
-<dd><a href="https://sorcerawr.com">Curated Content and Crypto</a></dd>
-<dt>&nbsp;</dt>
-<!--
-<dt>&nbsp;</dt>
-<dt>Crypto Gains Calculator</dt>
-<dd><a href="/projects_crypto_calculator.html">under construction</a> </dd> -->
-
+# Current Projects
+  You can usually find my latest ambitions on [social media and my other websites](https://jamesbyt.es)
 # Older Projects
 
 <dt>&nbsp;</dt>

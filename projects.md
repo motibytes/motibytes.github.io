@@ -22,8 +22,6 @@ My focus is creation.
   <button id="my-form-button">Send</button>
   <p id="my-form-status"></p>
 </form>
-You can also find me on [Facebook](https://www.facebook.com/james.bytes.73).
-
 
 <script>
   window.addEventListener("DOMContentLoaded", function() {

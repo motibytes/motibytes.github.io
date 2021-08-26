@@ -10,8 +10,8 @@ layout: testme
   * [LightDark.art](https://LightDark.art)
 
 * Social - <br>
-  * [Twitter](https://twitter.com/BytesTheBlessed)
   * [Are.na](https://www.are.na/james-the-blessed)
+  * [Twitter](https://twitter.com/BytesTheBlessed)
   * [Instagram](www.instagram.com/bytes_the_blessed)
   * [Facebook](https://www.facebook.com/jamestheblessed)
   * [OpenSea](https://opensea.io/Bytes_The_Blessed)

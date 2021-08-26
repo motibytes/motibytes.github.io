@@ -5,6 +5,8 @@ layout: testme
 I am James, a perspective changing artist and wordsmith.
 Thank you for stopping by.  
 
+<br>
+
 * Sites -  
   * [BytesTheBlessed.com](https://bytestheblessed.com) - Coming Soon
   * [SorceRawr.com](https://SorceRawr.com)
@@ -21,13 +23,12 @@ Thank you for stopping by.
 The student of wisdom, a teacher of life secrets, I love to build and write. I share and strive for mastery in all things,
 as an eternally changing being of creativity.
 
+<br>
+
 This site is also filled with [articles](/bytes_.html) that I'd love to share with you!  
 
 <br>
 <br>
 <br>
 <br>
-<br>
-<!--
-{% include recentposts.html %}
--->
+<br> <!-- {% include recentposts.html %} -->

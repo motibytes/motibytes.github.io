@@ -3,8 +3,6 @@ layout: noheader
 ---
 
 
-I am a writer, designer, free thinker.
-My focus is creation.
 
 
 {% include projects-list.md %}

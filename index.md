@@ -17,7 +17,7 @@ layout: testme
   * [OpenSea](https://opensea.io/Bytes_The_Blessed)
   * [Goodreads](https://www.goodreads.com/user/show/135257757-james-the-blessed)
 
-The student of wisdom, a teacher of life secrets, I love to build and write. I share and strive for mastery in all things,
+The student of wisdom, a teacher of life secrets, I love to build and write and give. I share and strive for mastery in all things,
 as an eternally changing being of creativity.
 
 <br>

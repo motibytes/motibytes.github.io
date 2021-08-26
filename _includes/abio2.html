@@ -1,0 +1,33 @@
+<div style="display:inline;" id="biotwo" class="biotwo">
+
+The student of Wisdom, a teacher of secrets, I love to build and to <a href="javascript:void(0)" onclick="m2('write and to give')">write and to give</a>.
+</div>
+<!--  <a href="javascript:void(0)" onclick="m2(' ')">  </a>
+                                                                         see and to hear
+                                                                         know and to wonder
+                                                                         cultivate and to care
+                                                                         nurture and to know
+                                                                         plant and to grow
+                                                                         rest and to bless.
+-->
+
+  I am James Tyler Bytes, a perspective artist and wordsmith.
+</div><br>
+<script>
+function m2(identifier) {
+  if (identifier=='changing') {
+    text = '   <a href=\"javascript:void(0)\" onclick=\"m2(\' \')\"> perspective </a> and a wordsmith.'
+    magic2(text)
+  }
+  else if (identifier=='perspective') {
+    text = 'I am James T. Bytes\, a perspective <a href=\"javascript:void(0)\" onclick=\"m2(\'changing\')\">changing </a> artist and wordsmith. Thank you for stopping by!'
+    magic2(text)
+  }
+}
+function magic2(wordagain) {
+    var text = `<div style=" ">
+          ${wordagain} <br>
+          </div>`
+    $("." + 'biotwo').html(text);
+}
+</script>

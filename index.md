@@ -5,7 +5,7 @@ layout: testme
 <br>
 
 * Sites -  <br>
-  * [BytesTheBlessed.com](https://bytestheblessed.com) - soon
+  * [BytesTheBlessed.com](https://bytestheblessed.com) - soon.tm
   * [SorceRawr.com](https://SorceRawr.com)
   * [LightDark.art](https://LightDark.art)
 
@@ -17,16 +17,7 @@ layout: testme
   * [OpenSea](https://opensea.io/Bytes_The_Blessed)
   * [Goodreads](https://www.goodreads.com/user/show/135257757-james-the-blessed)
 
-
-The student of wisdom, a teacher of life secrets, I love to build and to write and to give.
-<!--
-                                                                         see and to hear
-                                                                         know and to wonder
-                                                                         cultivate and to care
-                                                                         nurture and to know
-                                                                         plant and to grow
-                                                                         rest and to bless.
--->
+{% include abio2.html %}
 
 <br>
 

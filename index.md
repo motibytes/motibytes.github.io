@@ -28,5 +28,6 @@ This site is also filled with [articles](/bytes_.html) that I'd love to share wi
 <br>
 <br>
 <br>
-
+<!--
 {% include recentposts.html %}
+-->

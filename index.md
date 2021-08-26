@@ -22,7 +22,7 @@ as an eternally changing being of creativity.
 
 <br>
 
-This site is also filled with [articles](/bytes_.html) that I'd love to share with you!  
+This site is also filled with [articles](/bytes.html) that I'd love to share with you!  
 
 <br>
 <br>

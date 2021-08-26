@@ -1,0 +1,28 @@
+<script type='text/javascript' src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+<div style="display:inline;" id="start" class="start">
+
+  I am James Tyler, a perspective <a href="javascript:void(0)" onclick="m('changing')">changing </a> artist and wordsmith.
+  Thank you for stopping by.
+</div><br>
+<script>
+function m(identifier) {
+  if (identifier=='changing') {
+    text = 'I am James, an artist changing <a href=\"javascript:void(0)\" onclick=\"m(\'perspective\')\"> perspective </a> and a wordsmith.
+    Thank you for stopping by.'
+    console.log(text)
+    magic(text)
+  }
+  else if (identifier=='perspective') {
+    text = 'I am James, a perspective <a href=\"javascript:void(0)\" onclick=\"m(\'changing\')\">changing </a> artist and wordsmith.
+    Thank you for stopping by.'
+    magic(text)
+  }
+}
+function magic(wordagain) {
+    var text = `<div style=" ">
+          ${wordagain} <br>
+          </div>`
+    $("." + 'start').html(text);
+}
+</script>

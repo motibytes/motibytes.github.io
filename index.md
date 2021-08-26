@@ -2,17 +2,19 @@
 layout: testme
 ---
 
+include abio.html 
+
 I am James, a perspective changing artist and wordsmith.
 Thank you for stopping by.  
 
 <br>
 
-* Sites -  
-  * [BytesTheBlessed.com](https://bytestheblessed.com) - Soon
+* Sites -  <br>
+  * [BytesTheBlessed.com](https://bytestheblessed.com) - soon
   * [SorceRawr.com](https://SorceRawr.com)
   * [LightDark.art](https://LightDark.art)
 
-* Social -    
+* Social - <br>
   * [Twitter](https://twitter.com/BytesTheBlessed)
   * [Are.na](https://www.are.na/james-the-blessed)
   * [Instagram](www.instagram.com/bytes_the_blessed)

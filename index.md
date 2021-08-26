@@ -5,12 +5,12 @@ layout: testme
 <br>
 
 * Sites  <br>
-  * [BytesTheBlessed.com](https://bytestheblessed.com) Coming Soon.. 
+  * [BytesTheBlessed.com](https://bytestheblessed.com) Coming Soon..
   * [SorceRawr.com](https://SorceRawr.com)
   * [LightDark.art](https://LightDark.art)
 
 * Social <br>
-  * [Are.na](https://www.are.na/james-the-blessed)
+  * [Are.na](https://www.are.na/james-the-blessed/blessed-bytes)
   * [Twitter](https://twitter.com/BytesTheBlessed)
   * [Instagram](www.instagram.com/bytes_the_blessed)
   * [Facebook](https://www.facebook.com/jamestheblessed)

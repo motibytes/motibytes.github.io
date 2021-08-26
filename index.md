@@ -8,7 +8,7 @@ Thank you for stopping by.
 <br>
 
 * Sites -  
-  * [BytesTheBlessed.com](https://bytestheblessed.com) - Coming Soon
+  * [BytesTheBlessed.com](https://bytestheblessed.com) - Soon
   * [SorceRawr.com](https://SorceRawr.com)
   * [LightDark.art](https://LightDark.art)
 

@@ -129,7 +129,9 @@ header h2 {
 
 #container {
   min-height: 595px;
-  background: transparent url(../images/highlight-bg.jpg) 50% 0 no-repeat;
+  /*background: transparent url(../images/highlight-bg.jpg) 50% 0 no-repeat; */
+	font-family: 'Homemade Apple', cursive;
+	background-color: #fffbf3;
 }
 
 .inner {

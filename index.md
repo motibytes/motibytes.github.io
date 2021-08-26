@@ -5,7 +5,7 @@ layout: testme
 I am James, a perspective changing artist and wordsmith.
 Thank you for stopping by.  
 
-<br> Add the textarea
+<br>
 
 * Sites -  
   * [BytesTheBlessed.com](https://bytestheblessed.com) - Soon
@@ -31,4 +31,4 @@ This site is also filled with [articles](/bytes_.html) that I'd love to share wi
 <br>
 <br>
 <br>
-<br> 
+<br>

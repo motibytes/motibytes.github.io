@@ -17,17 +17,16 @@ layout: testme
   * [OpenSea](https://opensea.io/Bytes_The_Blessed)
   * [Goodreads](https://www.goodreads.com/user/show/135257757-james-the-blessed)
 
-include bio 2
+
 The student of wisdom, a teacher of life secrets, I love to build and to write and to give.
+<!--
                                                                          see and to hear
                                                                          know and to wonder
                                                                          cultivate and to care
                                                                          nurture and to know
                                                                          plant and to grow
-                                                                         rest and to bless. 
-
-I share and strive for mastery in all things,
-as an ever changing being of creativity.
+                                                                         rest and to bless.
+-->
 
 <br>
 

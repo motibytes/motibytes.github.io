@@ -1,5 +1,7 @@
 # Current Projects
-  You can usually find my latest ambitions on [social media and my other websites](https://jamesbyt.es)
+
+  You can find my latest ambitions on [my websites](https://jamesbyt.es).
+
 # Older Projects
 
 <dt>&nbsp;</dt>

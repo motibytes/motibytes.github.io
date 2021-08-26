@@ -2,11 +2,6 @@
 layout: testme
 ---
 
-include abio.html 
-
-I am James, a perspective changing artist and wordsmith.
-Thank you for stopping by.  
-
 <br>
 
 * Sites -  <br>

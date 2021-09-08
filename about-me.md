@@ -7,6 +7,7 @@ layout: testme
 I am James T. Bytes, a perspective changing artist and interactive wordsmith.
 I am the owner of SorceRawr.com and BytesTheBlessed.com.
 As a creative, I present perspectives that I love.
+I am a student of wisdom and I am a flowing, eternally changing being of creativity.
 
 * Sites  <br>
   * [dearbeloved.io](https://dearbeloved.io)

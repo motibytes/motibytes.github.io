@@ -2,7 +2,7 @@ title: James Byt.es
 description: a byte-sized blog
 url: https://www.jamesbyt.es
 twitter:
-  username: BytesJames
+  username: BytesTheBlessed
   card: summary
 show_downloads: true
 google_analytics: UA-133451816-2
@@ -11,9 +11,9 @@ social:
    links:
       - https://www.instagram.com/motibyt3s/
       - https://www.patreon.com/motibytes
-      - https://twitter.com/bytesjames
-      - https://www.facebook.com/jamesbyt3s/
-      - https://github.com/kuz3/
+      - https://twitter.com/BytesTheBlessed
+      - https://www.facebook.com/jamestheblessed/
+      - https://github.com/motibytes/
 plugins:
   - jekyll-sitemap
 comments:

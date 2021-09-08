@@ -4,11 +4,13 @@ layout: testme
 
 <br>
 
-{% include acube.html %}
+I am James T. Bytes, a perspective changing artist and interactive wordsmith.
+I am the owner of SorceRawr.com and BytesTheBlessed.com.
+As a creative, I present perspectives that I love.
 
 * Sites  <br>
-  * [dearbeloved.io](https://dearbeloved.io) Coming Soon..
-  * [BytesTheBlessed.com](https://bytestheblessed.com) Coming Soon..
+  * [dearbeloved.io](https://dearbeloved.io)
+  * [BytesTheBlessed.com](https://bytestheblessed.com)
   * [SorceRawr.com](https://SorceRawr.com)
   * [LightDark.art](https://LightDark.art)
 

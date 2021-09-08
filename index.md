@@ -31,3 +31,5 @@ This site is also filled with [articles](/bytes.html) that I'd love to share wit
 <br>
 <br>
 <br>
+
+{% include schema.html %}

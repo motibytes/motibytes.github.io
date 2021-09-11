@@ -7,13 +7,6 @@ twitter:
 show_downloads: true
 google_analytics: UA-133451816-2
 theme: jekyll-theme-tactile
-social:
-   links:
-      - https://www.instagram.com/motibyt3s/
-      - https://www.patreon.com/motibytes
-      - https://twitter.com/BytesTheBlessed
-      - https://www.facebook.com/jamestheblessed/
-      - https://github.com/motibytes/
 plugins:
   - jekyll-sitemap
 comments:

@@ -7,8 +7,8 @@ layout: testme
 {% include acube.html %}
 
 * Sites  <br>
-  * [dearbeloved.io](https://dearbeloved.io) Coming Soon..
-  * [BytesTheBlessed.com](https://bytestheblessed.com) Coming Soon..
+  * [dearbeloved.io](https://0xdivi.art/) 
+  * [divicorner.art](https://divicorner.art/)
   * [HeroOrVillain](https://heroorvillain.io) Coming Soon..  
   * [SorceRawr.com](https://SorceRawr.com)
   * [LightDark.art](https://LightDark.art)

@@ -7,9 +7,9 @@ layout: testme
 {% include acube.html %}
 
 * Sites  <br>
-  * [dearbeloved.io](https://0xdivi.art/) 
+  * [0xdivi.art](https://0xdivi.art/) 
   * [divicorner.art](https://divicorner.art/)
-  * [HeroOrVillain](https://heroorvillain.io) Coming Soon..  
+  * [HeroOrVillain](https://heroorvillain.io) [Unreleased]  
   * [SorceRawr.com](https://SorceRawr.com)
   * [LightDark.art](https://LightDark.art)
 
